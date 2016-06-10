@@ -1,0 +1,2372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0708011S</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Industrial Preparedness</r2:ProgramElementTitle>
+        <r2:R1LineNumber>237</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Defense Logistics Agency</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>89.470</r2:AllPriorYears>
+            <r2:PriorYear>20.405</r2:PriorYear>
+            <r2:CurrentYear>22.605</r2:CurrentYear>
+            <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>The Defense Logistics Agency (DLA) Industrial Preparedness Manufacturing Technology (IP ManTech) Program supports the development of a responsive, world-class manufacturing capability to affordably meet the warfighters’ needs throughout the defense system life cycle.  IP ManTech: Provides the crucial link between invention and product application to speed technology transitions.  The program matures and validates emerging manufacturing technologies to support low-risk implementation in industry and Department of Defense (DoD) facilities, e.g. depots and shipyards.  It addresses production issues early by providing timely solutions, thereby reducing risk and positively impacting system life cycle affordability by providing solutions to manufacturing problems before they occur.  
+
+Beginning in FY 16 DLA ManTech was realigned into three Strategic Focus Areas (SFA): 1) Improving Industrial base Manufacturing Processes; 2) Maintaining Viable Sources of Supply; and 3) Improving Technical and Logistics Information.  
+•	The Improving Industrial Base Manufacturing Processes SFA includes efforts to reduce industrial base material costs and production lead-times, while improving the quality of DLA managed products. This SFA subsumed the former supply chain oriented efforts in  Subsistence Network (formerly Combat Rations Network for Technology Implementation), Procurement Readiness Optimization—Advanced Casting Technology (PRO-ACT), Procurement Readiness Optimization—Forging Advance System Technology (PRO-FAST), and Battery Network (BATTNET). New manufacturing processes within the scope of this SFA include emerging technologies such as Additive Manufacturing.  
+•	Maintaining Viable Supply Sources includes efforts to assure the commercial industrial base can satisfy DLA materiel requirements. This SFA subsumed the Material Acquisition Electronics ManTech efforts.  In the future it will include other DLA efforts to maintain a viable industrial capability in areas such as Strategic Materials. 
+•	The Improving Technical and Logistics Information SFA include efforts to improve and facilitate the exchange of engineering and logistics information among DLA industry partners and customers. It includes the MANTECH program Military Uniform System Technology (MUST) (formerly Customer Driven Uniform Manufacturing) and the Defense Logistics Information Research Program from P.E. 0603712S.  A primary focus of this SFA is to capitalize on the emerging “Model Based Enterprise” paradigm and the semantic web as an enabler to a logistics system that is smart and connected.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>22.366</r2:PriorYear>
+                <r2:CurrentYear>24.605</r2:CurrentYear>
+                <r2:BudgetYearOne>24.865</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>24.865</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>20.405</r2:PriorYear>
+                <r2:CurrentYear>22.605</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-1.961</r2:PriorYear>
+                <r2:CurrentYear>-2.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-24.865</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-24.865</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalRescissions>
+                    <r2:CurrentYear>-2.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>-1.320</r2:PriorYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-0.641</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Program Fund Realignment from BA07 to BA03 PE 0603680S</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-34.211</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-34.211</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Internal Fund Realignment</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>9.346</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>9.346</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Over the FY 17 $9.346M was realigned to the ManTech PE from the DLA Log R&amp;D PE (0603712S) and DLA Procurement Defense-Wide Fund.  These funds will address critical shortfalls in the Improving Industrial Base Manufacturing Processes and Maintaining Viable Supply Sources.  The largest requirement was in the Maintaining Viable Supply Sources to develop a long-term, reliable source of linear microcircuits.  These devices are critical to maintaining the readiness of front line weapon system electronics.  High priority requirements in the Improving Industrial Base Manufacturing Processes SFA included additional funding for battery technology, castings and forging manufacturing technology.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>1</r2:ProjectNumber>
+                <r2:ProjectTitle>Combat Rations (CORANET)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>6.158</r2:AllPriorYears>
+                    <r2:PriorYear>0.474</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>In 2015, DLA R&amp;D expanded the Combat Rations Network (CORANET) program to include the “Subsistence Supply Chain,” which consists of the supply chain for military subsistence, including combat rations, field feeding equipment, garrison feeding and “market fresh."  The Subsistence Network (SUBNET) Program is a Manufacturing Technology Program and is the successor to the CORANET R&amp;D program. SUBNET will form a community of practice to research and promote manufacturing improvements in the Subsistence Supply Chain with the goals of maximizing capability and capacity to produce and to encourage innovation and modernization needed to leverage the latest technologies. Funding and technical work for the SUBNET program has been reallocated to the Material Availability Strategic Focus Area.   The SUBNET program engages all elements of the supply chain including the producers, military services, Army Natick Soldier Research Development and Engineering Center, United States Department of Agriculture (USDA), US Army Veterinary Command, US Army Public Health Command, DLA Logistics R&amp;D, DLA Troop Support Subsistence and academia to research, leverage, implement, and transition improved technologies in the subsistence supply chain.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Combat Rations (CORANET)</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.474</r2:Funding>
+                                    <r2:Text>Completed phase II (identified products to test) of the Microwave Assisted Thermal Sterilization (MATS) of Group-sized Combat Rations and begin implementation for MATS processing to determine if other rations can benefit from the same pilot process as a second wave of MATS initiatives.  Kick-off of the new short-term project (STP), Meal-Ready to Eat (MRE) Alternate Chemical Resistant Pouch Laminate to identify alternate materials for MRE pouches needed for high acid food products.  Additionally, completed Phase I (establish baseline temperature) and began Phase II (determine food quality degradation system) of the Combat Ration Shelf-Life Temperature Monitoring. Further, completed phase I (establish inspection baseline) and began Phase II, which is to analyze and optimize inspection and propose strategies that will reduce the overall inspection cost associated with combat rations without affecting the quality of the product.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Finalize SUBNET Broad Agency Announcement (BAA). Efforts related to SUBNET have been moved to the Improving Industrial Base Manufacturing Processes (formerly Material Availability Strategic Focus Area).</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>N/A</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>The Subsistence Network plan is to execute reductions in cost and/or as applicable improve processes in the subsistence supply chain related to shipping, storage, inventory, waste and inspections, and quality of products, as well as reduce lead times for combat ration production, field feeding equipment, garrison feeding and market fresh (bread and dairy) products.
+
+Specific technical achievements of the Microwave Assisted Thermal Sterilization (MATS) project will include demonstrating MATS production capability to sterilize group-sized entrees and components, packaged in institutional sized pouches and polymeric trays. Rations processed through MATS should offer substantial cost benefits over current retorted or thermally processed rations due to fast heating rate, high energy efficiency, increased production, reduced labor, improved quality, and a flexibility of differential heating for multi-components trays or pouches to preserve the optimal quality of individual components.  MATS will also produce products with better taste and texture, higher nutrient retention, longer shelf life, greater menu variety, and ultimately greater consumption of rations and less food waste.  
+
+Specific technical achievements of the MRE Alternate Chemical Resistant Pouch Laminate will include evaluating various alternate sealant layers and test them for acid resistance, as well as overall performance in the MRE ration ultimately leading to the identification and production of alternate sealant layers for high acidic foods. The project will mitigate current risks in the material supply chain and establish reliable production for advanced pouch materials. Additionally, through this project the use of glass bottles for hot sauce and eliminating pouches for more viscous products such as ketchup and mustard that might not have a three-year shelf life.  
+
+Specific technical achievements of the Combat Rations Shelf Life Temperature Monitoring will include achieving a level of new regulatory compliance via monitoring temperature variations in the San Joaquin, CA warehouse where subsistence is being stored and assembled into Unitized Group Rations. The results will identify a range of cost effective device solutions and storage mediation practices. The solution sets will determine shelf life (food quality and safety) degradation to ration components (pre and post assembly) and improve information to the customer.
+
+Specific technical achievements of the Optimize Combat Rations Inspection Costs will include reducing inspection cost performed by two government agencies and ration producer through the elimination of duplicate tests for the same quality attribute that is performed.  Based on internal reviews and assessments, proposed solutions will be identified and further evaluated for optimal inspection frequencies and sample sizes in order to minimize cost while maintaining quality and safety goals. The optimized inspection methods that show the most promising strategies and solutions (biggest cost impacts) and quickest return on investment without sacrificing overall product quality for the customer will be verified.
+
+At least 50% of the completed short-term projects will transition in 2016, and OSD-C financial metrics (obligation and disbursement) will be achieved.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Rutgers State University of New Jersey Division of Grants &amp; Contract Accounting</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>NJ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>2.800</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.200</r2:Amount>
+                                            <r2:AwardDate>2015-04</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Alion Science and Technology Corporation</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>IL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.274</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Clemson University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.180</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Michigan State University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MI</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.040</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>SOPAKO Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.040</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>University of Illinois</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>IL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.420</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>University of Tennessee</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TN</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.620</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Washington State University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.420</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Cadillac Products Inc.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MI</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.220</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Oregon Freeze Dry Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>OR</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.040</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Research and Development Associates</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TX</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.040</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>The Wornick Company</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>AL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.434</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Sterling Foods</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TX</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.320</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Virginia Polytechnic Institute and State University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.040</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Combat Rations -- Scientific Engineering and Technical Assistance (SETA)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FP</r2:ContractType>
+                                    <r2:PerformingActivity>Male Duck Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.200</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Combat Rations -- Scientific Engineering and Technical Assistance (SETA)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FP</r2:ContractType>
+                                    <r2:PerformingActivity>Analytic Strategies Inc.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.344</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Optimize Combat Rations Inspection Costs</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Combat Rations Shelf Life Temperature Monitoring</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Meals, Ready to Eat Alternate Chemical Resistant Pouch Laminate</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Microwave Assistant Thermal Sterilization (MATS)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2013</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>2</r2:ProjectNumber>
+                <r2:ProjectTitle>Customer Driven Uniform Manufacture (CDUM)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>15.175</r2:AllPriorYears>
+                    <r2:PriorYear>3.324</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The Department of Defense, through the Defense Logistics Agency, spends upwards of $2 billion per year on military uniforms and individual equipment. The lead-time is up to 15 months for these items. The CDUM program concluded in October 2014, and the results have been implemented DOD wide for recruit items. Residual CDUM projects have been transitioned into the Military Unique Sustainment Technology (MUST) Program. The MUST Program was initiated in 4th quarter 2014. The strategic objective of the DLA MUST program is to identify, develop and adopt technologies that can significantly reduce the lead-time between Individual Item and Equipment (IIE) development and sustainment from years to months. The Program focuses on technologies that will transform the military IIE supply chain from an “electronic paper” (i.e. PDF/MS Word) based, manual environment into a knowledge based automated environment. The resulting approach will be a neutral platform that will seamlessly communicate military unique technical requirements throughout the end to end supply chain.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Customer Driven Uniform Manufacture (CDUM)</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.324</r2:Funding>
+                                    <r2:Text>The program has established a roadmap for key technology development areas that will establish knowledge based approach to demonstrate the viability and benefits of the Knowledge Base Approach recommended by the GAO.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Efforts related to Program have been moved to Improving Technical and Logistics Information (formerly Industry and Customer Collaboration) SFA.</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>N/A</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Improved Service collaboration and reduced lead-time to introduce new military uniform and individual equipment items.
+ 
+Improved Service/DLA collaboration on requirement changes and improved communication of those changes to the industrial base.
+
+At least 30% of the completed projects will transition.   
+
+OSD-C financial metrics (obligation and disbursement) will be achieved.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Advantech, Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>2.510</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.967</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Logistics Management Institute</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>3.893</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.358</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>XSB Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>NY</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.910</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.950</r2:Amount>
+                                            <r2:AwardDate>2015-09</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Clemson University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.109</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.015</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>PDIT</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.034</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Patricio Enterprises</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>3.501</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Alion Science and Technology Corp</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>3.237</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>ZWeave Inc.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.015</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>CDUM 1</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>CDUM 2</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MUST 1</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MUST 2</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MUST 3</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MUST 4</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MUST 5</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>3</r2:ProjectNumber>
+                <r2:ProjectTitle>Procurement Readiness Optimization-Advanced System Technology (PRO-ACT)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>10.327</r2:AllPriorYears>
+                    <r2:PriorYear>2.082</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The Castings consortium objective is to develop new materials and technologies for the metalcasting industry to help DLA improve the supply of parts that contain castings. Weapon system spare parts managed by DLA that contain castings are responsible for a disproportionate share of DLA’s backorders or unfilled orders (UFOs).  Cast parts are ~2% of National Stock Numbered Class IX parts but represent ~5% of all backorders, and when only the oldest backorders are considered up to 10% are castings.  This program includes tasks to develop new capabilities in the areas of inspection, materials, processes, modeling, and design.  Once developed these capabilities will support the foundry industry, where the technologies will be tested and implemented in conjunction with the industry associations.  These advancements will improve the metal casting supply chains for the DOD and the DLA to better support the warfighter.  This is achieved through investments in projects aimed at reducing lead-time, reducing cost, and improving quality of castings critical to DOD weapon systems. The increase in funding will help develop new technology for casting suppliers, including inspection, materials, modeling, and design.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Procurement Readiness Optimization-Advanced Casting Technology Accomplishments/Plans</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>2.082</r2:Funding>
+                                    <r2:Text>We nominated the Welding High Strength Cast Steel project for the DOD ManTech Achievement Award and it made the top 5 projects,   This project actually won the DoD ManTech Achievement Award at the Defense Manufacturing Conference 2015 in Dec 2015.  Made good progress on the Lube-Free for Die Castings project, down selecting coating, with some in plant trails to be run in 2nd-3rd quarter FY16.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>In the Lube-Free for Die Castings project tests using the selected coating will be performed during in-plant trails to be run in 2nd-3rd quarter FY16.   Under another project, we also plan to complete the 2nd casting trial of engine airfoils cast using ceramic casting cores, which were Additively Manufactured using Ceramic Stereolithography (CSL). 
+
+Planning to award a new contract for two projects not funded in previous years.  Funding and efforts of the PRO-ACT program were transferred into the Material Availability Strategic Focus Area.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Funding and efforts of the PRO-ACT program were transferred into the Improving Industrial Base Manufacturing Processes Strategic Focus Area.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>Competitive Broad Agency Announcement (BAA) was drafted last FY. The current contracts reached end of base period of performance on September 30, 2014 but option extensions for two years were exercised, so base contracts will expire during FY16.  Period of performance on current contracts end in FY 17.  New BAA is expected to be released in FY16 with contract(s) competitively awarded by 1st QTR FY17.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Reductions in costs and lead-times, as well as improvements in manufacturing materials, processes and business practices in foundries that produce DOD weapon systems parts.  
+ 
+At least 30% of the completed projects will transition.   
+
+OSD-C financial metrics (obligation and disbursement) will be achieved.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Casting Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Advanced Technology International</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>9.435</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.932</r2:Amount>
+                                            <r2:AwardDate>2014-12</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Casting Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Honeywell International Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>AZ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.892</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.050</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Casting Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Global Support Services LLC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>AK</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.100</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Tools for Streamlining Casting Supply Chains</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Defense Casting For Supply Integration and Statistical Properties for MMPDS Standard</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Modeling of Steel Casting Performance Dimensions and Distortion</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Lube-Free Die Casting</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Lightweight High Strength Cast Alloys Process Development</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Additive Manufacturing of Airfoil Investment Casting Cores by Ceramic Stereolithography</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>4</r2:ProjectNumber>
+                <r2:ProjectTitle>Procurement Readiness Optimization-Forging Advanced System Technology (PRO-FAST)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>4.623</r2:AllPriorYears>
+                    <r2:PriorYear>1.004</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The Forgings consortium objective is to develop new materials and technologies for the forging industry to help DLA improve the supply of parts that contain forgings.  Weapon system spare parts managed by DLA that contain Forgings are responsible for a disproportionate share of DLA’s backorders or unfilled orders (UFOs).  Forged parts are ~2% of National Stock Numbered Class IX parts but represent ~5% of all backorders, and when only the oldest backorders are considered up to 10% are forgings.  This program includes tasks to develop new capabilities in the areas of inspection, materials, processes, modeling, and design.  Once developed, these capabilities will support the forging industry, where the technologies will be tested and implemented in conjunction with the industry associations.  These advancements will improve the forging supply chains for the DOD and the DLA to better support the warfighter.  This is achieved through investments in projects aimed at reducing lead-time, reducing cost, and improving quality of forgings critical to DOD weapon systems.  The increase in funding will help develop new technology for forging suppliers, including new methods for making forge dies (typically the longest lead time and most expensive item) and for simulation of metal flow inside the forge die (to eliminate trial and error development of the die).</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Procurement Readiness Optimization-Forging Advanced System Technology Accomplishments/Plans</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.004</r2:Funding>
+                                    <r2:Text>Five new projects were awarded in FY15.  Four were awarded in March 2015:  1)  Innovations in Repair of Forging Dies; 2)
+Large-Scale Forging Die Fabrication in Support of the DLA; 3) Simulation in the Development &amp; Optimization of Advanced Forging Processes; and 4) Forged Fiber Reinforced Alum. Engine Components.  Another project, Cast Forging Preforms, was awarded under the Improved Forging Acquisition Manufacture and Materials (IFAMM) contract.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Funding and efforts of the PRO-FAST program were transferred into the Material Availability Strategic Focus Area.
+Planned accomplishments for FY16 include  completion of the Investigation phase and moving the new projects into the Development Phase.  All projects are being managed under a Stage Gate Process, allowing for termination or alteration if progress is not satisfactory.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Funding and efforts of the PRO-FAST program were transferred into the Improving Industrial Base Manufacturing Processes
+Strategic Focus Area.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>A Competitive Broad Agency Announcement (BAA) was used to competitively award all contracts used to execute these forging projects.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Reduction in lead-time and improvements in manufacturing processes in forging shops that produce DOD weapon systems parts. 
+
+At least 30% of the completed projects will transition.   
+
+OSD-C financial metrics (obligation and disbursement) will be achieved.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Forging Sustainment Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Advanced Technologies Institute</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>4.623</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.800</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Forging Sustainment Manufacturing Technology Process Development</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Alion Science and Technology Corporation</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>IL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.204</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Forging Process Improvement Using Intensive Quenching</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>FORGE-IT, AFCAT, and MetaLFACT for Streamlining Forging Supply Chains</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Innovations in Repair of Forging Dies</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Large-Scale Forging Die Fabrication in Support of the Defense Logistics Agency</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Simulation as an Integral Tool in the Development and Optimization of Advanced Forging Processes</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Forged Fiber Reinforced Aluminum Engine Components</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Improved Forging Acquisition Manufacture and Materials (IFAMM)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>5</r2:ProjectNumber>
+                <r2:ProjectTitle>Material Acquisition Electronics (MAE)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>46.844</r2:AllPriorYears>
+                    <r2:PriorYear>11.552</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>Funding and technical work for the Material Acquisition Electronics (MAE) program has been reallocated to the High Quality Sources Strategic Focus Area.  Develop a capability to emulate most obsolete digital integrated circuits (ICs) in the Federal catalog using a single, flexible manufacturing line.  DoD has estimated $2.9 billion is spent every five years redesigning circuit card assemblies.  Many of these circuit card redesigns are performed to mitigate IC obsolescence.  Commercial ICs have short Product Life Cycles (often only 18 months).  IC Manufacturers subsequently move on to later generations of ICs, leaving little to no sources for their previous IC products.  DoD maintains weapons systems much longer than IC lifecycles, resulting in an obsolescence problem.  In order to avoid costs and potential readiness issues associated with buying/carrying excess inventories acquired before commercial availability ceases, or redesigning the next higher assembly to mitigate the obsolete IC, DLA (as the manager of 88% of the IC Federal Stock Class) must have the capability to manufacture needed IC devices.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Material Acquisition Electronics Accomplishments/Plans</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>11.552</r2:Funding>
+                                    <r2:Text>MAE has transitioned flexible NMOS/PMOS Digital Microcircuit Emulation capability into full-scale production increasing DLA’s ability to re-establish sourcing of non-procurable microcircuit NSNs. The first NSNs produced, support 42 weapon systems, including B-52, A-10, Arleigh Burke DDG, F-16, AWACS, F/A-18, &amp; E/A-18; additional NSNs will be produced across the FYDP and beyond.  MAE also made significant progress in the development of higher density Read-Only and Random-Access Memory, Advanced Emitter-Coupled Logic and Closed-Cell CMOS capabilities which, when transitioned into full-scale production, will further increase DLA’s ability to re-establish sourcing of non-procurable microcircuit NSNs. The newly transitioned emulation capabilities will address several discontinued device families and will increase the potential emulation production envelope by several hundred NSNs.  MAE also initiated new implementations including development of an Advanced Schottky TTL Capability. It will continue prototyping 350 nanometer emulation circuitry, bringing emulation capability that re-establishes sources for additional NSNs</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Funding and efforts associated with Material Acquisition Electronics has been moved to the High Quality Sources SFA for FY 16.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Funding and efforts associated with Material Acquisition Electronics has been moved to the High Quality Sources SFA for FY 16.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>Competitively awarded R&amp;D contract.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Transition of one technology implementation (base array) to low-rate initial production or full-scale production.  Each technology implementation increases the breadth of microcircuit part types which can be returned to a procurable status; improving readiness and avoiding the need to redesign at the next-higher level.  Potential benefit to hundreds of weapon systems.
+
+At least 30% of the completed projects will transition.   
+
+OSD-C financial metrics (obligation and disbursement) will be achieved.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Digital Electronic Device Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>SRI International</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>41.294</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>11.152</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Digital Electronic Device Manufacturing Technology Process Development SETA</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>SPAWARSYSCEN San Diego</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>5.550</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.400</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Dielectrically Isolated TTL</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>128 Kilobit RAM/ROM</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>0.8 Micron PMOS &amp; NMOS</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>0.5 Micron Closed-cell CMOS</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Advanced Emitter-Coupled Logic</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>0.35 CMOS Process Devel. I</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Op Amp Process Devel. I</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Advanced Schottky TTL</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>TTL Compatible CMOS</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Process Capability Enhancement I</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>SPAWAR COTR</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>6</r2:ProjectNumber>
+                <r2:ProjectTitle>Battery Network (BATTNET)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>6.343</r2:AllPriorYears>
+                    <r2:PriorYear>1.969</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>BATTNET is focused on improving the supply and reducing the cost of procured batteries used in fielded weapon systems such as communication radios and armored vehicles. Batteries exhibit dynamic challenges for military logistics. BATTNET is a community of practice of battery supply chain members, engineering support activities, researchers, and users. BATTNET conducts R&amp;D to address sustainment gaps and bridge technical solutions into higher MRLs for specific groups of batteries.  For FY2014, DLA received 139,163 orders for 2.85 million batteries at $183M net value - compared to FY13 $176M and FY12 $216M.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Battery Network (BATTNET)</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.969</r2:Funding>
+                                    <r2:Text>R&amp;D completed initial manufacturing technology short term projects supporting lithium-ion batteries for US Army LRAS3 Ground Sensor and US Navy MH-60 helicopter, and for lithium-ion zero-volt discharge capable cells.  R&amp;D initiated joint work with US Army AMCOM to replace obsolete nickel cadmium batteries on TOW2 system, initiated additional manufacturing technology cost/risk reduction work on lithium-ion battery for MH-60 helicopter, and continued work on new non-solvent equipment for coating lithium-ion cathodes and anodes.  All projects require executive approval with business case and transition plan. The program is also managing several SBIR projects expected to transition into BATTNET activities.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Funding and efforts of the BATTNET program were transferred into the Improving Industrial Base Manufacturing Processes (formerly Material Availability) Strategic Focus Area.</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>The BATTNET R&amp;D partners were established by contract September 2009 through a competitive Broad Area Announcement (BAA) allowing for maximum competition. Partner Contracts were based upon proposals that demonstrated knowledge, experience, and expertise in the following areas of interest: Automation, Battery Maintenance, Competition &amp; Contracting Requirements, Diminishing Manufacturing &amp; Supply, Lithium Battery Safety, Reducing Acquisition Costs, Shelf Life, Supply Chain Logistics, Surge/Sustainment, and Technology Transition/Insertion. The BATTNET, which includes a Government Steering Group (GSG) of power source technical experts from the military services R&amp;D groups, is informed of general R&amp;D requirements for supply chain improvement. The partners develop among themselves related R&amp;D projects, which are then formally evaluated by the GSG. Selected projects are then chartered within DLA and planned for contract STP awards when funds are available.  Additional projects were awarded to BATTNET partners from FY12 Industrial Base Innovation Fund (IBIF).</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>At least 30% of the completed projects will transition. The program achieved production readiness of lithium batteries that have more than two-times the energy capacity, three-times the shelf-life, and one-third of the weight compared to the batteries they replace.   
+
+OSD-C financial metrics (obligation and disbursement) will be achieved.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Alion Science and Technology Corporation</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>IL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.340</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.596</r2:Amount>
+                                            <r2:AwardDate>2015-07</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Eskra Technical Products Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WI</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>2.154</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.372</r2:Amount>
+                                            <r2:AwardDate>2015-12</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>EaglePicher Technologies LLC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MO</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.438</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.015</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Quallion, LLC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.788</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.662</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Saft America Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.108</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.135</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Redblack Communications Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.440</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Logistics Management Institute</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.258</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Navitas Systems</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MI</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.308</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>US Army</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MI</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.509</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.010</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>US Navy</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.021</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Military Battery Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Rutgers, The State University of New Jersey</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>NJ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.158</r2:Amount>
+                                            <r2:AwardDate>2015-12</r2:AwardDate>
+                                        </r2:PriorYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Production Processes for Hybrid Li-CFx Batteries</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Low Cost Dry Electrode Production Capability</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Zero Volt Technology for Military Applications</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Production Processes for NAVAIR Lithium-ion</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Production Design &amp; Processes for Li-ion 6T</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Production Processes for LRAS3 Battery</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Lithium-Ion Replacement for TOW MGS NiCd Battery</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Advanced Battery Manufacturing Technologies</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>7</r2:ProjectNumber>
+                <r2:ProjectTitle>Improving Industrial Base Manufacturing Processes (formerly Material Availability)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>0.000</r2:AllPriorYears>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>4.875</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The Material Availability (MA) Strategic Focus Area (SFA) are R&amp;D efforts undertaken with DLA’s industrial base to reduce material costs, reduce the length and variability of Production Lead-Times, assure the DLA managed products meet requirements, and continuously improve quality and reliability. Benefits of this SFA include lower material costs, lower inventory levels and more predictable Customer Wait Times, fewer quality deficiencies, and lower customer support costs.  This strategic focus area includes within its scope the former Combat Rations Program, the Battery Program, the Castings and the Forgings programs.  
+
+This SFA is comprised of five roadmaps for Batteries, Subsistence Network, Castings, Forgings, and Additive Manufacturing.  
+
+The Battery network objective is to develop the next generation of battery manufacturing technologies for cost and price efficiency, longer shelf life, and lighter batteries with higher energy. The network conducts R&amp;D initiatives to address sustainment gaps and bridge technical solutions into higher MRLs for specific groups of batteries. For FY2014, DLA received 139,163 orders for 2.85 million batteries at $183M net value - compared to FY13 $176M and FY12 $216M. The Battery network focuses on projects to develop the production capability for advanced lithium-based non-rechargeable and rechargeable batteries to ensure the prompt and sustained availability, quality, and affordability of batteries. Desired outcomes include: streamlined inventory and associated cost reductions through standardization and improved distribution practices; resolved obsolescence issues; addressed surge and sustainment issues; enhanced security of supply chain; increased competition and manufacturing base; reduced per unit battery cost; and leveraged Service-level (Army, Navy, Air Force) and other governmental (DOE, DOT, NASA) R&amp;D efforts to insert new technology and practices into the existing DLA battery inventory.
+
+The Subsistence Supply Chain consists of military subsistence, which includes combat rations, field feeding equipment, garrison feeding and market fresh products. The Subsistence Network (SUBNET) program is a manufacturing technology program and is the successor to the Combat Rations R&amp;D program. SUBNET’s community of practice will research and promote manufacturing improvements in the subsistence supply chain with the goals of maximizing capability and capacity to produce, and to encourage innovation and modernization needed to leverage the latest technologies. The desired outcomes of the current short-term projects Microwave Assisted Thermal Sterilization (MATS), MRE Alternate Chemical Laminate, Optimize Combat Ration Inspection Costs, and Combat Rations Shelf Life Temperature Monitoring Project  include testing of low risk, high-impact technology and process improvements that will improve the quality of individual and group combat rations, reduce cost, and provide efficiencies, then transitioning these improvements to industrial base suppliers and government suppliers.   
+
+The Castings consortium objective is to develop new materials and technologies for the metalcasting industry to help DLA improve the supply of parts that contain castings. Weapon system spare parts managed by DLA that contain castings are responsible for a disproportionate share of DLA’s backorders or unfilled orders (UFOs).  Cast parts are ~2% of National Stock Numbered Class IX parts but represent ~5% of all backorders, and when only the oldest backorders are considered up to 10% are castings.  This program includes tasks to develop new capabilities in the areas of inspection, materials, processes, modeling, and design.  Once developed these capabilities will support the foundry industry, where the technologies will be tested and implemented in conjunction with the industry associations.  These advancements will improve the metalcasting supply chains for the DOD and the DLA to better support the warfighter.  This is achieved through investments in projects aimed at reducing lead-time, reducing cost, and improving quality of castings critical to DOD weapon systems.
+
+The Forgings consortium objective is to develop new materials and technologies for the forging industry to help DLA improve the supply of parts that contain forgings.  Weapon system spare parts managed by DLA that contain Forgings are responsible for a disproportionate share of DLA’s backorders or unfilled orders (UFOs).  Forged parts are ~2% of National Stock Numbered Class IX parts but represent ~5% of all backorders, and when only the oldest backorders are considered up to 10% are forgings.  This program includes tasks to develop new capabilities in the areas of inspection, materials, processes, modeling, and design.  Once developed these capabilities will support the forging industry, where the technologies will be tested and implemented in conjunction with the industry associations.  These advancements will improve the forging supply chains for the DOD and the DLA to better support the warfighter.  This is achieved through investments in projects aimed at reducing lead-time, reducing cost, and improving quality of forgings critical to DOD weapon systems.
+
+The Additive Manufacturing (AM) objective is to establish AM as an effective alternative to conventional manufacturing and document the process for AM benefits.  DLA needs to exploit AM technology as a lead-time and inventory reduction enabler.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Improving Industrial Base Manufacturing Processes (formally Material Availability)</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>4.875</r2:Funding>
+                                    <r2:Text>The Subsistence Network (SUBNET) plans to identify and award new STPs through a Broad Agency Announcement (BAA) with an expected duration of 12-24 months and an average annual funding of $100K-$250K. The government plans to invest up to $18 million during Fiscal Years 2016-2021 for funding research in response to this BAA.  Through the SUBNET STPs, research and development projects will be conducted and directed toward improving existing DLA processes and to improve manufacturing and delivery of combat rations and other subsistence products. Two of the STPs will be completed and transitioned in FY16. That is, the Microwave Assisted Thermal Sterilization (MATS) and the MRE Alternate Chemical Laminate Project. The Microwave Assisted Thermal Sterilization (MATS) goal is to reduce the cost of current combat ration entrees using MATS versus Retort, which is projected to be a 40% reduction in cost based on the energy savings per pouch of 50% MATS versus Retort. The cost reduction is projected to be higher when ration waste is considered as a result of poor reception of retorted ration entrees by the warfighters.  For the project optimize combat rations inspection costs, the objective is to establish an inspection system that captures the cost of quality that includes inspection of incoming material, in-process and end item inspections. The baseline for inspection was established for two retort products and one assembled meal. Analytical testing protocols have been reassessed for two products leading to a 58% reduction in cost. The combat ration shelf life temperature monitoring through data loggers provided a method to monitor the temperature distribution in the warehouse where unitized group rations are stored. The project includes tasks to develop solution sets for an optimal method of determining the rate of the shelf life degradation of rations and contents and a method to convey information to the receiver of the product at time of shipment. A 9 F degree reduction in temperature was achieved during the summer of 2015 as compared to 2014, leading to significant shelf life retention. The MRE Alternate Chemical Resistant Pouch Laminate will mitigate the risks in the material supply chain and establish reliable production for advanced pouch materials.  Investments in these projects and future short-term projects will improve quality of individual and group combat rations, reduce costs, increase production, and provide efficiencies. 
+
+The Castings consortium plan is to complete some existing projects towards the end of FY16 and into FY17. The new BAA will be released in FY16, with award(s) planned for 1st quarter FY17.  Plan to complete new welding procedures and post-weld heat treatments to restore mechanical properties of the welded areas of Eglin Steel, a high strength steel, and hence its strength and integrity.
+
+The Forgings consortium plan is to continue working projects recently awarded in FY15.  The Forging consortium will also pursue additional forging manufacturing advances from successful DLA SBIR projects selected in FY2014 using additional funds planned to begin in FY16.
+
+The Battery Network plan is to identify and award new Short Term Projects (STP) with an expected duration of 18-24 months and an average annual funding of $200K-$500K. Proposals are required to include a business case with specific metrics and transition plan for success. The Battery Network will also pursue additional battery manufacturing advances from successful DLA SBIR projects selected in FY2014.  
+
+The Additive Manufacturing plan is for DLA to partner with the Military Services to use AM to produce parts. DLA and the Services will identify candidate parts, convert technical data to 3D format to facilitate AM, procure the parts, and document the process for AM benefits. The Services will review newly created technical data packages (TDP), test the parts, and qualify AM as an acceptable process to produce the parts.
+
+FY 16 – FY 20: Funding for Additive projects will be reallocated from other MA SFA thrusts and classified into the Additive Manufacturing Thrust.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>FY17 Fund Realignment from BA07 to BA03 PE 0603680S</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>The Battery Network plan is to establish contract partners through a competitive Broad Area Announcement (BAA) based upon proposals that demonstrated knowledge, experience, and expertise in the following areas of interest: Automation, Diminishing Manufacturing &amp; Supply, Battery Safety, Reducing Acquisition Costs, Shelf Life, Supply Chain Logistics, Surge/Sustainment, and Technology Transition/Insertion. A Government Steering Group (GSG) of power source technical experts from the military services R&amp;D groups will inform general R&amp;D requirements for supply chain and technology improvement. The plan also includes awarding Phase 2 and 3 projects from DLA’s Small Business Innovation Research (SBIR) in advanced battery manufacturing technology. 
+
+The Subsistence Network acquisition strategy is delivery orders against competitively awarded IDIQ R&amp;D contracts via the forthcoming BAA.  The current contracts will reach the end of their base period of performance by December 2016.  A new BAA has been drafted and will be released in January 2016 with award of contracts in FY16 and FY17. A Joint Steering Group made up of government representatives from the Military Services, DLA, U.S. Department of Agriculture, U.S. Public Health Center, and the Natick Soldier Research, Development and Engineering Center will review ongoing projects, identify new areas for investment, assess proposed projects, examine procedures and processes, keep abreast of new technologies, and understand DLA and DoD subsistence needs and requirements.
+
+The Castings involved a competitive Broad Agency Announcement (BAA).  Evaluations were completed and two contracts were awarded competitively September 2011.  The current contracts reached the end of their base period of performance on September 30, 2016.  A new BAA has been drafted and will be released in FY16 with award of contracts(s) in FY17.
+
+The Forgings involved a competitive Broad Agency Announcement (BAA).  Evaluations were completed and a contract awarded September 2014.  
+
+The Additive Manufacturing plan will partner with the Military Services and use organic and commercial AM parts production capabilities.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>The Battery Network plan is to report returns on investments and achievements to the Joint Defense Manufacturing Technology Panel (JDMTP) for evaluation. 
+
+The Subsistence  Network plan is to execute reductions in cost for shipping, storage, supply chain process, inventory, waste and inspections, as well as reduced lead times for combat ration production, field feeding equipment, garrison feeding and “market fresh."
+
+For example, SUBNET will provide the following technical achievements: 1) a microwave-assisted capability to sterilize group-sized entrees and components, packaged in Institutional Sized Pouches (ISP) and Polymeric Trays and 2) identify and produce at least one or more alternate sealant layers that can be used by the rations industry to pack high acidic food products and to ensure uninterrupted supply of MRE rations. 
+
+The Castings consortium plan is to report returns on investments and achievements to the Joint Defense Manufacturing Technology Panel (JDMTP) for evaluation. 
+
+The Forgings consortium plan is to report returns on investments and achievements to the Joint Defense Manufacturing Technology Panel (JDMTP) for evaluation.  
+
+The Additive Manufacturing metric is the number of parts qualified for AM and the lead-time savings achieved to make small quantities of items.  
+
+At least 30% of the completed projects will transition.   
+
+OSD-C financial metrics (obligation and disbursement) will be achieved.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Clemson University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.020</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Michigan State University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MI</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.020</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Rutgers State University of New Jersey Division of Grants &amp; Contracts Accounting</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>NJ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.400</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>SOPAKO Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.150</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>University of Illionois</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>IL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.020</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>University of Tennessee</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TN</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.150</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Washington State University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.301</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Cadillac Products Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MI</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.020</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Oregon Freeze Dry Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>OR</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.020</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Research and Development Associates</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TX</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.020</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>The Wornick Company</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>AL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.150</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology Development – Combat Rations</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Sterling Foods</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TX</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.150</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Combat Rations - SETA</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FP</r2:ContractType>
+                                    <r2:PerformingActivity>Analytic Strategies LLC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.200</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Casting Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Advanced Technology International</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.015</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Casting Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Global Support Services LLC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>AK</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.111</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Casting Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Honeywell International Inc</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>AZ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.050</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Forging Sustainment Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Advanced Technology International</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.078</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Optimize Combat Rations Inspection Costs</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Combat Rations Shelf Life Temperature Monitoring</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Meals, Ready to Eat Alternate Chemical Resistant Pouch Laminate</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Microwave Assistant Thermal Sterilization (MATS)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Emerging Projects</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>8</r2:ProjectNumber>
+                <r2:ProjectTitle>Maintaining Viable Supply Sources (formerly High Quality Sources)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>0.000</r2:AllPriorYears>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>12.373</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The High Quality Sources SFA are projects undertaken to assure that the industrial base can respond to DLA requirements and DLA can fill military customers’ material requirements reliably and consistently.  Benefits include eliminating cancelled requisitions returned to customers as “non-procurable.” This strategic focus area includes within its scope the former Material Acquisition Electronics program.  
+
+The Material Acquisition Electronics roadmap has four major thrusts in Digital Microcircuits: Advanced Schottky TTL, TTL Compatible CMOS, 512 Kilobit RAM/ROM and Mega Gate ASIC.  The Roadmap also includes a new major thrust area: Linear Microcircuits.  Over the past several years, obsolescence in this class of microcircuits has greatly increased and has become a significant concern.  These are classes of microcircuits that are expected to become non-procurable in FY 17 and beyond.  Without the technologies planned on the MAE Roadmap, DLA will not be able to support DoD’s requirements for high quality spare parts for critical electronic systems and subsystems.  
+
+The Strategic Materials roadmap is a new thrust for the DLA Mantech program.  It is designed to ensure that critical strategic materials are available from domestic sources and that process innovations are in place to efficiently process or recover strategic materials. Domestic capabilities can enhance national security and potentially reduce Defense Stockpile requirements.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Maintaining Viable Supply Sources (formally High Quality Sources)</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>12.373</r2:Funding>
+                                    <r2:Text>MAE will continue planning for the specific emulation technology implementations to support specific device family groups in consonance with Customer and Agency requirements. MAE will complete development and transition higher density Read-Only and Random-Access Memory, Advanced Emitter-Coupled Logic and Closed-Cell CMOS capabilities into full-scale production further increasing DLA’s ability to re-establish sourcing of non-procurable microcircuit NSNs. The newly transitioned emulation capabilities will address several discontinued device families and will increase the potential emulation production envelope by several hundred NSNs.  MAE will also initiate several new implementations including development of TTL-Compatible CMOS Emulation Capability. It will continue developing 350 nanometer Digital Emulation circuitry, bringing emulation capability that re-establishes sources for additional NSNs.  AME will also continue initial development and capability assessments to support a new major emulation thrust to support Linear Microcircuits beginning in FY2017.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>FY17 Fund Realignment from BA07 to BA03 PE 0603680S</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>MAE efforts are incremental funding on a competitive awarded 5 year contract.  
+
+Strategic Materials efforts will be competitively evaluated and awarded using Broad Agency Announcement (BAA) procedures.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Transition of one technology implementation (base array) to low-rate initial production or full-scale production.  Each technology implementation increases the breadth of microcircuit part types which can be returned to a procurable status; improving readiness and avoiding the need to redesign at the next-higher level.  Potential benefit to hundreds of weapon systems.
+
+Strategic Materials: Develop roadmap and transition targeted manufacturing technologies.  
+
+At least 30% of the completed projects will transition.   
+
+OSD-C financial metrics (obligation and disbursement) will be achieved.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Digital Electronic Device Manufacturing Technology Process Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>SRI International</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>11.973</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Digital Electronic Device Manufacturing Technology Process Development SETA</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>SPAWAR</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.400</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Advanced Schottky TTL</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>TTL Compatible CMOS</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>0.35 CMOS Process Development II</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Op Amp Process Development II</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Process Capability Enhancement I</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>SPAWAR COTR</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>9</r2:ProjectNumber>
+                <r2:ProjectTitle>Improving Technical and Logistics Information (formerly Industry and Customer Collaboration)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>0.000</r2:AllPriorYears>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>5.357</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The Improving Technical and Logistics Information Strategic Focus Area (SFA) projects improve and facilitate the communication of technical and logistics information among industry, DLA’s military customers and DLA. This SFA includes Military Unique Sustainment Technology (MUST) and the Defense Logistics Information Research (DLIR) (P.E. 0603712S) within its scope. The movement of the DLIR related work from P.E. 0603712S to the DOD ManTech Program aligns the funding to the critical interface between DLA and industry and away from internal DLA operations.
+
+The MUST focus addresses GAO Report 12-707 recommendations that DOD to establish a “knowledge-based approach” to collaborate on define and communicate of military unique requirements. DLA has the responsibility to communicate and manage the technical requirements among the Services and the Defense Industrial Base. Currently there is no common environment for collaborating on new requirements among the stakeholders. The strategic objective of the DLA MUST program is to identify, develop and adopt technologies that can significantly reduce the lead-time between Individual Item and Equipment (IIE) development and sustainment from years to months. The Program focuses on technologies that will transform the military IIE supply chain from an “electronic paper” (i.e. PDF/MS Word) based, manual environment into a knowledge based automated environment. The resulting approach will be a neutral platform that will seamlessly communicate military unique technical requirements throughout the end to end supply chain.
+
+The DLIR Model Based Enterprise effort will develop capabilities to systematically accept engineering and design data from the Military Services, validate and store item technical data in 3D models. There are two classes of data that must be addressed: newly designed parts for systems still in development and legacy parts for systems that are in sustainment. The problem with newly designed parts is capturing the complete and accurate designs. The legacy parts do not have digital engineering models which recreating the design in contemporary engineering systems.   
+
+The Technical and Logistical Data Interoperability will pioneer methods to capture data from military Services, Original Equipment Manufacturers (OEMs), and suppliers to form a seamless thread of interoperable and linked data models.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Improving Technical and Logistics Information (formally Industry and Customer Collaboration)</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>5.357</r2:Funding>
+                                    <r2:Text>The MUST program will be beginning to stand up distributed pilots of the knowledge based approach. The project will develop and demonstrate a digital specification authoring tool, an automated piece-part design and 3D visualization tool, and technology to streamline the transition of requirements from the Services to DLA.  MUST will show how DLA, its customers and suppliers can access, manage and share technical requirements in a common format. 
+
+The DLIR MBE and data interoperability efforts will begin to extract info from product lifecycle management systems and link the data to specifications and standards via semantic data models and concepts. A new approach to distribution of specs and standards will be evaluated that enables industrial companies to have access to the precise specification requirement without having to extract it from the reference document.
+
+Testing the Model Based Enterprise (MBE) Conops developed in FY 15 with actual procurement using the standard supply system.  
+
+Developing an automated process for strategic sourcing of cataloged products that are available from WWW sources.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>FY17 Fund Realignment from BA07 to BA03 PE 0603680S</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>Delivery/Task Orders are awarded against a competitively awarded IDIQ contracts.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>The metrics for ICC are error elimination in engineering and technical data, including omissions and uncertainties in specifications, streamlining vendor level of effort associated with completing procurements, and improved collaboration among the Services, DLA and the industrial base.  The result will lead to reduced lead-time, inventory and to avoid the costs of defective material.
+
+At least 30% of the completed projects will transition.   
+
+OSD-C financial metrics (obligation and disbursement) will be achieved.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>AdvanTech STP</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.482</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Logistics Management Institute</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.765</r2:Amount>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>XSB STP</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>NY</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.481</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Clemson STP</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.015</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Modulant</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.039</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FP</r2:ContractType>
+                                    <r2:PerformingActivity>AR Services</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.188</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manufacturing Technology – Knowledge Based Individual Items and Equipment Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>TBD</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.511</r2:Amount>
+                                            <r2:AwardDate>2016-09</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Automatic Extraction of Product Lifecycle Management Data</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>XSB Inc.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>NY</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.876</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MUST Thrust 1 Collaboration Technical Requirements Management</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>AdvanTech - Commercial Integration Demonstrations</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LMI - Knowledge-Based Technologies for Effective Government–Industry Manufacturing Requirements Communications</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Clemson - Enhanced Commercial Practices for Uniform Development for Manufacturing</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MUST Thrust 2 Semantic Based Military Uniform Technical Data</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>XSB - TexSpecs - Manufacturers’ Technical Requirements: Access, Sharing and Integration</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

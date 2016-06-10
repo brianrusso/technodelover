@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0701212F</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Automated Test Systems</r2:ProgramElementTitle>
+        <r2:R1LineNumber>91</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Air Force</r2:ServiceAgencyName>
+        <r2:AppropriationCode>3600</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Air Force</r2:AppropriationName>
+        <r2:BudgetActivityNumber>5</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>System Development &amp; Demonstration (SDD)</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>0.000</r2:PriorYear>
+            <r2:CurrentYear>14.563</r2:CurrentYear>
+            <r2:BudgetYearOne>19.062</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>19.062</r2:BudgetYearOneBase>
+            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            <r2:BudgetYearTwo>11.800</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementNote>The Bomber Armament Tester is replacing six legacy testers and combining their capabilities into one tester. The Bomber Armament Tester will support the B-2, B-1 and B-52 platforms.</r2:ProgramElementNote>
+        <r2:ProgramElementMissionDescription>The Bomber Armament Tester will ensure that our USAF bomber fleet can conduct nuclear deterrence, global power projection and global strike operations to support the President of the United States and Combatant Commanders by having a reliable, cyber secure, and sustainable tester. The tasks are to develop a common bomber armament tester and the Test Program Sets (Software, Hardware, and Documentation) to test the armament release equipment on the bombers.  
+
+RDT&amp;E efforts support development, testing, and producibility of the Bomber Armament Tester and Test Program Sets. The program will utilize an incremental development approach with B-2 plus most complex B-1 and B-52 test program sets as Increment 1, B-1 as Increment 2, and B-52 as Increment 3.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>14.563</r2:CurrentYear>
+                <r2:BudgetYearOne>14.545</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>14.545</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>14.563</r2:CurrentYear>
+                <r2:BudgetYearOne>19.062</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>19.062</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>4.517</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>4.517</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:CongressionalDirectedReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:CongressionalRescissions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:CongressionalAdds>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:CongressionalDirectedTransfers>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedTransfers>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>4.517</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>4.517</r2:BudgetYearOneBase>
+                            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>-$4.5M increase in FY 17 is to begin increment two of the Bomber Armament Tester program. Increment one includes core tester and test program sets for B-2 aircraft and the most complex B-1 and B-52 test program sets. Increment two will begin the test program set development for the B-1 aircraft and B-52 test program sets.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>6506TE</r2:ProjectNumber>
+                <r2:ProjectTitle>Test And Evaluation Support Budget Authority</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>14.563</r2:CurrentYear>
+                    <r2:BudgetYearOne>19.062</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>19.062</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>11.800</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>The Bomber Armament Tester will ensure that our USAF bomber fleet can conduct nuclear deterrence, global power projection and global strike operations to support the President of the United States and Combatant Commanders by having a reliable, cyber secure, and sustainable tester. The tasks are to develop a common bomber armament tester and the Test Program Sets (Software, Hardware, and Documentation) to test the armament release equipment on the bombers.  
+
+RDT&amp;E efforts support development, testing, and producibility of the Bomber Armament Tester and Test Program Sets. The program will utilize an incremental development approach with B-2 as Increment 1, B-1 as Increment 2, and B-52 as Increment 3.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Bomber Armament Tester</r2:Title>
+                            <r2:Description>New Common Bomber Armament Tester for B-1, B-2, and B-52.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>14.563</r2:Funding>
+                                    <r2:Text>- Develop Bomber Armament Tester and Test Program Sets for use with B-2
+- Conduct initial test with B-2.
+-Beginning requirement analysis of the next increments which are B-1 and B-52. This will include the most complex B-1 and B-52 test program set development. 
+-An independent cost analysis is being conducted to verify the program cost inputs.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>19.062</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>19.062</r2:Funding>
+                                    <r2:Text>- Develop Bomber Armament Tester and Test Program Sets for use with B-2
+- Conduct initial test with B-2
+- Requirements analysis for increments 1 and 2. This will include the most complex B-1 and B-52 test program set development.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>Acquisition Strategy for the Bomber Armament Tester (BAT) was approved by AFPEO/ Agile Combat Support on 12 November 2016 . The BAT program will use an increment approach based on customer needs to fill this requirement. Increment 1 includes the development of the core test set, the B-2A requirements and development of the most complex B-1B and B-52 test program sets. Increment 2 consist of the B-1B development and Increment 3 consists of the B-52H requirements. The BAT program requirement will be utilize full and open competition to award the contract.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:Remarks>Product Development Cost include the development of the Bomber Armament Test Sets ( Units under test Software, hardware and Technical Data), Technical Data and maintenance of Government Furnished Equipment.</r2:Remarks>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Development</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Not specified.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>10.133</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>11.302</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>11.302</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:Remarks>Support Cost include Independent verification and validation support, Nuclear Certification Support and Cyber Security authority support.</r2:Remarks>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Logistic Support</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Not specified.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.580</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>3.160</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>3.160</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:Remarks>Environmental testing of the Bomber Armament Tester and operational testing of the test program sets for the B-2 and most complex B-1 and B-52</r2:Remarks>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Development and Operation Testing support</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Not specified.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.250</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>2.500</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>2.500</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:Remarks>PMA costs include travel to support the development of the Bomber Armament Tester. PMA cost also include an Information Assurance expert and Assistance and advisory service contractors to provide support to the program office during the development of the program.</r2:Remarks>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Travel</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Not specified.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.100</r2:Amount>
+                                            <r2:AwardDate>2016-09</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.100</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.100</r2:Amount>
+                                            <r2:AwardDate>2017-09</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Program Management Support</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Not specified.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.500</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>2.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>2.000</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Request for  Proposal Release</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Milestone B Decision</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Contract Award</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Inital Nuclear Cerification Impact Statement</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>System Functional Review</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Preliminary Design Review</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Critical Design Review</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>System Verification Review</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Developmental Testing</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Operational Testing</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Final Nuclear Certification Impact Statement</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Completed Prototype</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Authority To Operate Issued</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Operational Test and REadiness Review</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Physical Confiiguration Audit</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Production Readiness Review</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Milestone C Decision</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>B-1B Requirements Analysis</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

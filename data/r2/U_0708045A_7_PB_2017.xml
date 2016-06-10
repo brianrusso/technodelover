@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0708045A</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>End Item Industrial Preparedness Activities</r2:ProgramElementTitle>
+        <r2:R1LineNumber>209</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Army</r2:ServiceAgencyName>
+        <r2:AppropriationCode>2040</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Army</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>73.419</r2:PriorYear>
+            <r2:CurrentYear>60.422</r2:CurrentYear>
+            <r2:BudgetYearOne>62.287</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>62.287</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>61.300</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>59.480</r2:BudgetYearThree>
+            <r2:BudgetYearFour>62.102</r2:BudgetYearFour>
+            <r2:BudgetYearFive>63.344</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>This program element (PE) develops and demonstrates manufacturing processes that enable improvements in producibility and affordability of emerging and enabling components and subsystems of Army air, ground, Soldier, medical, and command/control/communications systems.  Initiatives within the PE result in cost savings and reduced risk of transitioning military-unique manufacturing processes into production.  Project E25 fosters the transfer of new/improved manufacturing technologies to the industrial base, including manufacturing efforts that have potential for high payoff across the spectrum of Army systems. 
+
+Work in this PE is related to, and fully coordinated with, PE 0603710A (Night Vision Advanced Technology), PE 0602303A (Missile Technology), PE 0602105A (Materials Technology), PE 0602618A (Ballistics Technology), PE 0602601A (Combat Vehicle and Automotive Technology), and PE 0603005A (Combat Vehicle and Automotive Advanced Technology) and PE 0602705A (Electronics and Electronic Devices).
+
+The cited work is consistent with the Assistant Secretary of Defense, Research and Engineering Science and Technology focus areas and the Army Modernization Strategy. 
+
+Work in this PE is performed by the Army Research, Development, and Engineering Command (RDECOM) and efforts are executed by the Army Research Laboratory (ARL) and appropriate Army Research, Development, and Engineering Centers (RDECs).</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>76.187</r2:PriorYear>
+                <r2:CurrentYear>48.442</r2:CurrentYear>
+                <r2:BudgetYearOne>63.327</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>63.327</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>73.419</r2:PriorYear>
+                <r2:CurrentYear>60.422</r2:CurrentYear>
+                <r2:BudgetYearOne>62.287</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>62.287</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-2.768</r2:PriorYear>
+                <r2:CurrentYear>11.980</r2:CurrentYear>
+                <r2:BudgetYearOne>-1.040</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-1.040</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalAdds>
+                    <r2:CurrentYear>12.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>-0.038</r2:PriorYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-2.730</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Adjustments to Budget Years</r2:Title>
+                        <r2:Funding>
+                            <r2:CurrentYear>-0.020</r2:CurrentYear>
+                            <r2:BudgetYearOne>-1.040</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-1.040</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>E25</r2:ProjectNumber>
+                <r2:ProjectTitle>Mfg Science &amp; Tech</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>73.419</r2:PriorYear>
+                    <r2:CurrentYear>48.422</r2:CurrentYear>
+                    <r2:BudgetYearOne>62.287</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>62.287</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>61.300</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>59.480</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>62.102</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>63.344</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project develops and demonstrates manufacturing processes that enable improvements in producibility and affordability of emerging and enabling components and subsystems of Army air, ground, lethality, Soldier, medical and command/control/communications/intelligence systems. Focus is on components and subsystems such as advanced armor, power and energy devices, rotors, sensors, displays, propellants and gun tubes. In addition, work is conducted to advance the state of the art in processing and fabrication techniques for coatings, multifunctional materials and structural elements for Army specific applications.
+
+Work supports all Army S&amp;T portfolios. Work in this PE is related to and fully coordinated with PE 0602105A (Materials Technology), PE 0602211A (Aviation Technology, PE 0602303A (Missile Technology), PE 0602601A (Combat Vehicle and Automotive Technology), PE 0602618A (Ballistics Technology), PE 0602705A (Electronics and Electronic Devices), PE 0603003 (Aviation Advanced Technology), PE 0603005A (Combat Vehicle and Automotive Advanced Technology) and PE 0603710A (Night Vision Advanced Technology).
+
+The cited work is consistent with the Assistant Secretary of Defense for Research and Engineering S&amp;T focus areas and the Army Modernization Strategy.   
+
+Work in this project is performed by the Army Research, Development and Engineering Command (RDECOM) and efforts are executed by the Army Research Laboratory (ARL) and appropriate Army Research, Development and Engineering Centers (RDECs).</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Air Systems</r2:Title>
+                            <r2:Description>This effort funds manufacturing technology advances needed for more affordable manned and unmanned aircraft components and subsystems. Work focuses on addressing challenges in areas such as engine performance and life, rotor and blade durability, reliable component integration/attachment, structural durability at low weight, and reduced corrosion.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.425</r2:Funding>
+                                    <r2:Text>Developed and demonstrated an automated parts preparation line for advanced nanocomposite coatings; developed manufacturing techniques and tooling for ballistically tolerant fuel bladders; developed direct digital manufacturing for use in aviation propulsion and power generation gas turbine engines allowing for enhanced component designs optimized for performance and weight savings.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.846</r2:Funding>
+                                    <r2:Text>Continuing the development and demonstration of manufacturing techniques and tooling for ballistically tolerant fuel bladders; developing direct digital manufacturing for use in aviation propulsion and power generation gas turbine engines allowing for enhanced component designs optimized for performance and weight savings; developing AH-64 composite sump manufacturing improvements.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>5.401</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>5.401</r2:Funding>
+                                    <r2:Text>Will complete component and engine testing of additively manufactured articles resulting in increased performance and reduced weight of the T700 platform; will transition three prototype AH-64 composite sumps of reduced weight and cost to PM Apache along with associated manufacturing metrics; will complete the demonstration of manufacturing techniques and tooling for ballistically tolerant fuel bladders including fit check, drop testing , pressure test, slosh &amp; vibe tests on full scale article.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Ground Maneuver</r2:Title>
+                            <r2:Description>This effort funds manufacturing technology advances needed for more affordable components and subsystems for tactical and combat vehicles and weapons systems. Work focuses on addressing challenges in areas such as advanced armor, gun barrel life, insensitive propellants, precision munitions and vehicle power devices.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>24.904</r2:Funding>
+                                    <r2:Text>Demonstrated machining and post-processing techniques to drastically improve the yield and decrease the cost of tungsten-based penetrators; demonstrated low-cost, mature manufacturing processes by conducting limited production runs and prototype builds of advanced armor systems using low-cost ceramics, cast and forged steel and aluminum alloys and hybridized 3D woven composites; developed equipment for automated assembly of ceramic tile-based armors, mature automated material consolidation techniques for vehicle armor solutions; developed gear machining and finishing processes and optimized assembly processes to increase throughput and yield while decreasing the cost for power-take-off systems; demonstrated automated assembly process resulting in improved quality control, reduced assembly times and re-work issues, increased throughput and reduced cost of fuel cells for ground vehicle and soldier-born applications; matured batch manufacturing of granular IMX-104 to demonstrate scaled-up manufacturing process that reduces production costs and increases throughput and yield of IMX-104; developed novel packaging and processing techniques to enable weight and cost reductions in ground-based systems; continued development of mature Wide-Band Gallium Nitride MMIC (Monolithic Microwave Integrated Circuit) manufacturing process in the application of weapon system arrays; developed a limited  manufacturing capability in addressing solutions to make magnesium more affordable for lightweight weapon components; identified and developed an economical mass production process for 7.62mm Advanced Armor Piercing (ADVAP) tungsten carbide penetrators with complex geometry systems; developed processing parameters for loading new ALIMX-101 reduced-sensitivity melt-pour and auxiliary charge explosive systems; developed a manufacturing process for producing low cost infrared signature management solutions.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>16.938</r2:Funding>
+                                    <r2:Text>Demonstrating machining and post-processing techniques to improve the yield and decrease the cost of tungsten-based warhead penetrators; transitioning a multi-threat armor manufacturing capability to TRADOC Maneuver Centers of Excellence to inform requirements and to TARDEC to support Combat Vehicle Prototyping and Future Fighting Vehicle; developing equipment for automated assembly of ceramic tile-based armors, maturing automated material consolidation techniques for vehicle armor solutions; developing and  demonstrating  gear machining and finishing processes and optimized assembly processes to increase throughput and yield while decreasing the cost for power-take-off systems; demonstrating automated assembly process resulting in improved quality control, reduced assembly times and re-work issues, increased throughput and reduced cost of fuel cells for ground vehicle and soldier-born applications; demonstrating mature Wide-Band Gallium Nitride MMIC (Monolithic Microwave Integrated Circuit) manufacturing process in the application of weapon system arrays; continuing development of a  manufacturing capability in addressing solutions to make magnesium more affordable for lightweight weapon components; developing an economical mass production process for 7.62mm Advanced Armor Piercing (ADVAP) tungsten carbide penetrators with complex geometry systems; developing processing parameters for loading new ALIMX-101 reduced-sensitivity melt-pour and auxiliary charge explosive systems; developing a manufacturing process for producing low cost infrared signature management solutions; initiating development of  a scaled up process to produce high energy density safe 5 volt lithium-ion batteries; initiating development of a manufacturing pilot line capability for adaptive armor modules.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>16.221</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>16.221</r2:Funding>
+                                    <r2:Text>Will conduct pilot line fabrication of ceramic tile-based armors utilizing automated material consolidation techniques for vehicle armor solutions; will demonstrate and transition a gear machining pilot line capability at MRL 8 associated with cost-effective power-take-off systems to PM-ABCT; will demonstrate magnesium alloy manufacturing processes, to include additive manufacturing, on novel vehicle and small arms components; will demonstrate, validate and implement an instrumented bullet assembly process for producing XM1158 projectiles; will mature final formulations, confirm batch productions, and perform validations of paint products used for infrared management solutions; will mature a cathode coating process and enhance electrolyte optimization in the production of high energy density safe 5 volt lithium-ion batteries; will continue maturation of a manufacturing line and associated processes for adaptive protection modules; will demonstrate an automated, optimized and flexible process for manufacturing light weight, longer lasting aluminum Metal Matrix Composites (MMC); will demonstrate an agile manufacturing cell capable of efficiently welding thicker plate materials for improved protection for armored multi-purpose vehicle and other vehicles; will mature a lithium-ion battery assembly line leveraging multiple battery form factors leading to reduced cost and increased throughput; will complete the manufacturing process and demonstration maturity of Wide-Band Gallium Nitride MMIC’s for non-lethal weapon systems arrays.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Lethality (Formerly Precision Munitions and Armament Systems)</r2:Title>
+                            <r2:Description>The Lethality Systems focus area consists of Advanced Weapon Systems, Fire Control, Logistics, Emerging Technologies and Advanced Energetics and Warheads.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>7.826</r2:Funding>
+                                    <r2:Text>Validated the manufacturing process to reduce the cost and time associated with applying Ta-10W liners for medium and small caliber chromium-free cannon gun barrels; demonstrated high volume, cost effective, manufacturing processes for micro-electro-mechanical systems (MEMS) scale components; began development of lower cost material fabrication processes and superior material performance as insulation for rocket nozzles.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.600</r2:Funding>
+                                    <r2:Text>Validating the manufacturing process to reduce the cost and time associated with applying Ta-10W liners for 7.62mm and 50 caliber chromium-free gun barrels; demonstrating selected high volume, cost effective, manufacturing processes for micro-electro-mechanical systems (MEMS) scale safe-and-arms components; beginning development of affordable manufacturing solutions for complex missile seeker components that will shape the missile industry towards cost effective all weather seekers; developing lower cost material fabrication processes and superior material performance as insulation for rocket nozzles.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>6.235</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>6.235</r2:Funding>
+                                    <r2:Text>Will define manufacturing methods for new imaging technologies associated with the development of affordable multi-mode, all weather missile seekers; will characterize thermal and mechanical pre-impregnated material properties of rocket nozzle insulation; will mature an automated, scaled-up manufacturing process for programmable initiators addressing requirements for Family of Scatterable Munitions (FASCAM); will demonstrate a cost-effective, high throughput, Spark Plasma Sintering process to reduce cost and lead-times for large caliber cannon broaches and ordnance metal cutting tools; will demonstrate an additive manufacturing process capable of printing energetic inks for next generation hand grenades and small munitions.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Command, Control, Communications and Intelligence Systems</r2:Title>
+                            <r2:Description>This effort funds manufacturing technology advances needed for more affordable components and subsystems for intelligence, surveillance, reconnaissance and targeting systems, mission command systems, electronic warfare and improved explosive device detect/defeat systems. Work focuses on addressing challenges in areas such as large format multi-color focal plane arrays, flexible displays, night vision sensors, target detectors, advanced antennas and sensors.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>18.849</r2:Funding>
+                                    <r2:Text>Transitioned growth processing with improved yield for high operating temperature focal plane arrays to ground and airborne platforms; developed  processes, tooling and automation techniques to increase yield, decrease fabrication and assembly times and reduce cost of miniaturized short-wave infrared cameras; developed manufacturing processes to fabricate low-defect flexible digital radiography panels; demonstrated techniques for integrating flexible sensors and electronics into circuits for system demonstration; developed cost-effective manufacturing techniques of high definition class cameras for sniper weapon sights and ground vehicles; developed packaging improvements of a millimeter wave device used in radio frequency threat warning applications in air combat platforms; developed optimized process improvements in the manufacturing of large format long-wave, dual -band infrared focal plane arrays for vision systems.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>8.350</r2:Funding>
+                                    <r2:Text>Executing pilot line runs and refining manufacturing process to reduce cost and power of miniaturized short-wave infrared cameras; demonstrating  manufacturing processes to fabricate low-defect, flexible digital radiography panels and electronics for system demonstration; investigating design revisions for  cost-effective manufacturing techniques of high definition cameras for sniper weapon sights and ground vehicles; developing packaging improvements of a millimeter wave devices used in radio frequency threat warning applications in air combat  platforms; developing optimized process improvements in the manufacturing of large format longwave, dual -band infrared focal plane arrays for vision systems.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>15.159</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>15.159</r2:Funding>
+                                    <r2:Text>Will refine manufacturing process and conduct qualification lot runs in the fabrication of infrared sensors used in the application of low-cost, miniaturized short-wave infrared cameras; will complete yield improvement processes and production qualifications of focal plane arrays applicable to high definition cameras for sniper weapon sights and ground vehicles; will mature millimeter wave packaging improvements to include module development and antenna/module interface advancements of devices used in radio frequency threat warning applications in air combat  platforms; will transition a production-ready, high yield manufacturing process for large format longwave, dual -band infrared focal plane arrays for vision systems; will mature a manufacturing process to produce ultra-thin, lightweight, wide-band conformal antennas; will conduct optimization for 3D, read-only integrated circuit manufacturing process resulting in sensors with improved sensitivity and dynamic range.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Soldier Systems</r2:Title>
+                            <r2:Description>This effort funds manufacturing technology advances needed for more affordable components and subsystems for combat feeding, aerial delivery of supplies, expeditionary basing, Soldier-borne sensors, clothing and protective equipment. Work focuses on addressing challenges in areas such as multifunctional fabrics for shelters, uniforms and portage equipment; affordable, non-contaminating packaging for rations; and lightweight materials for body armor.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>4.270</r2:Funding>
+                                    <r2:Text>Developed process control techniques based on unique thermal and mechanical properties of polyethylene films; developed a scaled manufacturing process to lower costs and achieve high volume production of the lower-cost flame retardant materials with biocidal modular insulation panels; established a domestic manufacturing base for high efficiency, lightweight and foldable solar panel production in order to reduce unit cost with higher throughput production.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.980</r2:Funding>
+                                    <r2:Text>Developing process control techniques based on unique thermal and mechanical properties of polyethylene films; developing a scaled manufacturing process to lower costs and achieve high volume production of the lower-cost flame retardant materials with biocidal modular insulation panels.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>4.370</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>4.370</r2:Funding>
+                                    <r2:Text>Will develop and demonstrate a full scale manufacturing pilot along with test articles (flat panels, helmets, and torso plate prototypes) developed from polyethylene films; will optimize and transition a high-volume pilot manufacturing process for lower-cost flame retardant materials with biocidal modular insulation panels to PM Force Sustainment Systems; will mature a scaled-up, low cost , high yield, high throughput manufacturing process of gallium arsenide based solar cells enabling light weight, portable Soldier power sources; will mature a manufacturing process for low cost augmented reality eyepieces that provide the Soldier with high resolution imagery across a wide field of view for increased situational awareness.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Innovation Enablers (Formerly Advanced Manufacturing Initiatives)</r2:Title>
+                            <r2:Description>This effort funds manufacturing technology advances needed for affordable model based manufacturing, network centric manufacturing data environments, collaborative manufacturing modeling and simulation, and advanced manufacturing technologies. Work focuses on addressing challenges in areas such as 3D technical data packages for armor systems; providing digital manufacturing capabilities to depots and laboratories, processes and models for data transfer and prototype production; and advanced laser manufacturing techniques for repairing components.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>14.145</r2:Funding>
+                                    <r2:Text>Demonstrated digital data driven manufacturing of prototype systems; deployed the use of standard machine language and protocols to monitor machine performance to predict quality issues and optimize production rates for high-volume items; established and demonstrating the use of a common machine tool library for cross-Army utilization; developed additive manufacturing techniques to establish a validated repair procedure for high value aviation components; developed a flexible and agile common fuze manufacturing process utilizing 2D and 3D printing and additive manufacturing technologies as applied to energetic materials with integrated electronics; developed and qualified additive fabrication and reclamation processes for use on Army components.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>16.708</r2:Funding>
+                                    <r2:Text>Demonstrating digital data driven manufacturing of prototype systems, deploying the use of standard machine language and protocols to monitor machine performance to predict quality issues and optimize production rates for high-volume items, and establishing and demonstrating the use of a common machine tool library for cross-Army utilization; developing additive manufacturing techniques to establish a validated repair procedure for high value aviation components; developing a flexible and agile common fuze manufacturing process utilizing 2D and 3D printing and additive manufacturing technologies as applied to energetic materials with integrated electronics; developing and qualifying additive fabrication and reclamation processes for use on Army components; expanding existing MBE efforts in techniques to capture, standardize and reuse tech data across weapon system product life cycles.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>14.301</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>14.301</r2:Funding>
+                                    <r2:Text>Will mature application of dissimilar metals for repaired aviation components, integrating in-process quality assurance methods and procedures to maximize reliability of high-value aviation components; will demonstrate and deliver processes and tooling requirements of 2D and 3D additively manufactured energetics and electronics for use in 40mm grenades; will begin the transfer of a laser enhanced net shaping (LENS) repair process to Anniston Army Depot in the qualification and reclamation of Army components; will mature Model Based Enterprise tools which include legacy technical data package updating, forensic manufacturing, and integration of DoD/Army requirements; will demonstrate a software based module capable of aiding production engineers across the organic industrial base and S&amp;T community to verify and implement best value part manufacturing programs.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Medical</r2:Title>
+                            <r2:Description>This effort funds manufacturing technology advances needed for more affordable process methods in addressing manufacturing of lighter weight multi-functional materials, biotechnology, vaccines, medical equipment power sources, and component ruggedization that directly address Soldier rehabilitation.</r2:Description>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.600</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.600</r2:Funding>
+                                    <r2:Text>Will demonstrate a modernized, scaled-up production process addressing spray drying and encapsulation methods of the Adenovirus vaccine.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryRemarks>Not applicable for this item.</r2:OtherProgramFundingSummaryRemarks>
+                    <r2:AcquisitionStrategy>Not applicable for this item.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>TBD</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>TBD</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>111.999</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>73.419</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>48.422</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>62.287</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>62.287</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0</r2:CostToComplete>
+                                        <r2:TotalCost>296.127</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>98191-85.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>N/A</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>EA2</r2:ProjectNumber>
+                <r2:ProjectTitle>MANTECH INITIATIVES (CA)</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>12.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>0.000</r2:CostToComplete>
+                    <r2:TotalCost>12.000</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>Congressional Interest Item funding for Mantech Initiatives.</r2:ProjectMissionDescription>
+                    <r2:CongressionalAddDetailList>
+                        <r2:CongressionalAddDetail>
+                            <r2:Title>Congressional Interest Item funding for Mantech Initiatives.</r2:Title>
+                            <r2:CurrentYear>
+                                <r2:Funding>12.000</r2:Funding>
+                                <r2:Text>Program Increase</r2:Text>
+                            </r2:CurrentYear>
+                        </r2:CongressionalAddDetail>
+                    </r2:CongressionalAddDetailList>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>TBD</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>TBD</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>12.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0</r2:CostToComplete>
+                                        <r2:TotalCost>12.000</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>98191-86.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>N/A</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

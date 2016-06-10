@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0903235D8W</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Joint Service Provider (JSP)</r2:ProgramElementTitle>
+        <r2:R1LineNumber>179</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Washington Headquarters Service</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>6</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>RDT&amp;E Management Support</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>0.000</r2:PriorYear>
+            <r2:CurrentYear>0.000</r2:CurrentYear>
+            <r2:BudgetYearOne>0.827</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>0.827</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>1.242</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>1.218</r2:BudgetYearThree>
+            <r2:BudgetYearFour>1.146</r2:BudgetYearFour>
+            <r2:BudgetYearFive>1.169</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>The Washington Headquarters Services (WHS) Information Technology (IT) program provides ongoing research, test, and development and enhancement initiatives for the Office of the Secretary of Defense (OSD), OSD Principal Staff Assistants, and WHS Directorates.  Ongoing initiatives include enterprise storage testing, enterprise performance and productivity analysis, enterprise/business applications development and enhancements, operational support enhancements, and information assurance testing and development.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.827</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.827</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.827</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.827</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Joint Service Provider (JSP)</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>0.827</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.827</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>The FY 2017 program will develop, test, pilot, and deploy new integrated business tools that will enhance human resource management, acquisition, and executive services business processes that support WHS/OSD.  Funds will also be used for developing and testing tools that will improve the delivery of IT services and capabilities for all WHS/OSD users.  The FY 2017 funding was reduced by $0.2M to account for the availability of prior year execution balances.
+
+1.  Joint Service Provider (JSP) IT FY 2017 $728K
+To develop, test, pilot, and deploy new integrated business tools that will enhance human resource management, acquisition, and executive services business processes that support WHS/OSD.  Funds will also be used for developing and testing tools that will improve the delivery of IT services and capabilities for all WHS/OSD users.  WHS/OSD continues to expand the Engineering, Test and Development networks for NIPR and SIPR.  the long term goal is to provide and maintain a centrally managed, "State-of-the ART," Virtual Environment for developers throughout OSD, WHS, and PFPA.
+
+2.  Secure Mobile Computing  FY 2017 $99K
+The FY 2017 program plans to develop better mobile classified computing and communications platforms for all customers to have secured computing at residences and at temporary and mobile locations around the world.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>945</r2:ProjectNumber>
+                <r2:ProjectTitle>Miscellaneous - IT Initiative</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:PriorYearsDelta>0.000</r2:PriorYearsDelta>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.827</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.827</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>1.242</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>1.218</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>1.146</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>1.169</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>P945 - Miscellaneous IT Initiative - The WHS provides various IT support for the WHS/OSD to align processes and information technology that will enable mission accomplishment.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Joint Service Provider (JSP)</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.728</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.728</r2:Funding>
+                                    <r2:Text>To develop, test, pilot, and deploy new integrated business tools that will enhance human resource management, acquisition, and executive services business processes that support WHS/OSD.  funds will also be used for developing and testing tools that will improve the delivery of IT services and capabilities for all WHS/OSD users.  WHS/OSD continues to expand the Engineering, Test and Development networks for NIPR and SIPR.  the long term goal is to provide and maintain a centrally managed, "State-of-the-Art," Virtual Environment for developers throughout OSD, WHS, and PFPA.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Secure Mobile Computing</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.099</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.099</r2:Funding>
+                                    <r2:Text>The FY 2017 program plans to develop better mobile classified commuting and communications platforms for all customers. The plan is for continue to focus on secure mobile platforms capable of highly classified communications with an emphasis on the ever-changing nature of the technology and the development of
+state-of-the-art capabilities to support the Secretary of Defense in his command and control responsibilities.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:PerformanceMetrics>FY 2017:  To achieve a 15% reduction in the time to deploy modifications, upgrades, and capabilities to customers.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

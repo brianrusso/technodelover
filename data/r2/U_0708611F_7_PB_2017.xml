@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0708611F</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Support Systems Development</r2:ProgramElementTitle>
+        <r2:R1LineNumber>234</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Air Force</r2:ServiceAgencyName>
+        <r2:AppropriationCode>3600</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Air Force</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>15.209</r2:PriorYear>
+            <r2:CurrentYear>12.107</r2:CurrentYear>
+            <r2:BudgetYearOne>9.128</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>9.128</r2:BudgetYearOneBase>
+            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            <r2:BudgetYearTwo>9.334</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>9.527</r2:BudgetYearThree>
+            <r2:BudgetYearFour>9.738</r2:BudgetYearFour>
+            <r2:BudgetYearFive>9.948</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>This program element contains two active projects [project 673318, Product Data System Modernization (PDSM), and project 675042, Logistics Application Logistics Integration (LALI)].
+
+Project 673318: PDSM funds modifications to the Enhanced Technical Information System (ETIMS) Enterprise, which supports Air Force Technical Order management, storage and distribution critical to depot maintenance activities. ETIMS activities include studies and analysis to support both current and future program planning and program execution to include Nuclear Weapons Related Material (NWRM) technical data requirements.
+Note: In FY 2016, PE 0708611 Support Systems Development, Project 673318, Product Data Systems Modernization efforts transferred to PE 0708610F, Logistics Information Technology (Log IT), Project 675207 to align with the Enhanced Technical Information Management System (ETIMS) modification efforts funded within the Log IT PE.
+
+Project 675042: LALI includes funding for Logistics, Installations and Mission Support - Enterprise View (LIMS-EV) and F-35 User IT Data Exchange Service (UIDES).
+
+Logistic, Installations and Mission Support - Enterprise View (LIMS-EV) implements Business Intelligence(BI) and Decision Support(DS) solutions and includes transitioning to a common Information Technology(IT) hosting environment and development of mobile infrastructure.  The AF must transform its logistics business processes and transition away from using numerous stovepipe systems and process flows that execute the same analysis and decision support tasks.  Eliminating process redundancies across the logistics enterprise will enable the AF to execute more efficient, cost-effective and integrated logistics in the long term. Leveraging emerging technology to enhance existing capabilities and developing a mobile solution satisfies current and future needs of the enterprise. LIMS-EV funding supports Business Intelligence (BI) and decision support development capability used by senior leaders and war fighters to access integrated information from multiple logistics and operational source systems. LIMS-EV funding will extend current BI capabilities to provide configurable alerting, predictive/what-if analysis, mobile applications and further integration of support equipment, vehicle, supply, commodities and components (engines, landing gears, fuel, etc.) to increase weapons systems availability and Total Asset Visibility (TAV) and migrates the LIMS-EV functionality from the retiring Global Combat Support System-Air Force (GCSS-AF) infrastructure to a an approved Joint Information Environment/Common Computing Environment.
+
+
+FY2016 Plan 
+
+1) LIMS-EV Vehicle View 5.2 - migrate the legacy data sources from the Online Vehicle Information Management System to Defense Property Accountability System (DPAS).   The applications, reports and capabilities will be modified/migrated to using data sourced from DPAS. Included in the data migration is the ability to expose the DPAS data in Business Objects (BOBJ).   This release also includes the development new functionality; the Transaction Request Tool which includes the ability for fleet managers to update, load, and move assets, as well as complete resale requests.  
+
+2) LIMS-EV Equipment View 4.6 - Implement the remaining metrics not included in release 4.4 (less the Command Equipment Management Office (CEMO) metrics) – primarily associated with the new Redistribution and Mass Additive functionality.  This release also corrects discrepancy reports from Release 4.0 (Redistribution and Mass Additive functionality) Metrics include:  
+-- Provides the ability to report CEMO, 404 Supply Chain Management Office (SCMS), and Fill Rate Metrics
+-- Applies data from Mal-Positioned Assets, Repair Execution, Retention Additives &amp; Disposals and Replacement Additives actions as well as user-entered input to calculate / present the defined metrics
+
+3) LIMS-EV Repair Network View (RNV) 4.0 - provides leadership view of Repair Network Integration (RNI) Metrics.  This release will provide a permanent Capability and Capacity (CAP2) Information Technology (IT) Tool and simulation capability to assist Repair Network managers in making resource allocation decisions.  Some examples include: 
+-- Support equipment prices for each equipment asset  pulled from Air Force Equipment Management System (AFEMS) 
+-- Quality Deficiency Report (QDR) data pulled from each node from Joint Deficiency Reporting System (JDRS)  
+-- Depot level production 
+-- Contract data reporting National Stock Numbers (NSNs) repaired at contractors from Contracting Information Database System (CIDS/J018) or CAV-AF
+
+4) LIMS-EV Enterprise Mobile Viewer - focused on supporting the use of mobile device technology, with the first phase focusing on integrating four LIMS-EV Vehicle View widgets.   The release also enhances some of the existing capability, such as modifying the Prioritization Buy capability to support Item Manager functionality.
+
+5) LIMS-EV Weapons System Enterprise Review (WSER) - automate the AF Chief of Staff briefing (CSAF) (9 charts per WSER weapon system) that is delivered quarterly by Air Force Life Cycle Management Center Commander (AFLCMC/CC) to Air Force Materiel Command Commander (AFMC/CC), Major Commands (MAJCOMs), and other key stakeholders.   WSER content includes Performance Execution (availability, engines, and aircraft delivery quality); Modernization Overall (cost, schedule, performance, and funding); Product Support (Logistics Health Assessment (LHA) and Leading Health Indicator (LHI) (engines)); Predictive Health (safety, service life, mission effectiveness, and weapon system sustainment (WSS) risk); and Operating Cost
+
+
+FY 2017 Plan
+
+1) LIMS-EV Engine Health Management and Data Repository Center (EHM-DRC) - migrate an EHM-DRC to GCSS-AF infrastructure and leverage GCSS-AF Enterprise Data Warehouse for data storage and interfaces as well as decision support capabilities to expose and analyze expanded engine health data to improve the reliability and performance.
+
+2) LIMS-EV Repair Network View (RNV) 5.0 - address deficiencies in the RNV capability.  Updates include correcting an existing reference table, creating additional repair nodes, adding a frequency column to the “data source” area of view, mapping to different reference tables, and correcting issues with the Extract, Transform, and Load procedures.  
+
+3) LIMS-EV Supply Chain Management View 7.0 - provide enhanced reports, queries, and views.  Specifics includes reporting/ability to distinguish United States Air Force (USAF) backorders, production number (PDN) Search in Edit box , Ability to add Incremental/auto fill PDN Drop Down In Default Analysis or Create PDN Analysis Report, NSN Entry Conversion, adds "PMS" to Default "Role" Selector &amp; Select Single or Multiple, repairs the "ADD" Function - Manual Ability To Input The Repair Data For An Item That is Contract Repair or public/private partnership (PPP), and allows user to  identify mission capable (MICAP) requisitions likely to have hours that should be stopped or backed out are identified throughout the month using the automated report identified in this requirements document.
+
+4) LIMS-EV Support Equipment Enterprise View - provide real time fleet summary of support equipment (SE) assets (ex. fully mission capable, partially mission capable, not mission capable).  Emulates the same metrics that are used for LIMS-EV Fleet Asset Status and Weapon System View.  SE community will be able to track status and location of SE assets by mission designator (MD), mission designator series (MDS), and Equipment ID.  Capability also Enables a priority buy capability –similar to LIMS-EV Vehicle View - better calculations for predicting asset service cliffs.  
+
+5) LIMS-EV Cost of Logistics (COL) 2.0 - address change request and deficiency reports in the COL Capability, integrate variance tool, and update the existing dashboard.  Updates include providing the user the ability to export reports from the view (instead of having to export from BOBJ), Corrects the existing issue with the export feature, fixes the tool tips, modifies the “Data Source” area on the screen to include a “frequency column”, renames some views, corrects the “Base” filter.
+
+6) LIMS-EV Vehicle View 6.0 - enable Vehicle Support Chain Operations Squadron (VSCOS) Installation Support Centralization (ISC) Initiative.  ISC is a CSAF directed action to centralize management of the Air Forces' vehicle fleet at Air Force Element (AFELM) VSCOS.  The ISC initiative centralizes 55 processes from the MAJCOM’s to one central source within VSCOS.  Some of the enhancements include; Alerts and Event Management (AEM) Integration, enables same look and feel for verification/validation  that exists in latest LIMS-EV capabilities, applies hover overs on fields across the application, enables query tracking, enhances Item Manager functions, and provides a Depot Maintenance planning model.  
+
+7) LIMS-EV Enterprise Propulsion Business Intelligence (BI) Tool - provide engine managers with the ability to  forecast engine and component removals, identify business process gaps, consolidate existing applications/tools, and provide metrics and analysis for existing or new engines based on Thrust, Weight, Fuel, Cost, etc.  Migrate manual products generated by the actuary's office.
+
+F-35 UIDES provides for Air Force development of a F-35 Autonomic Logistics Information System (ALIS) - User IT Data Exchange Service that supports current and future Information Exchange Requirement (IER) data transfer capability from the F-35 ALIS into data reports and configurable tables to receive, store and integrate F-35 operations, maintenance, training and financial data within existing Air Force enterprise views to support the growing fleet of AF F-35 aircraft.  Funding supports modification of an enhanced data sharing capability (ability to consume increased volume and variety of ALIS IER data) to support depot data configuration and integration requirements.  Activities also include studies and analysis to support both current program/project planning and execution and future program/project planning.
+
+Note: In FY 2016, PE 0708611 Support Systems Development, Project Number 675042, Logistics Application Logistics Integration (LALI), the F-35 User Identification Data Exchange System (UIDES) effort was transferred to PE 0604800F, F-35 Lightning II Joint Strike Fighter, in order to align the activity under the F-35 RDT&amp;E Program Element.
+
+This program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>15.712</r2:PriorYear>
+                <r2:CurrentYear>12.657</r2:CurrentYear>
+                <r2:BudgetYearOne>12.456</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>12.456</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>15.209</r2:PriorYear>
+                <r2:CurrentYear>12.107</r2:CurrentYear>
+                <r2:BudgetYearOne>9.128</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>9.128</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-0.503</r2:PriorYear>
+                <r2:CurrentYear>-0.550</r2:CurrentYear>
+                <r2:BudgetYearOne>-3.328</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-3.328</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>-0.550</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:CongressionalDirectedReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:CongressionalRescissions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:CongressionalAdds>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:CongressionalDirectedTransfers>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedTransfers>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-0.503</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>-3.328</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-3.328</r2:BudgetYearOneBase>
+                            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>FY15: Reduction for SBIR
+
+FY16: Reduction for FFRDC  
+
+FY17: Reduction supports modernization efforts for higher priority legacy logistics information technology systems</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>673318</r2:ProjectNumber>
+                <r2:ProjectTitle>Product Data Systems Modernization (PDSM)</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>0.512</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>0.000</r2:CostToComplete>
+                    <r2:TotalCost>0.512</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>Project 673318, PDSM supports funding for Air Force Technical Order functionality through the continued enhancement of the Enhanced Technical Information System (ETIMS) Enterprise. Development of the ETIMS project across the FYDP will be continued as part of the remediation/modernization/transformation approach for AF Logistics IT.  For specific details on this project see PE 0708610F.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Enhanced Technical Information Management System (ETIMS) Software Upgrade</r2:Title>
+                            <r2:Description>Modify ETIMS software to incorporate Joint Computer-Aided Acquisition and Logistics Support (JCALS) functionality and integrate additional ETIMS enhancements.  Effort previously titled: ETIMS Software Upgrade.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.512</r2:Funding>
+                                    <r2:Text>Initiated enhancement activities to continue ETIMS Software Upgrade.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Project 673318, Product Data Systems Modernization efforts transferred to PE 0708610F, Logistics Information Technology (Log IT), Project 675207 to align with the Enhanced Technical Information Management System (ETIMS) modification efforts funded within the Log IT PE.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>The acquisition strategy for ETIMS is to award on a firm-fixed price basis utilizing a competitive, best-value criteria as appropriate.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Manage and Support Technical Data Services</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FP</r2:ContractType>
+                                    <r2:PerformingActivity>NGIT</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Wright-Patterson AFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.512</r2:Amount>
+                                            <r2:AwardDate>2015-09</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.512</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>ETIMS Software Upgrade Enhancements Phase I CCA</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>ETIMS Software Upgrade Enhancements Phase I MS B (Sep 2015)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>675042</r2:ProjectNumber>
+                <r2:ProjectTitle>Log Application Logisitics Integration (LALI)</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>14.697</r2:PriorYear>
+                    <r2:CurrentYear>12.107</r2:CurrentYear>
+                    <r2:BudgetYearOne>9.128</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>9.128</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>9.334</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>9.527</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>9.738</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>9.948</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>Logistic, Installations and Mission Support - Enterprise View (LIMS-EV) implements Business Intelligence(BI) and Decision Support(DS) solutions and includes transitioning to a common Information Technology(IT) hosting environment and development of mobile infrastructure.  The AF must transform its logistics business processes and transition away from using numerous stovepipe systems and process flows that execute the same analysis and decision support tasks.  Eliminating process redundancies across the logistics enterprise will enable the AF to execute more efficient, cost-effective and integrated logistics in the long term. Leveraging emerging technology to enhance existing capabilities and developing a mobile solution satisfies current and future needs of the enterprise. LIMS-EV funding supports Business Intelligence (BI) and decision support development capability used by senior leaders and war fighters to access integrated information from multiple logistics and operational source systems. LIMS-EV funding will extend current BI capabilities to provide configurable alerting, predictive/what-if analysis, mobile applications and further integration of support equipment, vehicle, supply, commodities and components (engines, landing gears, fuel, etc.) to increase weapons systems availability and Total Asset Visibility (TAV) and migrates the LIMS-EV functionality from the retiring Global Combat Support System-Air Force (GCSS-AF) infrastructure to a an approved Joint Information Environment/Common Computing Environment.
+
+F-35 UIDES provides for Air Force development of a F-35 Autonomic Logistics Information System (ALIS) - User IT Data Exchange Service that supports current and future Information Exchange Requirement (IER) data transfer capability from the F-35 ALIS into data reports and configurable tables to receive, store and integrate
+F-35 operations, maintenance, training and financial data within existing Air Force enterprise views to support the growing fleet of AF F-35 aircraft. Funding supports
+modification of an enhanced data sharing capability (ability to consume increased volume and variety of ALIS IER data) to support depot data configuration and
+integration requirements. Activities also include studies and analysis to support both current program/project planning and execution and future program/project
+planning.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Projects (FY2015)</r2:Title>
+                            <r2:Description>Logistics, Installations and Mission Support - Enterprise View (LIMS-EV) funding supports Business Intelligence (BI) development of a dashboard capability used by senior leaders to access integrated, one-version-of truth information from multiple source systems. LIMS-EV funding will extend current BI capabilities to provide configurable alerting, predictive analysis, what-if analysis and further integration of support equipment, vehicle, supply, commodities and components (engines, landing gears, fuel, etc) to increase weapons systems availability and Total Asset Visibility (TAV).</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>6.145</r2:Funding>
+                                    <r2:Text>Delivered the Business Intelligence and decision support capabilities listed below:
+
+• Depot Maintenance View 1.1 - source for current and historical depot maintenance information; data is available for aircraft/equipment availability, maintenance, inventory, execution and supportability analysis.
+• Cost of Logistics 1.0 - (formerly known as Predictive Analysis) - automation of the Logistics Cost Model based on the Logistics Cost Reference Document.
+• Supply Chain Management 6.1 [AF Supply Chain Data Base] - tool built on BOBJ that delivers a wide variety of prebuilt and ad-hoc supply chain
+reports and analysis.
+• Equipment View 4.0 - provides an AF-wide total asset visibility tool for Support Equipment via aggregation of data from multiple data sources.
+• Engines View 2.2 - intuitive/flexible analysis tool of near real time and historical War Reserve Engine, Base Stock Level, Engine Not Mission Capable Supply, Customer Wait Time and critical status, inventory, and supply reports.
+• Weapons System View 7.1 [F-35 Integration] - incorporate F-35 data from Autonomic Logistics Information System into Weapons System View and Fleet Asset Status.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>LIMS-EV projects are broken out in separate Major Thrusts starting in FY16 for additional visibility.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>LIMS-EV projects are broken out in separate Major Thrusts starting in FY16 for additional visibility.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Vehicle View (VV) 5.2</r2:Title>
+                            <r2:Description>Migrate data source to Defense Property Accountability System (DPAS)</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.747</r2:Funding>
+                                    <r2:Text>Completed enhancement of LIMS-EV VV.  
+• Migrated the legacy data sources to the Defense Property Accountability System (DPAS) for the LIMS-EV Vehicle View (VV) application. 
+• Updated VV application’s reports and capabilities to be migrated to using data sourced from DPAS
+• Exposed DPAS data in Business Objects (BOBJ)
+• Implemented new search capability for VV
+• Added numeric Vehicle values to the Mission Capability Metrics
+• Added the ability to view the Mission Capability Report by day for the last 60 days due to the DPAS migration.
+• Modified the  Extract, Transfer, &amp; Load (ETL) request change for Due-In screen to daily
+• Added the ability to view current Due-In data based on the most current data available
+• Developed a Transaction Request functionality based on the following six request types: Update Asset, Load Asset, Excess, Move (Rotate), Multi, 601 Add, and Ship/Redistribution Order (RDO)</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.501</r2:Funding>
+                                    <r2:Text>Continue to migrate the legacy data sources from the Online Vehicle Information Management System (OLVIMS) to DPAS.   The applications, reports and capabilities will be modified/migrated to using data sourced from DPAS. Included in the data migration is the ability to expose the DPAS data in BOBJ.   This release also includes the development new functionality; the Transaction Request Tool which includes the ability for fleet managers to update, load, and move assets, as well as complete resale requests.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Equipment View (EV) 4.6</r2:Title>
+                            <r2:Description>Implement critical metrics associated with the new Redistribution and Mass Additive functionality</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.747</r2:Funding>
+                                    <r2:Text>Enhanced Equipment View as follows
+• Modified the Program Objectives Memorandum (POM) View Commodity Grouping to resolve an existing error
+• Enhanced the Dashboard Views to Adjust Cost
+• Added Top 10 Grid Header
+• Added a new Export Dropdown Menu 
+• Added the Fill Rate Cost Category and Subcategory Level
+• Modified the Export Results
+• Implemented Cascading Menus
+• Implemented Tool Tips
+• Added POM scenario Impact Statements for FY and scenario
+• Enhanced the capabilities Drop Down that Duplicates Vehicle View (SQL Error)
+• Modified the Help (?) Information
+• Added metrics:  Chief Financial Office (CFO) Non-Compliance, Support Equipment Variances, Support Equipment Rejects, Delinquent Equipment Inventory Accounts, Equipment Accountable Element (EAE) Visits, Use Code A (Mobility) Assets without a Unit Type Code (UTC)
+• Enhanced Leadership Tab Retail Filter Allowance Source Code
+• Enhanced Leadership Filters selection not carrying over to Equipment Management
+• Modified POM Tab Baseline and Completed WRM Data Alignment</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.501</r2:Funding>
+                                    <r2:Text>Continue to implement the remaining metrics not included in release 4.4 – primarily associated with the new Redistribution and Mass Additive functionality.  This release also modifies/enhances reports from Release 4.0 (Redistribution and Mass Additive functionality). Metrics include:  
+-- Provides the ability to report Command Eqiupment Management Office (CEMO), 404 Supply Chain Management Squadron (SCMS), and Fill Rate Metrics
+-- Applies data from Mal-Positioned Assets, Repair Execution, Retention Additives &amp; Disposals and Replacement Additives actions as well as user-entered input to calculate / present the defined metrics</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Repair Network View 4.0</r2:Title>
+                            <r2:Description>Develop a leadership view of Repair Network Integration (RNI) Metrics</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>3.236</r2:Funding>
+                                    <r2:Text>Develop leadership view of Repair Network Integration (RNI) metrics.  This release will provide a permanent Capability and Capacity (CAP2) Information Technology (IT) Tool and simulation capability to assist Repair Network managers in making resource allocation decisions.  Some examples include: 
+-- Support equipment prices for each equipment asset  pulled from Air Force Equipment Management System (AFEMS) 
+-- Quality Deficiency Report (QDR) data pulled from each node from Joint Deficiency Reporting System (JDRS)  
+-- Depot level production from IMPRESA (MROi) or Job Order Production Master System (JOPMS) G004L 
+-- Contract data reporting National Stock Numbers (NSNs) repaired at contractors from Contracting Information Database System (CIDS/J018) or Commercial Asset Visibility Air Force (CAV AF)</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Enterprise Mobile Viewer 1.0</r2:Title>
+                            <r2:Description>Develop a capability to support the use of mobile device technology, with the first phase focusing on integrating four LIMS-EV Vehicle View widgets</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>3.236</r2:Funding>
+                                    <r2:Text>Develop capability to support the use of mobile device technology, with the first phase focusing on integrating four LIMS-EV Vehicle View widgets.   Release enhances some of the existing capability, such as modifying the Prioritization Buy capability to support Item Manager functionality.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Weapons System Enterprise Review (WSER)</r2:Title>
+                            <r2:Description>Automate the AF Chief of Staff briefing (9 charts per WSER weapon system)</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.633</r2:Funding>
+                                    <r2:Text>Automate the AF Chief of Staff briefing (9 charts per WSER weapon system) that is delivered quarterly by AFLCMC/CC to AFMC/CC, MAJCOMs, and other key stakeholders.   WSER content includes Performance Execution (availability, engines, and aircraft delivery quality); Modernization Overall (cost, schedule, performance, and funding); Product Support (Logistics Health Assessment (LHA) and Leading Health Indicator (LHI) (engines)); Predictive Health (safety, service life, mission effectiveness, and weapon system sustainment (WSS) risk); and Operating Cost.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Enterprise Mobile Viewer 1.1</r2:Title>
+                            <r2:Description>Develop a capability to support the use of mobile device technology by four LIMS-EV Vehicle View widgets</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.432</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.432</r2:Funding>
+                                    <r2:Text>Develop the  mobile device technology for four LIMS-EV Vehicle View widgets to be accessed via USA/DoD-approved mobile devices and security.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Engine Health Management and Data Repository Center (EHM-DRC)</r2:Title>
+                            <r2:Description>Migration of Engine Health Management and Data Repository Center into LIMS-EV</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.757</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.757</r2:Funding>
+                                    <r2:Text>Migrate an Engine Health Management Data Repository Center (EHM-DRC) to GCSS-AF infrastructure and leverage GCSS-AF Enterprise Data Warehouse for data storage and interfaces as well as decision support capabilities to expose and analyze expanded engine health data to improve the reliability and performance.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Repair Network View 5.0</r2:Title>
+                            <r2:Description>Enhance Repair Network View (RNV) capability</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.879</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.879</r2:Funding>
+                                    <r2:Text>Enhance RNV by modifying existing reference tables, creating additional repair nodes, adding a frequency column to the “data source” area of view, mapping to different reference tables, and correcting issues with the Extract, Transform, and Load procedures.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Supply Chain Management 7.0</r2:Title>
+                            <r2:Description>Enhance Supply Chain Management (SCM) View</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.879</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.879</r2:Funding>
+                                    <r2:Text>Develop enhanced reports, queries, and views to include reporting and ability to distinguish USAF backorders; add Production Number (PDN) search in Edit box; ability to add incremental/auto fill PDN (4-digit national item identifier number (NIIN) query) drop down in Default Analysis;  create PDN Analysis Report; provide national stock number (NSN) entry conversion to accommodate hand-typed NSN.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Support Equipment Enterprise View</r2:Title>
+                            <r2:Description>Develop Support Equipment Enterprise View</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.757</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.757</r2:Funding>
+                                    <r2:Text>Develop a real time fleet summary of Support Equipment assets (ex. fully mission capable, partially mission capable, not mission capable).  Emulate the same metrics that are used for LIMS-EV Fleet Asset Status and Weapon System View.  Support Equipment (SE) community will be able to track status and location of SE assets (Full Mission Capable (FMC), Not Mission Capable (NMC), Partially Mission Capable (PMC)…) by Mission Designator (MD), Mission Designator Series (MDS), and Equipment identifier (ID).  Capability also Enables a priority buy capability – similar to LIMS-EV Vehicle View - better calculations for predicting asset service cliffs.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Cost of Logistics 2.0</r2:Title>
+                            <r2:Description>Enhance Cost of Logistics capability</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.879</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.879</r2:Funding>
+                                    <r2:Text>Address change request and deficiency reports in the Cost of Logistics capability, integrate variance tool, and update the existing dashboard.  Updates include providing the user the ability to export reports from the view (instead of having to export from BOBJ), Corrects the existing issue with the export feature, fixes the tool tips, modifies the “Data Source” area on the screen to include a “frequency column”, renames some views, and corrects the “Base” filter functionality.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Vehicle View 6.0</r2:Title>
+                            <r2:Description>Enhance Vehicle View capability</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.879</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.879</r2:Funding>
+                                    <r2:Text>Enable Vehicle Support Chain Operations Squadron (VSCOS) Installation Support Centralization (ISC) Initiative.  ISC is a CSAF directed action to centralize management of the AF’s vehicle fleet at Air Force Elements (AFELM) VSCOS.  The ISC initiative centralizes 55 processes from the MAJCOM’s to one central source within VSCOS.  Some of the enhancements include; Alerts and Event Management (AEM) Integration, enables same look and feel for VV that exists in latest LIMS-EV capabilities, applies hover overs on fields across the application, enables query tracking, enhances Item Manager functions, and provides a Depot Maintenance planning model.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>LIMS-EV Enterprise Propulsion Business Intelligence Tool</r2:Title>
+                            <r2:Description>Develop Enterprise Propulsion Business Intelligence Tool in LIMS-EV</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.666</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.666</r2:Funding>
+                                    <r2:Text>Develop Enterprise Propulsion BI Tool to enable engine managers with the ability to  forecast engine and component removals, identify business process gaps, consolidate existing applications/tools, and provide metrics and analysis for existing or new engines based on Thrust, Weight, Fuel, Cost, etc.  Migrate manual products generated by the actuary's office.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>F-35 ALIS-UIDES Integration</r2:Title>
+                            <r2:Description>Funding for F-35 UIDES will continue Air Force development of a F-35 Autonomic Logistics Information System (ALIS) - User IT Data Exchange Service that supports current and future Information Exchange Requirement (IER) data transfer capability from the F-35 ALIS into data reports and configurable tables to receive, store and integrate F-35 operations, maintenance, training and financial data within existing Air Force enterprise views to support the growing fleet of Air Force F-35 aircraft.  Funding will also support development of an enhanced data sharing capability (ability to consume increased volume and variety of ALIS IER data) to support depot data configuration and integration requirements.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>5.058</r2:Funding>
+                                    <r2:Text>Continued Air Force development of a F-35 Autonomic Logistics Information
+System (ALIS) - User IT Data Exchange Service that supports current and
+future Information Exchange Requirement (IER) data transfer capability from
+the F-35 ALIS into data reports and configurable tables to receive, store
+and integrate F-35 operations, maintenance, training and financial data
+within existing Air Force enterprise views to support the growing fleet of
+Air Force F-35 aircraft. Funding will also support development of an
+enhanced data sharing capability (ability to consume increased volume and
+variety of ALIS IER data) to support depot data configuration and
+integration requirements.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>F-35 UIDES effort realigned in FY16-out under PE 0604800F, F-35 Lightning II Joint Strike Fighter.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>LIMS-EV will utilize services provided by Global Combat Support System Air Force (GCSS-AF) Integration Framework.  GCSS-AF Data Services Program Management Office (PMO), as LIMS-EV Program Manager, is responsible to competitively acquire additional LIMS-EV capabilities using a variety of fixed price, labor hour, time and material, and cost plus contracts.  
+
+LIMS-EV capabilities utilize services provided by Global Combat Support System Air Force (GCSS-AF) Integration Framework.  GCSS-AF Data Services PMO, as LIMS-EV Program Manager, manages LIMS-EV development projects following standard software development release process.
+
+LIMS-EV development projects will be awarded as task orders using GCSS AF 2 contract with GCSS AF Data Services Program Management Office, Wright-Patterson Air Force Base, Ohio.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Depot Maintenance View 1.1; Cost of Logistics 1.0; Supply Chain Management 6.1 [AF Supply Chain Data Base]; Engines View 2.2;</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>5.621</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Vehicle View 5.2</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.327</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.227</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                            <r2:AwardDate>1901-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineer Contractor Support (Product Development) Equipment View 4.6</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.327</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.227</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Repair Network View 4.0</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.599</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Enterprise Mobile Viewer 1.0</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.599</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Weapons System Enterprise Review</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.155</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Enterprise Mobile Viewer 1.1</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.432</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.432</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Engine Health Management and Data Repository Center</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.757</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.757</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Repair Network View 5.0</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.879</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.879</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) SCM View 7.0</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.879</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.879</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) SE-Enterprise View</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.757</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.757</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Cost of Logicstics 2.0</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.879</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.879</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Vehicle View 6.0</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.879</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.879</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>LALI LIMS-EV Systems Engineering Contractor Support (Product Development) Enterprise Propulsion BI Tool</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.666</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.666</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Autonomic Logistic Information System (ALIS)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Lockheed Martin</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>4.422</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Program Management Administration (PMA) LALI Program Management Office (PMO) Support</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>DSD/Deloitte</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Arlington, VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>2.000</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.300</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Vehicle View 5.2</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Equipment View 4.6</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Repair Network View 4.0</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Enterprise Mobile Viewer 1.0</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Weapon System Enterprise Review</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Engine Health Management and Data Repository Center</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Enterprise Mobile Viewer 1.1</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Repair Network View 5.0</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Supply Chain Management View 7.0</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Support Equipment Enterprise View</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Cost of Logistics 2.0</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Vehicle View 6.0</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV Enterprise Propulsion Business Intelligence Tool</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV 2.0 MS C (Jun 2018)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>LIMS-EV 2.0 FOC (Oct 2018)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

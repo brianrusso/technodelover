@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1160279BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Small Business Innovative Research</r2:ProgramElementTitle>
+        <r2:R1LineNumber>243</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>172.933</r2:AllPriorYears>
+            <r2:PriorYear>14.438</r2:PriorYear>
+            <r2:CurrentYear>0.000</r2:CurrentYear>
+            <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>This program element consists of a highly competitive three-phase award system that provides qualified small business concerns with the opportunity to propose high quality innovative ideas that meet specific research and development needs of USSOCOM.  Small Business Innovative Research (SBIR) is a result of the Small Business Development Act of 1992.  It was enacted by Congress in Public Law 97-219, reenacted by Public Law 99-443, and reauthorized by the SBIR Program Reauthorization Act of 2012.  Starting in FY 1994, the SBIR program was refocused toward dual use and defense reinvestment efforts.  Phase I projects evaluate the scientific technical merit and feasibility of an idea.  Phase II projects expand the results of, and further pursue, the developments of Phase I.  Phase III is for commercialization of the results of Phase II and requires the use of private or non-SBIR federal funding.  USSOCOM participates annually in the DOD Request for Proposal process.  USSOCOM then awards its proposed SBIR projects.  FY 2014 is the first year USSOCOM is participating in the Small Business Technology Transfer (STTR) program.  The STTR goal is similar to the SBIR program, but the STTR program has the additional goal to expand public/private sector partnerships between small business and nonprofit U.S. research institutions.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>14.438</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>14.438</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>14.438</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding:     
+
+FY 2015:  Increase of $14.438 million is due to reprogramming from various program elements for the congressionally mandated Small Business Innovative Research ($12.688 million) and Small Business Technology Transfer ($1.750 million) programs.
+
+FY 2016:   None.
+
+FY 2017:  None.
+
+Schedule:  None.
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S050</r2:ProjectNumber>
+                <r2:ProjectTitle>Small Business Innovative Research</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>171.634</r2:AllPriorYears>
+                    <r2:PriorYear>12.688</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project consists of a highly competitive three-phase award system that provides qualified small business concerns with the opportunity to propose high quality innovative ideas that meet specific research and development needs of USSOCOM.  Small Business Innovative Research (SBIR) is a result of the Small Business Development Act of 1992.  It was enacted by Congress in Public Law 97-219, reenacted by Public Law 99-443, and reauthorized by the SBIR Program Reauthorization Act of 2012.  Starting in FY 1994, the SBIR program was refocused toward dual use and defense reinvestment efforts.  Phase I projects evaluate the scientific technical merit and feasibility of an idea.  Phase II projects expand the results of, and further pursue, the developments of Phase I.  Phase III is for commercialization of the results of Phase II and requires the use of private or non-SBIR federal funding.  USSOCOM participates annually in the DOD Request for Proposal process.  USSOCOM then awards its proposed SBIR projects.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Small Business Innovative Research (SBIR)</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>12.688</r2:Funding>
+                                    <r2:Text>Awarded numerous Phase I and Phase II contracts and contract options for SBIR topics:  Maritime Surface Search Phase Array, Dual Speed Read Out Integrated Circuit, Abrasion Laceration &amp; Puncture Protection, Novel Optical Solutions, Reduced Size, Weight, and Power Enhanced Electro-Optical, and Team Special Reconnaissance Day/Night Motion Sensor.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>The Small Business Innovative Research (SBIR) is a three-phase program that provides early-stage R&amp;D to small companies. Eligible projects must fulfill an R&amp;D need identified by DOD and have the potential to be developed into a product or service for commercial or defense markets. SBIR is designed to stimulate technological innovation, increase private sector commercialization of federal R&amp;D, increase small business participation in federally funded R&amp;D and foster participation by minority and disadvantaged firms in technological innovation.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Maritime Surface Search Phase Array</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.300</r2:Amount>
+                                            <r2:AwardDate>2015-07</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.300</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Dual Speed Read Out Integrated Circuit (IC) (ROIC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>NU TREK</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>San Diego, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.906</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.906</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Abrasion, Laceration and Puncture Protection</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Nanosonic</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Pembroke, VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.250</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.018</r2:Amount>
+                                            <r2:AwardDate>2015-04</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.268</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Novel Optical Solutions</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.450</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.450</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Reduced SWAP Enhanced Electro-Optical</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.600</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.600</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Team Special Reconnaissance Day/Night Motion Sensor</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.600</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.600</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Phase II >$750K</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>6.973</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>10.720</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>17.693</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>163.505</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>163.505</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>SBIR Projects</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Maritime Surface Search Phase Array</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Dual Speed Read Out IC</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Abrasion, Laceration and Puncture Protection</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Novel Optical Solutions</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Reduced Size, Weight, and Power Enhanced Electro-Optical</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Team SR Day/Night Motion Sensor</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Phase II >$750K</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>S051</r2:ProjectNumber>
+                <r2:ProjectTitle>Small Business Technology Transfer</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>1.299</r2:AllPriorYears>
+                    <r2:PriorYear>1.750</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>Small Business Technology Transfer (STTR) goal is the expand public/private sector partnerships between small business and nonprofit U.S. research institutions.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Small Business Technology Transfer (STTR)</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.750</r2:Funding>
+                                    <r2:Text>A Science and Technology (STTR) Phase II contract was awarded to produce a prototype for the MK3 Upper Extremity Exoskeleton to support USSOCOM's Tactical Assault Light Operator Suite program.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>STTR provides early-stage R&amp;D funding directly to small companies working cooperatively with researchers at universities and other research institutions.  STTR program is also a three-phased program and designed to stimulate technological innovation, increase private sector commercialization of federal R&amp;D, increase small business participation in federally funded R&amp;D and foster participation by minority and disadvantaged firms in technological innovation.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Tactical Assault Light Operator Arm Reaction/Manipulation System Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Materials &amp; Electrochemical Research</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Tucson, AZ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.110</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.311</r2:Amount>
+                                            <r2:AwardDate>2015-12</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>2.421</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>STTR &lt; $1M</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.189</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.439</r2:Amount>
+                                            <r2:AwardDate>2016-09</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>STTR Projects</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Award Tactical Assault Light Operator Arm Reaction/Manipulation System contact</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>STTR &lt;$1M</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

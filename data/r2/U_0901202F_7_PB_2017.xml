@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" format="R2Long" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0901202F</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Joint Personnel Recovery Agency</r2:ProgramElementTitle>
+        <r2:R1LineNumber>237</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Air Force</r2:ServiceAgencyName>
+        <r2:AppropriationCode>3600</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Air Force</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>2.523</r2:PriorYear>
+            <r2:CurrentYear>5.911</r2:CurrentYear>
+            <r2:BudgetYearOne>3.663</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>3.663</r2:BudgetYearOneBase>
+            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            <r2:BudgetYearTwo>2.000</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>2.037</r2:BudgetYearThree>
+            <r2:BudgetYearFour>2.074</r2:BudgetYearFour>
+            <r2:BudgetYearFive>2.111</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>2.603</r2:PriorYear>
+                <r2:CurrentYear>5.911</r2:CurrentYear>
+                <r2:BudgetYearOne>3.948</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>3.948</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>2.523</r2:PriorYear>
+                <r2:CurrentYear>5.911</r2:CurrentYear>
+                <r2:BudgetYearOne>3.663</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>3.663</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-0.080</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.285</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.285</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:CongressionalDirectedReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:CongressionalRescissions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:CongressionalAdds>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:CongressionalDirectedTransfers>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedTransfers>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>-0.080</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>-0.285</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.285</r2:BudgetYearOneBase>
+                            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>675196</r2:ProjectNumber>
+                <r2:ProjectTitle>Joint Technology Exploitation</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>2.523</r2:PriorYear>
+                    <r2:CurrentYear>5.911</r2:CurrentYear>
+                    <r2:BudgetYearOne>3.663</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>3.663</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>2.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>2.037</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>2.074</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>2.111</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>The FY17 funding request was reduced by $.269M to account for the availability of prior year execution balances.
+
+Funding supports Personnel Recovery development efforts to upgrade Isolated Personnel reporting devices &amp; locating systems in support of Combatant Commanders and Services. Joint Personnel Recovery Agency (JPRA) developmental efforts address Personnel Recovery capability shortfalls &amp; gaps identified in the Personnel Recovery Initial Capabilities Document approved by Joint Requirements Oversight Council Memorandum 120-12 on 8 Aug 2012. Activties include funding for research and development, support equipment, contract services and all associated costs specifically identified to support the JPRA headquarters at Ft. Belvoir, VA and other JPRA operating locations.
+
+In FY16, the Common Distress Reporting System (CDRS) began development.  CDRS will integrate all personnel locating devices into the existing reporting device architecture &amp; Combat Survivor Evader Locater base stations to provide one common operating picture for timely and efficient recovery operations of isolated personnel.
+
+This program is in Budget Activity 7, Operational System Development because this budget activity includes efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent year.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Common Distress Reporting System</r2:Title>
+                            <r2:Description>Develop/implement the Common Distress Reporting System</r2:Description>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>3.930</r2:Funding>
+                                    <r2:Text>- Beginning of the Common Distress Reporting System (CDRS)development. CDRS will integrate all personnel locating devices into the existing reporting device architecture &amp; Combat Survivor Evader Locater base stations to provide one common operating picture for timely and efficient recovery operations of isolated personnel.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.948</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.948</r2:Funding>
+                                    <r2:Text>- Continue the Common Distress Reporting System (CDRS)development. CDRS will integrate all personnel locating devices into the existing reporting device architecture &amp; Combat Survivor Evader Locater base stations to provide one common operating picture for timely and efficient recovery operations of isolated personnel.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Optimal Search Study</r2:Title>
+                            <r2:Description>Assess and evaluate technologies for personnel recovery geospatial data
+visualization, predictive and real-time planning capabilities</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.687</r2:Funding>
+                                    <r2:Text>- Continued assessment and evaluation of real-time search planning capability and modeling and simulation to assess operational personnel recovery plans.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.165</r2:Funding>
+                                    <r2:Text>- Finalize the assessment and evaluation of real-time search planning capability and modeling and simulation to assess operational personnel recovery plans.</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Collaborative Personnel Recovery planning systems &amp; PR Capabilities Development</r2:Title>
+                            <r2:Description>- Assess and evaluate technologies for personnel recovery real-time collaborative planning capabilities to include cyber support to personnel recovery, standardization and interoperability of joint personnel recovery mission management and planning systems, and standardization of human and machine-to-machine information exchanges, communications, and data transfer to facilitate mission planning for personnel recovery</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.836</r2:Funding>
+                                    <r2:Text>- Assessed and evaluated technologies for personnel recovery real-time collaborative planning capabilities to include cyber support to personnel
+recovery, standardization and interoperability of joint personnel recovery mission management and planning systems, and standardization of human and machine-to-machine information exchanges, communications, and data transfer to facilitate mission planning for personnel recovery</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.816</r2:Funding>
+                                    <r2:Text>- Continue to assess and evaluate technologies for personnel recovery real-time collaborative planning capabilities to include cyber support to personnel recovery, standardization and interoperability of joint personnel recovery mission management and planning systems, and standardization of human and machine-to-machine information exchanges, communications, and data transfer to facilitate mission planning for personnel recovery</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.715</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.715</r2:Funding>
+                                    <r2:Text>- Continue to assess and evaluate technologies for personnel recovery real-time collaborative planning capabilities to include cyber support to personnel recovery, standardization and interoperability of joint personnel recovery mission management and planning systems, and standardization of human and machine-to-machine information exchanges, communications, and data transfer to facilitate mission planning for personnel recovery</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>Projects will leverage existing program contracts.  In the rare instance where a contract does not already exist, contracts will be awarded through full and open competition.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Common Distress Reporting System</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>TBD</r2:ContractType>
+                                    <r2:PerformingActivity>AFLCMC/HBZ</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Huntington Beach, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>3.930</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.948</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.948</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Optimal Search Study</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.687</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.165</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Collaborative Personnel Recovery Planning Systems &amp; PR Capabilities Development</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.836</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.816</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.715</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.715</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Personnel Recovery Modeling and simulation development</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Common Distress Reporting System</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Optimal Search Study</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Collaborative Personnel Recovery planning systems</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

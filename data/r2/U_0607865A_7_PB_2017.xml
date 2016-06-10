@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0607865A</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Patriot Product Improvement</r2:ProgramElementTitle>
+        <r2:R1LineNumber>175</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Army</r2:ServiceAgencyName>
+        <r2:AppropriationCode>2040</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Army</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>57.962</r2:PriorYear>
+            <r2:CurrentYear>89.816</r2:CurrentYear>
+            <r2:BudgetYearOne>49.482</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>49.482</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>119.426</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>53.442</r2:BudgetYearThree>
+            <r2:BudgetYearFour>30.850</r2:BudgetYearFour>
+            <r2:BudgetYearFive>63.422</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementNote>Beginning FY17, funding specific to LTAMD-C realigned to PE 0604114A, Lower Tier Missile Defense (LTAMD) Capability.</r2:ProgramElementNote>
+        <r2:ProgramElementMissionDescription>PATRIOT is an advanced Surface-to-Air guided missile system with a high probability of kill, capable of operation in the presence of Electronic Countermeasures (ECM) and able to conduct multiple simultaneous engagements against high performance air breathing targets and ballistic missiles likely to be encountered by U.S. Forces.  The PATRIOT Product Improvement Program provides for the upgrade of the PATRIOT System through individual materiel changes and upgrades to the PATRIOT system to address operational lessons learned, enhancements to joint force interoperability, and other system performance improvements to provide overmatch capability with the emerging threat.  Efforts will be made to expedite PATRIOT materiel solutions (e.g. Radar Digital Processor, Communications Upgrades, address Tactical Ballistic Missile (TBM) capability, Combat ID, and Advanced ECM improvements) to both enhance capability and facilitate integration into the Integrated Air and Missile Defense (IAMD) architecture.  
+
+The software funding provides improvements to the PATRIOT system against the evolving threat. This effort supports work with national agencies to evaluate, assess, and develop means to mitigate threat trends and specific threat developments potentially impacting system performance.  Specific improvements may be developed and fielded under this task if warranted. The effort maintains the Mission Tailoring Database, responding to immediate tactical concerns.  Database updates are fielded between major software upgrades as necessary.
+
+FY2017 base dollars will add assured Positioning, Navigation, and Timing (PNT) activities and continue Software Improvement for Threat Evolution, Advanced Electronic Counter Measures (AECM), Tasks 2, 6, and 7 activities, and Combat ID Enhancements for the PATRIOT Product Improvement Program (PIP).</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>57.962</r2:PriorYear>
+                <r2:CurrentYear>105.816</r2:CurrentYear>
+                <r2:BudgetYearOne>131.365</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>131.365</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>57.962</r2:PriorYear>
+                <r2:CurrentYear>89.816</r2:CurrentYear>
+                <r2:BudgetYearOne>49.482</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>49.482</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>-16.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-81.883</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-81.883</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalDirectedReductions>
+                    <r2:CurrentYear>-16.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Adjustments to Budget Years</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-81.883</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-81.883</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>DV8</r2:ProjectNumber>
+                <r2:ProjectTitle>Patriot Product Improvement</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>57.962</r2:PriorYear>
+                    <r2:CurrentYear>89.816</r2:CurrentYear>
+                    <r2:BudgetYearOne>49.482</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>49.482</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>119.426</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>53.442</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>30.850</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>63.422</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectNote>Beginning FY17, funding specific to LTAMD-C realigned to PE 0604114A, Lower Tier Missile Defense (LTAMD) Capability.</r2:ProjectNote>
+                    <r2:ProjectMissionDescription>Software Improvements for threat evolution:  Performs necessary analysis and development efforts to maintain PATRIOT system effectiveness against evolving threat technologies and specific threat capabilities.  This effort identifies evolving threats and threat characteristics that might present a challenge to PATRIOT's current capabilities and develops initial concepts to maintain system effectiveness relative to these threats.  
+
+Upper-Tier Debris Mitigation (UTDM):  Implements algorithms to mitigate system impacts of debris from Upper Tier intercepts associated with operating in the Ballistic Missile Defense System (BMDS) environment.  Debris from Upper Tier intercepts can cause significant radar loading effects and the potential for erroneous engagements and missile wastage on debris.
+
+Radar Digital Processor (RDP) Development:  Incorporates improvements to mitigate radar hardware obsolescence, improves Reliability, Availability and Maintainability (RAM) and improves performance of the PATRIOT Radar Set against evolving threat sets.  This program includes the implementation of Identification Friend or Foe Mode 5 Level 1 / Level 2, and a Non-Cooperative Target Recognition Combat ID technique to mitigate potential fratricide risk, and the development of CONOPS to incorporate the new Combat ID capabilities into system operation.  The RDP also provides the necessary radar processing capability to support follow-on Evolutionary Development Program (EDP) Tasks 6 and 7 to counter emerging threats and provide data necessary to support migration to IAMD.  The RDP is a pre-requisite for migration to an IAMD Netted Sensor.
+
+RDP Waveform Suite:  Develops a comprehensive set of waveforms in the RDP to improve PATRIOT radar capabilities against current and evolving threats, including support to Task 6 and 7 efforts (see below), and implements advanced data collection enabled by the RDP to support further system improvements.  The RDP implementation allows significant radar waveform improvements necessary to counter evolving threats.
+
+SIPRNet/NIPRNet Access Point/Troposcatter (SNAP/TROPO):  Provides hardware interfaces to support extended range communications within the battalion (TROPO) and Force Operations interfaces to satellite for access to SIPR/NIPR worldwide communication networks. 
+ 
+THAAD/PATRIOT Interoperability:  Implements improvements to THAAD/PATRIOT Interoperability and addresses Joint Defense Network deficiencies that impact Tactical Ballistic Missile battle management and force/engagement operations.  Efforts will be concentrated on joint, collaborative force operations (defense design and planning) and enhanced Tactical Digital Information Link - Joint interoperability. 
+ 
+Advanced Electronic Counter Measures (AECM):  This task investigates the implications of advanced technology Digital Radio Frequency Memory available on airborne platforms that enables new ECM techniques which could adversely affect Air and Missile Defense System effectiveness.   
+
+Task 2:  Implements improved ground system and interceptor capabilities (PATRIOT Advanced Capability-2/Guidance Enhanced Missiles, PATRIOT Advanced Capability-3, and Missile Segment Enhancement) to counter emerging Tactical Ballistic Missile threats.
+ 
+Task 6:  Software improvements enhance discrimination of higher altitude Tactical Ballistic Missile Re-entry Vehicles (RVs) from associated objects to support the full engagement capabilities of the interceptor.  Longer-range detection, track, and improved high-altitude discrimination are required to achieve the required lethality performance against the RV and to mitigate missile wastage against separation debris.  This task leverages the signal processing capabilities of the Radar Digital Processor, and supports the high altitude engagements required by the PATRIOT Advanced Capability-3 (PAC-3) and PAC-3 Missile Segment Enhancement  missiles.
+
+Task 7:  Software improvements analyze existing and evolving Tactical Ballistic Missile countermeasures and their effects on PATRIOT system effectiveness.  Develops concepts to address countermeasure effects and ensure the PATRIOT system maintains its effectiveness.  Develops detailed system requirements to implement concepts; design/code/test software implementation leveraging Radar Digital Processor, Modernized Adjunct Processor, Enhanced Weapons Control Computer - Emulator and Flight Solution Computer-Redesign processing capabilities.
+
+Assured Positioning, Navigation, and Timing (PNT):  Efforts will develop and test the military’s improved Global Position M-Code with Patriot Major End Items (MEI) integrating the improved anti-jamming and secure access of military GPS signals.  This effort meets the requirement for Assured PNT through M-Code as mandated by FY2011 National Defense Act, public law 111-383 &amp; 913.
+
+Combat ID Enhancements:  Develop and implement improvements to the Radar Digital Processor-Capability Combat ID capabilities and additional Non-Cooperative Target Recognition techniques to further mitigate misclassification and fratricide risk, and to provide the Warfighter with improved situational awareness.
+
+Lower Tier Air &amp; Missile Defense-Capability (LTAMD-C)/ Flat Panel Array Concept Study:  This task provides studies for initial concepts and performance capabilities related to the implementation of an Active Electronically Scanned Array (AESA) transmitter/antenna into the PATRIOT radar.  These assessments are needed to refine user community expectations and requirements, and to prepare a viable set of requirements to support a competitive modernization competition.
+
+Anti-Radiation Missile (ARM) Asset Defense:  Provides improved capability for PATRIOT to protect other Army and Joint Services Sensors from ARM attacks.  Builds on an initial capability provided in Post-Deployment Build-7 by determining remaining gaps, identifying and evaluating alternatives, and implementing further improvements.
+
+Lower Tier Air &amp; Missile Defense-Capability (LTAMD-C):  LTAMD-C tasks include all the programmatic and engineering activities needed for the LTAMD-C Materiel Development Decision, Analysis of Alternatives, and Business Case Analyses/Trades. Once the material solution has been determined, the development effort for LTAMD-C will be accomplished.  These activities will continue through the Technology Maturation and Risk Reduction and Engineering and Manufacturing Development phase to enable the prototyping, development, and testing of the LTAMD-C continued under 0604114A in FY17.
+
+U.S. Government and contractor support for PIP efforts.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>PATRIOT Product Improvement</r2:Title>
+                            <r2:Description>Continuous Improvement to Counter the Evolving Threat.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>57.962</r2:Funding>
+                                    <r2:Text>-Continued Software Improvement for Threat Evolution.  
+-Radar Digital Processor (RDP) development near completion.  
+-Incorporated initial Advanced Electronic Countermeasures (AECM) Missile Guidance improvements and developed additional system concepts to address known AECM threats. 
+-Supported improvements for SIPRNet/NIPRNet Access Point / Troposcatter (SNAP/TROPO) and Lower Tier Air &amp; Missile Defense-Capability (LTAMD-C) Concept Study.  
+-Continued efforts for LTAMD-C Analysis of Alternatives (AoA).  
+-Continued concept development for Tasks 2, 6, and 7 capabilities, and Combat ID enhancements.  
+-U.S. Government and contractor support to counter emerging threat.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>89.816</r2:Funding>
+                                    <r2:Text>-Continues Software Improvement for Threat Evolution and continues efforts deferred from FY15 for Upper Tier Debris Mitigation, Combat ID enhancements, THAAD/ PATRIOT Interoperability and Tasks 2, 6, and 7 activities.  
+-Continues RDP integration into the PDB-8 system configuration to support the U.S. FY2017 fielding, to provide the field with additional capability and growth potential to counter emerging threats.  
+-Continues AECM development, Lower Tier Air &amp; Missile Defense-Capability (LTAMD-C) Concept Study and begins Anti-Radiation Missile (ARM) Asset Defense development.  
+-Completes RDP developmental efforts.  
+-U.S. Government and contractor support to counter emerging threat.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>49.482</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>49.482</r2:Funding>
+                                    <r2:Text>-Continues Software Improvement for Threat Evolution and efforts for Advanced Electronic Countermeasures (AECM).
+-Continues Combat ID Enhancements.  
+-Continues Tasks 2, 6, and 7 activities.  
+-U.S. Government and contractor support to counter emerging threat.
+-Initiate development activities associated with Positioning, Navigation, and Timing (PNT).</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>C50700</r2:LineItem>
+                            <r2:Title>Patriot Mods (C50700)</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>183.838</r2:PriorYear>
+                                <r2:CurrentYear>241.883</r2:CurrentYear>
+                                <r2:BudgetYearOne>197.107</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>197.107</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>318.940</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>304.064</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>201.403</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>168.760</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:OtherProgramFundingSummaryRemarks>The improvements/enhancements developed through the PATRIOT Product Improvement Program (PIP) are interrelated with the hardware kits that are procured and installed under the Missile Procurement, Army (MIPA) appropriation's PATRIOT Mods program and maximize the PAC-3 MSE capabilities.</r2:OtherProgramFundingSummaryRemarks>
+                    <r2:AcquisitionStrategy>The design objective of the PATRIOT system was to provide a baseline system capable of modification to cope with continuing threat evolution.  This program minimizes technological risks and provides a means of enhancing system capability through planned upgrades of deployed systems.  The PATRIOT Product Improvement Program upgrades the PATRIOT system to address operational lessons learned, enhancements to joint force interoperability and communications, and other system performance improvements to provide overmatch capability against the emerging threat.  Upgrades are implemented through individual hardware and software materiel changes and fielded incrementally. This program encompasses several changes which will require the use of a variety of acquisition methods to develop, test, procure and field.  Future software capabilities will be incorporated into future Post Deployment Build (PDB) releases.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Government Program Management</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>RSA, AL</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MIPR</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.138</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.762</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>4.000</r2:Amount>
+                                            <r2:AwardDate>2015-10</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>2.379</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>2.379</r2:Amount>
+                                            <r2:AwardDate>2016-10</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>Continuing</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>U.S. Contracts</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.361</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.800</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.600</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.600</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.600</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>Continuing</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:Remarks>The contract method type Sole Source/Various is Fixed Price Level of Effort which includes Cost Plus Fixed Fee for material, ODC, and travel.</r2:Remarks>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Software Improvement for Threat Evolution</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>12.870</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>8.900</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>9.600</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>8.442</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>8.442</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Upper Tier Debris Mitigation (UTDM)</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.000</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Radar Digital Processor (RDP) Development</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Raytheon</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Andover, Massachusetts</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>39.635</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>8.700</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.500</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SNAP/TROPO</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>2.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.400</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0</r2:CostToComplete>
+                                        <r2:TotalCost>2.400</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>RDP Waveform Suite</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Raytheon</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Andover, Massachusetts</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0</r2:CostToComplete>
+                                        <r2:TotalCost>0</r2:TotalCost>
+                                        <r2:TargetValue>2.500</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>THAAD PATRIOT Interoperability</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Raytheon</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Andover, Massachusetts</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.200</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.000</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Advanced Electronic Counter Measures (AECM)</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>6.700</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>20.000</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>15.000</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>9.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>9.000</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Task 2 Non-Ballistic Tactical Ballistic Missile (TBM)</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>5.200</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>5.500</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>14.000</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>5.400</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>5.400</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Task 6 Discrimination Improvements</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>4.100</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>2.400</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>15.500</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>6.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>6.000</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Task 7  Tactical Ballistic Missile (TBM) Countermeasures</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.000</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>12.000</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>4.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>4.000</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Assured PNT</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>7.440</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>7.440</r2:Amount>
+                                            <r2:AwardDate>2017-04</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Combat ID Enhancements</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.800</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.000</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>9.016</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>4.621</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>4.621</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Lower-Tier Air &amp; Missile Defense-Capability Concept Study (Flat Panel Array Concept Development)</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.300</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.000</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.000</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0</r2:CostToComplete>
+                                        <r2:TotalCost>3.300</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Anti-Radiation Missile (ARM) Asset Defense</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Raytheon</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Andover, Massachusetts</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.000</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0</r2:CostToComplete>
+                                        <r2:TotalCost>2.000</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Lower Tier Air &amp; Missile Defense-Capability</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Multiple</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Multiple</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>5.000</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>0</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>RDEC and Other Govt Agencies</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>RSA, AL</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MIPR</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.812</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.500</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.600</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.600</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.600</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>Continuing</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>98191-23.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Software Build</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2005</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Advanced Electronic Counter Measures (AECM)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Software Improvement for Threat Evolution</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Combat ID Enhancements</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>PDB 8 IOC</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>PDB 8 Fielding</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Task 2 Non-Ballistic Tactical Ballistic Missile (TBM)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Task 6 Discrimination Improvements</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Task 7 Tactical Ballistic Missile (TBM) Countermeasures</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Assured PNT</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Radar Digital Processor Development</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2012</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Lower Tier Air &amp; Missile Defense-Capability (LTAMD-C) Concept Study</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2014</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

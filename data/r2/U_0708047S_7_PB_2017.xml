@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0708047S</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Defense Property Accountability System (DPAS)</r2:ProgramElementTitle>
+        <r2:R1LineNumber>239</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Defense Logistics Agency</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>0.000</r2:PriorYear>
+            <r2:CurrentYear>0.000</r2:CurrentYear>
+            <r2:BudgetYearOne>2.154</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>2.154</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>2.924</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>2.972</r2:BudgetYearThree>
+            <r2:BudgetYearFour>3.021</r2:BudgetYearFour>
+            <r2:BudgetYearFive>3.071</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>The Defense Property Accountability System (DPAS) provides the Department an accountability system which is fully compliant with financial reporting regulations and has a clean audit history.  With an integrated accountability, utilization, maintenance, and warehouse capability, it is able to provide the Department an enterprise solution for asset management.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>2.849</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>2.849</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>2.154</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>2.154</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.695</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.695</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>SRRBs/U</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-0.695</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.695</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>In FY 2017, PE was reduced by $0.695M for Services Requirements Review Boards (SRRBs)/ Contractor Courts (U).</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>1</r2:ProjectNumber>
+                <r2:ProjectTitle>DPAS</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>2.154</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>2.154</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>2.924</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>2.972</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>3.021</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>3.071</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The DPAS system provides accountability and management functionality to the Department.  The budgeted projects will provide enhancements to the existing capability, ensure efficient operability, and provide solutions for process gaps as they are discovered.  The greater enhancements to DPAS allow the DoD to sunset legacy systems; DPAS assimilates the legacy functionality into the overall operations.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Release DPAS v 4</r2:Title>
+                            <r2:Description>Provide enhancements to the warehouse management functions; incorporate vehicle telematics; improve the data warehousing for transaction history.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>2.154</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>2.154</r2:Funding>
+                                    <r2:Text>Provide enhancements to the warehouse management functions; incorporate vehicle telematics; improve the data warehousing for transaction history.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:PerformanceMetrics>DPAS will ensure the obligations and expenditures are in line with OSD (Comptroller) guidance, as currently issued.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DPAS version 4 development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPIF</r2:ContractType>
+                                    <r2:PerformingActivity>Contractor TBD</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>2.154</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>2.154</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>DPAS Gantt 2.jpg</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>N/A No Sub Projects</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2008</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2008</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

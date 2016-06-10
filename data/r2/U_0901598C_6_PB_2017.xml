@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0901598C</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Management HQ - MDA</r2:ProgramElementTitle>
+        <r2:R1LineNumber>176</r2:R1LineNumber>
+        <r2:MdapCode>362</r2:MdapCode>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Missile Defense Agency</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>6</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>RDT&amp;E Management Support</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>95.210</r2:AllPriorYears>
+            <r2:PriorYear>35.598</r2:PriorYear>
+            <r2:CurrentYear>35.871</r2:CurrentYear>
+            <r2:BudgetYearOne>31.160</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>31.160</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>29.814</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>27.889</r2:BudgetYearThree>
+            <r2:BudgetYearFour>27.131</r2:BudgetYearFour>
+            <r2:BudgetYearFive>27.737</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementNote>Beginning FY 2017, the Management Headquarters Activity (MHA) Program Element (PE) 0901598C decreases due to Department of Defense (DoD) reform efforts to maintain major headquarter activities' civilian staffing at reduced levels.  DoD efforts to establish a common MHA framework resulted in a net funding decrease due to the transfer of civilian manpower performing functions MDA considered MHA in prior years.  Funding and civilian manpower performing these non-MHA functions were appropriately transferred to Program Wide Support.  Implementation of prior year efficiencies also continues in FY 2017.</r2:ProgramElementNote>
+        <r2:ProgramElementMissionDescription>As prescribed by DoD Directive 5100.73 Major Headquarters Activities, MDA's Management Headquarter supports the operation of MDA's management headquarters activities.  This program element funds government civilian salaries and benefit, travel, contract support services, facility and logistics support functions, transportation subsidies, security and emergency management, and operations of non-fielded activities.
+
+Management Headquarter Activities provide executive leadership planning, develop centralized agency policy, prepare and defend annual budget submissions, respond to external inquiries, and implement SECDEF and Presidential priorities.  As a DoD research, development and acquisition agency, the Headquarter Activities provide cost efficient oversight; direction; and control of initiatives and processes that assure best value, high quality, on-time and successful performance of MDA acquisition programs.  This is accomplished by ensuring acquisition and procurement program management emphasizes systems engineering; incorporates  life cycle management objectives; implements risk management; and assesses cost, schedule or performance trade-offs.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>35.598</r2:PriorYear>
+                <r2:CurrentYear>35.871</r2:CurrentYear>
+                <r2:BudgetYearOne>35.187</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>35.187</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>35.598</r2:PriorYear>
+                <r2:CurrentYear>35.871</r2:CurrentYear>
+                <r2:BudgetYearOne>31.160</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>31.160</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-4.027</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-4.027</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:CongressionalDirectedReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:CongressionalRescissions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:CongressionalAdds>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:CongressionalDirectedTransfers>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedTransfers>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustment</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>-4.027</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-4.027</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>N/A</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>MD38</r2:ProjectNumber>
+                <r2:ProjectTitle>Management Headquarters</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>95.210</r2:AllPriorYears>
+                    <r2:PriorYear>35.598</r2:PriorYear>
+                    <r2:CurrentYear>35.871</r2:CurrentYear>
+                    <r2:BudgetYearOne>31.160</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>31.160</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>29.814</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>27.889</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>27.131</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>27.737</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectNote>N/A</r2:ProjectNote>
+                    <r2:ProjectMissionDescription>The MDA Headquarters provides oversight, direction and control over MDA's acquisition programs and fielded systems.  The MDA Headquarters staff functions (government salaries, government travel, and contract support services) support the mission and operations of the world-wide MDA mission.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>HQ Civilian Salaries</r2:Title>
+                            <r2:Description>N/A</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>23.190</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Provided mission support, oversight, and management of:
+- Acquisition, implementation of international initiatives to increase missile defense coverage to deployed forces and allies, efficiency-oriented administrative services, business operations, financial resources, human capital, real property, environmental compliance, general counsel, internal review, public affairs, and media release</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>22.914</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Provide mission support, oversight, and management of:
+- Acquisition, implementation of international initiatives to increase missile defense coverage to deployed forces and allies, efficiency-oriented administrative services, business operations, financial resources, human capitol, real property, environmental compliance, general counsel, internal review, public affairs, and media release</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>18.626</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>18.626</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Beginning in FY 2017, civilian salaries reflect a decrease due to the transfer of non-headquarter functions from MHA to Program Wide Support.  This transfer was the direct result of DoD efforts to establish a common MHA framework as a result of Department of Defense (DoD) reform efforts to maintain major headquarter activities' civilian staffing at reduced levels.
+
+Provide mission support, oversight and management of:
+- Acquisition, implementation of International initiatives to increase Missile Defense coverage to deployed forces and allies, efficiency-oriented administrative services, business operations, financial resources, human capital, real property, environmental compliance, general counsel, internal review, public affairs and media release</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>HQ Travel</r2:Title>
+                            <r2:Description>N/A</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.983</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Provide mission essential government travel</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.999</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Provide mission essential government travel</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.991</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.991</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Provide mission essential government travel</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>HQ Utilities, Facilities, Operations, Subsidy, Transportation and Logistics</r2:Title>
+                            <r2:Description>N/A</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>2.280</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Funded utilities under host-tenant agreement at MDA, Fort Belvoir 
+- Provided base operations at MDA, Fort Belvoir 
+- Provided transportation subsidy to National Capitol Region employees 
+- Provided ground transportation, shuttle, and motorpool services</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.410</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Fund utilities under host-tenant agreement at MDA, Fort Belvoir 
+- Provide base operations at MDA, Fort Belvoir 
+- Provide transportation subsidy to National Capitol Region employees 
+- Provide ground transportation, shuttle, and motorpool services</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>2.131</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>2.131</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Fund utilities and base operations under host-tenant agreement at MDA, Fort Belvoir
+- Provide transportation subsidy to National Capitol Region employees 
+- Provide ground transportation, shuttle, and motorpool services</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Security and Emergency Management</r2:Title>
+                            <r2:Description>N/A</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.253</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Provided access control and circulation enforcement for all visitors, security clearance verification, physical security checks, and information security inspections 
+- Maintained global security situational awareness from the Global Security Operations Center (GSOC) and provide security planning and support for conferences and special events 
+- Provided first response and emergency assessment to emergency situations and responded to alarms to include Sensitive Compartmental Information (SCI) and Special Access Program (SAP) facilities</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>3.318</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Provide access control and circulation enforcement for all visitors, security clearance verification, physical security checks, and information security inspections 
+- Maintain global security situational awareness from the Global Security Operations Center (GSOC) and provide security planning and support for conferences and special events 
+- Provide first response and emergency assessment to emergency situations and respond to alarms to include Sensitive Compartmental Information (SCI) and Special Access Program (SAP) facilities</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>3.384</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>3.384</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Provide access control and circulation enforcement for all visitors, security clearance verification, physical security checks, and information security inspections 
+- Maintain global security situational awareness from the Global Security Operations Center (GSOC) and provide security planning and support for conferences and special events 
+- Provide first response and emergency assessment to emergency situations and respond to alarms to include Sensitive Compartmental Information (SCI) and Special Access Program (SAP) facilities</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>HQ Contract Services</r2:Title>
+                            <r2:Description>N/A</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>5.892</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Provided contract support services to support mission activities for acquisition, business operations, internal review, general counsel, administrative support, public affairs, and international affairs.
+-FY 2015 decrease reflects realignment of funding to Department of Defense priorities.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>6.230</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Provide contract support services to support mission activities for acquisition, business operations, internal review, general counsel, administrative support, public affairs, and international affairs.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>6.028</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>6.028</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Provide contract support services to mission activities for acquisition, business operations, internal review, general counsel, administrative support, public affairs, and international affairs</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>N/A</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

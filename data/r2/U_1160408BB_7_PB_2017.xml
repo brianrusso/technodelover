@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1160408BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Operational Enhancements</r2:ProgramElementTitle>
+        <r2:R1LineNumber>246</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>1174.948</r2:AllPriorYears>
+            <r2:PriorYear>78.627</r2:PriorYear>
+            <r2:CurrentYear>63.008</r2:CurrentYear>
+            <r2:BudgetYearOne>64.895</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>64.895</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>69.973</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>70.457</r2:BudgetYearThree>
+            <r2:BudgetYearFour>75.400</r2:BudgetYearFour>
+            <r2:BudgetYearFive>79.150</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>Details are provided under separate cover.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>81.253</r2:PriorYear>
+                <r2:CurrentYear>63.008</r2:CurrentYear>
+                <r2:BudgetYearOne>61.153</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>61.153</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>78.627</r2:PriorYear>
+                <r2:CurrentYear>63.008</r2:CurrentYear>
+                <r2:BudgetYearOne>64.895</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>64.895</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-2.626</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>3.742</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>3.742</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-2.626</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>3.742</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>3.742</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding:
+
+FY2015:  Decrease of $2.626 million is due to a transfer of funds to Small Business Innovative Research/Small Business Technology Transfer program.
+
+FY2016:  None.
+
+FY2017:  Net Increase of $3.742 million is due to a Departmental economic assumption decrease (-$0.488M) and a programmatic increase of $4.230 million available under separate cover.
+
+Schedule:  None.
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S500A</r2:ProjectNumber>
+                <r2:ProjectTitle>Operational Enhancements</r2:ProjectTitle>
+                <r2:SpecialProject>1</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>1174.948</r2:AllPriorYears>
+                    <r2:PriorYear>78.627</r2:PriorYear>
+                    <r2:CurrentYear>63.008</r2:CurrentYear>
+                    <r2:BudgetYearOne>64.895</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>64.895</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>69.973</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>70.457</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>75.400</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>79.150</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>Details are provided under separate cover.</r2:ProjectMissionDescription>
+                </r2:R2aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

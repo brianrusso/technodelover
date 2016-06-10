@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1105232BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>RQ-11 UAV</r2:ProgramElementTitle>
+        <r2:R1LineNumber>242</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>1.380</r2:AllPriorYears>
+            <r2:PriorYear>0.259</r2:PriorYear>
+            <r2:CurrentYear>0.758</r2:CurrentYear>
+            <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+            <r2:CostToComplete>0.000</r2:CostToComplete>
+            <r2:TotalCost>2.397</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>NOTE:  Beginning in FY2017, this Program Element has been consolidated into SOCOM Program Element 1160434BB, Unmanned ISR.
+
+This program element is part of the Military Intelligence Program.  Two programs are in this program element: Small Unmanned Aerial System (SUAS) and the Multi-mission Tactical Unmanned Aerial System (MTUAS).  SUAS identifies, develops, integrates, and tests Special Operations Forces (SOF) unique mission kits, mission payloads, air vehicle enhancements, and modifications on the SUAS and related ground control stations.  MTUAS identifies, develops, integrates, and tests Special Operations Forces (SOF) unique mission kits, mission payloads, air vehicle enhancements, and modifications on the MTUAS and related ground control stations.   
+
+USSOCOM has been designated as the DOD lead for planning, synchronizing, and as directed, executing global operations against terrorist networks and targets.  USSOCOM requires the capability to find, fix, and finish time-sensitive high-value fixed and fleeting targets at the unit and team level without placing personnel and units in harm’s way.  These targets can often only be identified with patient collection of information and require rapid, decisive action during the short periods in which they present themselves.  This line item addresses the primary areas of Intelligence, Surveillance, Reconnaissance, and Targeting (ISR&amp;T) capabilities for SOF.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>0.259</r2:PriorYear>
+                <r2:CurrentYear>0.758</r2:CurrentYear>
+                <r2:BudgetYearOne>3.332</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>3.332</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>0.259</r2:PriorYear>
+                <r2:CurrentYear>0.758</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-3.332</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-3.332</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-3.332</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-3.332</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding:   
+
+FY 2015:  None.
+
+FY 2016:  None.
+
+FY 2017:  Decrease of -$3.332 million is due to beginning in FY 2017, this Program Element has been consolidated into SOCOM Program Element 1160434BB, Unmanned ISR.
+
+Schedule:  None.
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S853</r2:ProjectNumber>
+                <r2:ProjectTitle>RQ-11  UAV</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>1.380</r2:AllPriorYears>
+                    <r2:PriorYear>0.259</r2:PriorYear>
+                    <r2:CurrentYear>0.758</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>0.000</r2:CostToComplete>
+                    <r2:TotalCost>2.397</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project is part of the Military Intelligence Program. Two programs are in this project: Small Unmanned Aerial System (SUAS) and the Multi-mission Tactical Unmanned Aerial System (MTUAS).  SUAS identifies, develops, integrates, and tests Special Operations Forces (SOF)-unique mission kits, mission payloads, air vehicle enhancements, and modifications on the SUAS and related ground control stations.  MTUAS identifies, develops, integrates, and tests Special Operations Forces (SOF) unique mission kits, mission payloads, air vehicle enhancements, and modifications on the MTUAS and related ground control stations. The current material solution for SUAS is the All Environment Capable Variant (AECV) of the Puma UAS. The current material solution for MTUAS is the Scan Eagle UAS.
+
+USSOCOM has been designated as the DOD lead for planning, synchronizing, and as directed, executing global operations against terrorist networks and targets. USSOCOM requires the capability to find, fix, and finish time-sensitive high-value fixed and fleeting targets at the unit and team level without placing personnel and units in harm’s way. These targets can often only be identified with patient collection of information and require rapid, decisive action during the short periods in which they present themselves. This line item addresses the primary areas of Intelligence, Surveillance, Reconnaissance, and Targeting capabilities for SOF.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>SUAS</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.259</r2:Funding>
+                                    <r2:Text>Developed, integrated, and tested SOF-unique mission kits, mission payloads, and modifications to the SUAS and ground control station, to include improved capabilities for geo-location, collection of push-to-talk, communications, specialized tagging, tracking, and locating, and enhanced communications relay.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.261</r2:Funding>
+                                    <r2:Text>Develop, integrate, and test SOF-unique mission kits, mission payloads, and modifications to the SUAS and ground control station, to include but not limited to; improved capabilities for geo-location, collection of push-to-talk, communications, specialized tagging, tracking, and locating, and enhanced communications relay and work to miniaturize previously developed payloads.</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>MTUAS</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.497</r2:Funding>
+                                    <r2:Text>Develop, integrate, and test SOF-unique mission kits, mission payloads, and modifications to the MTUAS and ground control station, to include but not limited to; signals intelligence gathering and geo-location.</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/0809RQ11</r2:LineItem>
+                            <r2:Title>RQ-11 Unmanned Aerial Vehicle</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>6.397</r2:PriorYear>
+                                <r2:CurrentYear>15.587</r2:CurrentYear>
+                                <r2:CostToComplete>0.000</r2:CostToComplete>
+                                <r2:TotalCost>26.484</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/0201UMISR</r2:LineItem>
+                            <r2:Title>Unmanned ISR</r2:Title>
+                            <r2:Funding>
+                                <r2:BudgetYearOne>33.070</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>21.190</r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>11.880</r2:BudgetYearOneOCO>
+                                <r2:BudgetYearTwo>12.555</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>6.877</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>6.980</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>7.443</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:AcquisitionStrategy>The SUAS and MTUAS are evolutionary acquisition programs that deliver, integrate, and qualify SOF-unique mission kits, mission payloads, weapons, air vehicle enhancements, and ground control station upgrades.  Contracting methods depend on the type of development effort.  Competitive source selection will be conducted as much as possible.  Proprietary considerations may direct some effort to the Original Equipment Manufacturer.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Small Unmanned Aircraft System Payloads</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>IDIQ</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.380</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.259</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.261</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>1.900</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Multi-Mission Tactical Unmanned Aircraft System Payloads</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>TBD</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.497</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.497</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>SUAS</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Payload development / integration / test</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>MTUAS</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Payload development / integration / test</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

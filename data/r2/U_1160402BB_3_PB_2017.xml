@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1160402BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>SOF Advanced Technology Development</r2:ProgramElementTitle>
+        <r2:R1LineNumber>67</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>3</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Advanced Technology Development (ATD)</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>1089.770</r2:AllPriorYears>
+            <r2:PriorYear>49.878</r2:PriorYear>
+            <r2:CurrentYear>59.741</r2:CurrentYear>
+            <r2:BudgetYearOne>61.620</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>61.620</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>73.505</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>80.032</r2:BudgetYearThree>
+            <r2:BudgetYearFour>89.334</r2:BudgetYearFour>
+            <r2:BudgetYearFive>101.823</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>Advanced Technology Development (project S200) conducts rapid prototyping and Advanced Technology Demonstrations (ATDs).  ATDs provide a means for demonstrating and evaluating the utility of emerging/advanced technologies in as realistic an operational environment as possible by Special Operations Forces (SOF) users.  Evaluation results are included in a transition package, which assists in the initiation of or insertion into an acquisition program.  ATDs also address projects that are a result of unique joint special mission or area-specific needs for which a few-of-a-kind prototypes must be developed on a rapid response basis, or are of sufficient time sensitivity to accelerate the prototyping effort of a normal acquisition program in any phase.  
+
+Engineering Analysis (project SF101) provides rapid response capability for the investigation, evaluation, and demonstration of technologies for SOF platform (ground, air, and maritime) and soldier system-unique requirements. Timely application of SOF-unique technology is critical and necessary to meet requirements in such areas as: sensor integration; enhanced situational awareness; near-real-time intelligence to include data fusion, threat detection and avoidance; electronic support measures for threat geo-location and specific emitter identification; navigation; target detection; weapon performance integration; and future SOF platform and soldier system requirements.  Provides additional engineering analysis and testing required to transition items from national forces to theater forces.
+
+Information and Broadcast Systems Advanced Technology (project S225) conducts rapid prototyping, advanced technology demonstrations, and advanced concept technology demonstrations of information and broadcast systems technology.  Includes planning, analyzing, evaluating, and production information systems capabilities and distribution/dissemination broadcast systems capabilities.  It provides a means for demonstrating and evaluating the utility of emerging/advanced technologies in as realistic an operational environment as possible by SOF users.  This project also integrates efforts with each other and conducts technology demonstrations in conjunction with joint experiments and other assessment events.  Evaluation results are included in a transition package, which assists in the initiation of or insertion into an acquisition program.  The project also addresses unique, joint special mission or area-specific needs for which prototypes must be developed on a rapid response basis, or are of sufficient time sensitivity to accelerate the prototyping effort of a normal acquisition program in any phase.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>51.622</r2:PriorYear>
+                <r2:CurrentYear>57.741</r2:CurrentYear>
+                <r2:BudgetYearOne>61.333</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>61.333</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>49.878</r2:PriorYear>
+                <r2:CurrentYear>59.741</r2:CurrentYear>
+                <r2:BudgetYearOne>61.620</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>61.620</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-1.744</r2:PriorYear>
+                <r2:CurrentYear>2.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.287</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.287</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalAdds>
+                    <r2:CurrentYear>2.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>-0.070</r2:PriorYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-1.674</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>0.287</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.287</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding:
+
+FY 2015:  Decrease of -$1.744 million is due to a decrease for transfer of funds to Small Business Innovative Research/Small Business Technology Transfer programs (-$1.674 million), and a decrease for higher command priorities (-$0.070 million).
+
+FY 2016:  Increase of $2.000 million is due to a congressional add to project S200 Advanced Technology Development.
+
+FY 2017:  Net increase of $0.287 million is due to an increase for engineering analysis to address aviation mission survivability such as signature management (acoustic, infrared, radio frequency), situational awareness with full spectrum threat warning, capabilities to operate in Global Positioning System degraded environment, and counter measures versatile mission equipment (payloads, communications, weapons) that perform multiple functions capable of range of effects ($0.750 million), and a decrease for Departmental economic assumption (-$0.463 million).
+
+Schedule:  None.
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S200</r2:ProjectNumber>
+                <r2:ProjectTitle>Advanced Technology Development</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>1084.010</r2:AllPriorYears>
+                    <r2:PriorYear>38.255</r2:PriorYear>
+                    <r2:CurrentYear>47.137</r2:CurrentYear>
+                    <r2:BudgetYearOne>48.097</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>48.097</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>53.362</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>57.062</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>65.983</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>78.085</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project provides for rapid prototyping, Advanced Technology Demonstrations (ATDs) and Joint Capability Technology Demonstrations.  It is a means for demonstrating and evaluating the utility of emerging/advanced technologies in operationally relevant environments with Special Operations Forces (SOF) users.  This project integrates emerging technologies and presents them in technology demonstrations, in conjunction with joint experiments and other assessment events.  Evaluation results often facilitate the initiation of new programs and the insertion of appropriate technologies to acquisition programs.   The element also addresses unique, joint special mission or area-specific needs for which a few rapid prototypes must be developed on a responsive basis, or are of sufficient time sensitivity to accelerate prototyping efforts of a normal acquisition program in any phase.  Sub-projects within the SOF Special Technology Development efforts include:  
+
+  •  Special Operations Special Technology Sub-Project.  This sub-project integrates emerging technologies and presents them in technology demonstrations, in conjunction with joint experiments and other assessment events.  This project received a congressional add in FY 2016.
+
+  • Tagging, Tracking, and Locating (TTL) Technologies Sub-Project.  TTL funds SOF unique ATDs identified in the USSOCOM Quick Look Capabilities Based Assessments (QL-CBA).  TTL rapidly prototypes and expeditiously transitions projects from laboratory to acquisition Programs of Record/operational use to address SOF capability deficiencies.
+
+  • National to Theater Transition Sub-Project.  Conduct additional testing required to transition items from national forces to theater forces. 
+  
+  • Classified Sub-Project (provided under separate cover).</r2:ProjectMissionDescription>
+                    <r2:CongressionalAddDetailList>
+                        <r2:CongressionalAddDetail>
+                            <r2:Title>S200:  Advanced Technology Development</r2:Title>
+                            <r2:CurrentYear>
+                                <r2:Funding>2.000</r2:Funding>
+                                <r2:Text>Conduct rapid prototyping and advanced technology demonstrations.</r2:Text>
+                            </r2:CurrentYear>
+                        </r2:CongressionalAddDetail>
+                    </r2:CongressionalAddDetailList>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>SOF Special Technology Sub-Project</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>18.241</r2:Funding>
+                                    <r2:Text>Continued to develop and insert technology into existing programs.  Technologies include, but are not limited to: reduced signature profiles, improved weapons, communications, command, and control systems, sensors, and situational awareness tools; lightweight armor and materials; alternative power systems; eco-friendly sustainable energy devices; long duration, reduced size, high output power supplies; and technologies that reduce the load of the operator.  Continued development of technologies supporting undersea and ground mobility.  Evaluated and developed sensors across the electromagnetic spectrum to meet operational requirements.  Continued the integration of critical technologies focused on providing the dismounted special operator leap ahead capabilities via innovative collaborative processes.  Began initial effort for field prototype system incorporating technologies likely to transition to fielded systems.  Based upon agreed technology maturity metrics, transferred successful projects into programs of record, and conducted field experimentations at various venues to facilitate technology insertion.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>23.570</r2:Funding>
+                                    <r2:Text>Continue to develop and insert technology into existing programs.  Technologies include, but are not limited to: reduced signature profiles, improved weapons, communications, command, and control systems, sensors, and situational awareness tools; lightweight armor and materials, alternative power systems, eco-friendly sustainable energy devices, long duration, reduced size, high output power supplies, and technologies that reduce the load of the operator.  Continue development of technologies supporting undersea and ground mobility.  Evaluate and develop sensors across the electromagnetic spectrum to meet operational requirements.  Continue the integration of critical technologies focused on providing the dismounted special operator leap-ahead capabilities via innovative collaborative processes.  Continues effort for field prototype system incorporating technologies likely to transition to fielded systems.  Based upon agreed technology maturity metrics, transfer successful projects into programs of record, and conduct field experimentations at various venues to facilitate technology insertion.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>26.212</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>26.212</r2:Funding>
+                                    <r2:Text>Continues to develop and insert technology into existing programs.  Technologies include, but are not limited to: reduced signature profiles, improved weapons, communications, command, and control systems, sensors, and situational awareness tools; lightweight armor and materials, alternative power systems, eco-friendly sustainable energy devices, long duration, reduced size, high output power supplies, and technologies that reduce the load of the operator.  Continues development of technologies supporting undersea and ground mobility.  Evaluates and develops sensors across the electromagnetic spectrum to meet operational requirements.  Continues the integration of critical technologies focused on providing the dismounted special operator leap-ahead capabilities via innovative collaborative processes.  Continues developing unique robotic systems to reduce the load of the operator and augment human performance. Continues to develop Command, Control, Computer, and Intelligence Technology to implement a robust, ultra-wideband communication capability.  Continues effort for field prototype system incorporating technologies likely to transition to fielded systems.  Based upon agreed technology maturity metrics, transfers successful projects into programs of record, and conducts field experimentations at various venues to facilitate technology insertion.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Tagging, Tracking, and Locating Technologies (TTL) Sub-Project</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>13.552</r2:Funding>
+                                    <r2:Text>Specific objectives, priorities, technical approaches, and potential operational applications are classified.  Exploited and integrated recently-proven and emerging technologies for TTL and TTL-enabling systems. Continued projects toward maturity that are linked to the USSOCOM/DOD TTL Roadmap, which is updated via the JCS/J8-approved annual TTL QL-CBA.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>15.940</r2:Funding>
+                                    <r2:Text>Specific objectives, priorities, technical approaches, and potential operational applications are classified.  Exploit and integrate recently-proven and emerging technologies for TTL and TTL-enabling systems. Continue projects toward maturity that are linked to the USSOCOM/DOD TTL Roadmap, which is updated via the JCS/J8-approved annual TTL QL-CBA.  Increase focus on tactical sensors and enabling technologies in support of the special reconnaissance mission set.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>16.201</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>16.201</r2:Funding>
+                                    <r2:Text>Specific objectives, priorities, technical approaches, and potential operational applications are classified.  Exploits and integrates recently-proven and emerging technologies for TTL and TTL-enabling systems. Continues projects toward maturity that are linked to the USSOCOM/DOD TTL Roadmap, which is updated via the JCS/J8-approved annual TTL QL-CBA.  Increases focus on tactical sensors and enabling technologies in support of the special reconnaissance mission set.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Classified Sub-Project</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>6.462</r2:Funding>
+                                    <r2:Text>Details provided under separate cover.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>5.627</r2:Funding>
+                                    <r2:Text>Details provided under separate cover.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>5.684</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>5.684</r2:Funding>
+                                    <r2:Text>Details provided under separate cover.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>N/A</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>SF101</r2:ProjectNumber>
+                <r2:ProjectTitle>Engineering Analysis</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>0.847</r2:AllPriorYears>
+                    <r2:PriorYear>6.660</r2:PriorYear>
+                    <r2:CurrentYear>7.457</r2:CurrentYear>
+                    <r2:BudgetYearOne>8.312</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>8.312</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>14.827</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>17.558</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>17.831</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>18.108</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project provides a rapid response capability to support Special Operations Forces (SOF) platforms (ground, air and maritime), Unmanned Aerial Vehicle (UAV) payload sensors and soldier systems.  The purpose is to correct system deficiencies, improve asset life, and enhance mission capability through the means of feasibility studies, analysis of alternatives, pre-developmental risk reduction studies, and engineering analyses. This project provides the engineering required to improve the design and performance integrity of the SOF platforms, UAV payload sensors and soldier support systems, sub-systems, equipment, and embedded computer software as they relate to the maintenance, overhaul, repair, quality assurance, modifications, materiel improvements, and service life extensions.  This project also conducts risk reduction studies, analyses, and demonstrations to support emerging, time-critical weapons and sensor enhancements.
+
+Platform Engineering Analysis:  Funding supports engineering assessments and evaluation of technology, manufacturing, and integration readiness in six distinct areas: 1) small UAV payloads; 2) air-to-ground interoperability; 3) mission suite architectures; 4) common sensor suites; 5) low-cost, high-load-out Stand-Off Precision Guided Munitions (SOPGMs) and air-launched UAV; and 6) next generation Intelligence, Surveillance, and Reconnaissance (ISR) capabilities.
+
+Soldier System Engineering Analysis:  Funding supports engineering assessments and evaluation of technology feasibility, producibility, and integration readiness in the following areas: 1) next generation lightweight low-cost body armor and ballistic helmets 2) ballistic and laser variable light transmission protective eyewear 3) soldier worn sensors to assess ballistic and blast events as well as soldier health 4) next generation soldier worn load carriage systems 5) soldier worn head borne communications that provide greater situational awareness and hearing protection.
+
+National to Theater Transition Engineering Analysis:  Provides additional engineering analysis and testing required to transition items from national forces to theater forces.
+
+Aviation Mission Improved Survivability:  Begins engineering analysis activities to address aviation survivability such as signature management, situational awareness, and versatile mission equipment (payloads, communications and weapons) to achieve SOF mission objectives.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Platform Engineering Analysis</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>5.249</r2:Funding>
+                                    <r2:Text>For small UAV payloads, identified, assessed, and evaluated the risks/benefits of efforts to reduce the size, weight, and power of current capabilities to be integrated into Group I-III UAV.  Air-to-ground interoperability efforts identified shortfalls and gaps in current SOF air-to-ground communications architecture and recommended and evaluated interoperability enhancements.  For mission suite architectures, identified, assessed, and evaluated open architecture approaches to reduce life-cycle costs, increase responsive integration of new capabilities, and increase competition. In the area of common sensor suites, assessed and evaluated individual sensors and suites of sensors to optimize the commonality of sensors between our manned ISR fleet and our Group IV/V UAV.  Identified low-cost and high load-out SOPGM and air-launched UAV commodities to reduce costs and provide force multipliers.  Identified, assessed, and evaluated risks/benefits/suitability of emerging ISR products and suites.  This includes but not limited to: hyper-spectral imaging, moving target indication, Light Detection and Ranging (LIDAR), Signals Intelligence (SIGINT) and high definition Electro-Optical/Infrared (EO/IR) capabilities.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>4.865</r2:Funding>
+                                    <r2:Text>For small UAV payloads, identify, assess, and evaluate the risks/benefits of efforts to reduce the size, weight, and power of current capabilities to be integrated into Group I-III UAV.  Air-to-ground interoperability efforts identify shortfalls and gaps in current SOF air-to-ground communications architecture and recommend and evaluate interoperability enhancements.  For mission suite architectures, identify, assess, and evaluate open architecture approaches to reduce life-cycle costs, increase responsive integration of new capabilities, and increase competition.  In the area of common sensor suites, assess and evaluate individual sensors and suites of sensors to optimize the commonality of sensors between manned ISR fleet and Group IV/V UAV.  Identify low-cost and high load-out SOPGM and air-launched UAV commodities to reduce costs and provide force multipliers.  Identify, assess, and evaluate risks/benefits/suitability of emerging ISR products and suites.  This includes but not limited to: hyper-spectral imaging, moving target indication, LIDAR, SIGINT and high definition EO/IR capabilities.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>4.928</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>4.928</r2:Funding>
+                                    <r2:Text>For small UAV payloads, identifies, assesses, and evaluates the risks/benefits of efforts to reduce the size, weight, and power of current capabilities to be integrated into Group I-III UAV.  Air-to-ground interoperability efforts identify shortfalls and gaps in current SOF air-to-ground communications architecture and recommends and evaluates interoperability enhancements.  For mission suite architectures, identifies, assesses, and evaluates open architecture approaches to reduce life-cycle costs, increase responsive integration of new capabilities, and increase competition.  In the area of common sensor suites, assesses and evaluates individual sensors and suites of sensors to optimize the commonality of sensors between manned ISR fleet and Group IV/V UAV.  Identifies low-cost and high load-out SOPGM and air-launched UAV commodities to reduce costs and provide force multipliers.  Identifies, assesses, and evaluates risks/benefits/suitability of emerging ISR products and suites.  This includes but not limited to: hyper-spectral imaging, moving target indication, LIDAR, SIGINT and high definition EO/IR capabilities.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Soldier System Engineering Analysis</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.480</r2:Funding>
+                                    <r2:Text>Continued to assess advanced body armor and ballistic helmet materials, concepts and prototypes to reduce soldier load and provide increased ballistic protection against the latest emerging threats.  For eye protection, efforts reduced the number of eyewear lenses needed and to have one lens that provides ballistic and laser protection, as well as automatically darkens/lightens based on combat conditions. Evaluated soldier worn sensors and heads up display for operability within soldier worn components and subsystems. Assessed technology feasibility and integration readiness of next generation load carriage systems such as exoskeletons and load-assist devices. Assessed proof of concepts and technology for next generation head borne communications systems that provide reliable and secure wireless transmission in all combat conditions, as well as provide 360 degree situational awareness and noise attenuation while increasing hearing protection.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.496</r2:Funding>
+                                    <r2:Text>Continue to assess advanced body armor and ballistic helmet materials, concepts and prototypes to reduce soldier load and provide increased ballistic protection against the latest emerging threats. Reduce the number of eyewear lenses needed and to have one lens that provides ballistic and laser protection as well as automatically darkens/lightens based on combat conditions. Evaluate soldier worn sensors and heads up displays for operability within soldier worn components and subsystems.  Assess technologies feasibility and integration readiness of next generation load carriage systems such as exoskeletons and load-assist devices. Assess proof of concepts and technologies for next generation head borne communications systems that provide reliable and secure wireless transmission in all combat conditions, as well as provide 360 degree situational awareness and noise attenuation while increasing hearing protection.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.496</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.496</r2:Funding>
+                                    <r2:Text>Continues to assess advanced body armor and ballistic helmet materials, concepts and prototypes to reduce soldier load and provide increased ballistic protection against the latest emerging threats. Reduces the number of eyewear lenses needed and to have one lens that provides ballistic and laser protection as well as automatically darkens/lightens based on combat conditions. Evaluates soldier worn sensors and heads up displays for operability within soldier worn components and subsystems.  Assesses technologies feasibility and integration readiness of next generation load carriage systems such as exoskeletons and load-assist devices. Assesses proof of concepts and technologies for next generation head borne communications systems that provide reliable and secure wireless transmission in all combat conditions, as well as provide 360 degree situational awareness and noise attenuation while increasing hearing protection.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>National to Theater Engineering Analysis</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.931</r2:Funding>
+                                    <r2:Text>Conducted additional testing and evaluation required on various equipment items such as communications, intelligence, weapons, and operator protection planned for transition to SOF Theater Forces.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.096</r2:Funding>
+                                    <r2:Text>Conduct additional testing and evaluation required on various equipment items such as communications, intelligence, weapons, and operator protection planned for transition to SOF Theater Forces.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>2.138</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>2.138</r2:Funding>
+                                    <r2:Text>Conducts additional testing and evaluation required on various equipment items such as communications, intelligence, weapons, and operator protection planned for transition to SOF Theater Forces.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Aviation Improved Survivability</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.750</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.750</r2:Funding>
+                                    <r2:Text>Begins engineering analysis activities to improve SOF aviation mission survivability.  Activities include, but are not limited to signature management (acoustic, infrared, radio frequency), situational awareness with full spectrum threat warning and countermeasures, and versatile mission equipment (payloads, communications and weapons) to improve SOF survivability in less than permissive operating environments.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>N/A</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>S225</r2:ProjectNumber>
+                <r2:ProjectTitle>Information and Broadcast Systems Adv Tech</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>4.913</r2:AllPriorYears>
+                    <r2:PriorYear>4.963</r2:PriorYear>
+                    <r2:CurrentYear>5.147</r2:CurrentYear>
+                    <r2:BudgetYearOne>5.211</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>5.211</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>5.316</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>5.412</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>5.520</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>5.630</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project conducts rapid prototyping of information and broadcast system technology.  Includes cyber capabilities that predict the best media channels to reach potential target audiences, data mining and information collections tools, propaganda and social behavior analytical tools, cultural analysis tool sets and emerging technologies that support the planning and analytical needs for the Military Information Support Operations (MISO) forces.  It provides a means for demonstrating and evaluating the utility of emerging/advanced technologies in as realistic an operational environment as possible by SOF users.  This project integrates efforts and conducts technology demonstrations in conjunction with joint experiments and other assessment events and performs market research on emerging technologies that support all phases of MISO.  Evaluation results are included in a transition package, which assists in the initiation of or insertion into an acquisition program.  The project also addresses unique, joint special mission or area-specific needs.  Seeks technologies that will transform current MISO capabilities through two major objectives: 1) Exploit technologies capable of disseminating products to reach target audiences across a variety of media to include audiences in denied areas.  2) Automate and improve MISO planning and analytical capability through technologies that are integrated into SOF planning systems (Cultural Analysis, Targeting, Theme Development, Media &amp; Product Selection, Distribution &amp; Dissemination, and Measures of Effectiveness).  Develops software applications that increases the efficiency and shortens the timeline to get MISO dissemination packages approved.  Develops hardware/software tools that facilitate the collaboration and sharing of information and other critical data.  
+
+Broadcast and Dissemination Modernization.  Develops emerging technologies available in the marketplace to transform and modernize planning, analysis, development, broadcast, distribution, dissemination, and feedback capabilities for MISO forces. This initiative will also continue development of appropriate emerging technologies initially identified by Advance Technology Demonstrations and Joint Capability Technology Demonstrations to transition to acquisition programs. Technologies include: multi-frequency broadcast systems; digital broadcast capabilities; remote controlled electronic paper; near-real-time command and control of unattended systems, especially in denied areas; focused/beam speaker sound technologies; visual projection technologies; advanced commercial broadcast technologies including amplitude modulation and frequency modulation radio transmitters and antenna; television transmitter and antenna systems; internet and telephony dissemination and broadcast systems; technologies capable of long-loiter broadcast and delivery in denied and permissive environment; and technologies that automate and improve planning and analytical capability through integrated capabilities.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Broadcast and Dissemination Modernization</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>4.963</r2:Funding>
+                                    <r2:Text>Continued to perform engineering studies, development, and demonstrations of planning, analysis, distribution, and broadcast capabilities.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>5.147</r2:Funding>
+                                    <r2:Text>Continue to perform engineering studies, development, and demonstrations of planning, analysis, distribution, and broadcast capabilities.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>5.211</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>5.211</r2:Funding>
+                                    <r2:Text>Continues to perform engineering studies, development, and demonstrations of planning, analysis, distribution, and broadcast capabilities.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>N/A</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

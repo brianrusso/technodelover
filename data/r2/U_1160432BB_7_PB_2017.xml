@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1160432BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Special Programs</r2:ProgramElementTitle>
+        <r2:R1LineNumber>248</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>7.185</r2:AllPriorYears>
+            <r2:PriorYear>19.887</r2:PriorYear>
+            <r2:CurrentYear>3.401</r2:CurrentYear>
+            <r2:BudgetYearOne>1.949</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>1.949</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>1.978</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>1.678</r2:BudgetYearThree>
+            <r2:BudgetYearFour>1.711</r2:BudgetYearFour>
+            <r2:BudgetYearFive>1.746</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>This program is reported in accordance with Title 10, United States Code, Section 119 (a)(1) in the Special Access Program Annual Report to Congress.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>20.908</r2:PriorYear>
+                <r2:CurrentYear>3.401</r2:CurrentYear>
+                <r2:BudgetYearOne>1.964</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>1.964</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>19.887</r2:PriorYear>
+                <r2:CurrentYear>3.401</r2:CurrentYear>
+                <r2:BudgetYearOne>1.949</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>1.949</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-1.021</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.015</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.015</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>-0.343</r2:PriorYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-0.678</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-0.015</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.015</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding:
+
+FY2015:  Decrease of $1.021 million is due to a decrease of $0.678 million for SBIR/STTR transfers, and a decrease of $0.343 million for higher command priorities.
+
+FY2016:  None.
+
+FY2017:  Details of $0.015 million decrease is available under separate cover.  
+
+Schedule:  None.
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S500E</r2:ProjectNumber>
+                <r2:ProjectTitle>Special Programs</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>7.185</r2:AllPriorYears>
+                    <r2:PriorYear>19.887</r2:PriorYear>
+                    <r2:CurrentYear>3.401</r2:CurrentYear>
+                    <r2:BudgetYearOne>1.949</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>1.949</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>1.978</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>1.678</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>1.711</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>1.746</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project is reported in accordance with Title 10, United States Code, Section 119(a)(1) in the Special Access Program Annual Report to Congress.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Other Classified Programs</r2:Title>
+                            <r2:Description>Program details available under separate cover document.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>19.887</r2:Funding>
+                                    <r2:Text>Program details available under separate cover document.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>3.401</r2:Funding>
+                                    <r2:Text>Program details available under separate cover document.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.949</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.949</r2:Funding>
+                                    <r2:Text>Program details available under separate cover document.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>Program acquisition strategy available under separate cover documents.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Other Classified Programs</r2:Name>
+                                    <r2:FundingVehicle>TBD</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>7.185</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>19.887</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>3.401</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.949</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.949</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Other Classified Programs</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Other Classified Programs</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

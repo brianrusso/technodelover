@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0702806F</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Acquisition and Management Support</r2:ProgramElementTitle>
+        <r2:R1LineNumber>106</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Air Force</r2:ServiceAgencyName>
+        <r2:AppropriationCode>3600</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Air Force</r2:AppropriationName>
+        <r2:BudgetActivityNumber>6</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>RDT&amp;E Management Support</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>16.115</r2:PriorYear>
+            <r2:CurrentYear>15.357</r2:CurrentYear>
+            <r2:BudgetYearOne>14.613</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>14.613</r2:BudgetYearOneBase>
+            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            <r2:BudgetYearTwo>18.682</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>19.649</r2:BudgetYearThree>
+            <r2:BudgetYearFour>20.232</r2:BudgetYearFour>
+            <r2:BudgetYearFive>20.647</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementNote>This program, BA 06 PE 0702806F, project 66ACSI, Civilian Pay, is a new start.
+
+In FY17, PE 0702806F Acquisition and Management Support, Project 662906 Electronic Acquisition Service Environment (EASE - in which CON-IT was funded) efforts were transferred to PE 0901410F CON-IT, Project 643483 CON-IT, to enhance transparency, reporting and execution activities.</r2:ProgramElementNote>
+        <r2:ProgramElementMissionDescription>The FY17 funding was reduced by $2.774M to account for the availability of prior year execution balances.
+
+The program funds efforts to meet the Defense Acquisition Workforce Improvement Act (DAWIA), as well as Congressional, SECDEF, and SECAF mandates to provide program management execution tools, systems integration and architectural analysis, information technology infrastructure development, and technical workforce management.  Funding also provides the framework for Air Force business and acquisition transformation in analyzing and developing capabilities-based architectures, re-engineering and enabling technologies, integrating robust systems engineering into early acquisition processes, and developing and managing a technical workforce with the expertise to uniformly implement OSD and Air Force engineering guidance and policies. These efforts provide stability in Air Force Acquisition by integrating major processes to reverse trends toward unpredictable program cost, schedule, and performance to facilitate quick response to urgent operational needs from across the entire spectrum of potential conflicts. These integrated capabilities will provide OSD and AF acquisition leadership insights needed to effectively manage a complex portfolio of acquisition programs through more timely and reliable access to authoritative acquisition data.
+
+This program is in Budget Activity 6, RDT&amp;E Management Support because this budget activity includes research, development, test and evaluation efforts and funds to sustain and/or modernize the installations or operations required for general research, development, test and evaluation.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>18.644</r2:PriorYear>
+                <r2:CurrentYear>15.357</r2:CurrentYear>
+                <r2:BudgetYearOne>19.466</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>19.466</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>16.115</r2:PriorYear>
+                <r2:CurrentYear>15.357</r2:CurrentYear>
+                <r2:BudgetYearOne>14.613</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>14.613</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-2.529</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-4.853</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-4.853</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:CongressionalDirectedReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:CongressionalRescissions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:CongressionalAdds>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:CongressionalDirectedTransfers>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedTransfers>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>-1.900</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-0.629</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>-4.853</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-4.853</r2:BudgetYearOneBase>
+                            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>FY17 reductions due to higher Air Force priorities.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>662906</r2:ProjectNumber>
+                <r2:ProjectTitle>ELECTRONIC ACQUISITION SERV ENVIRONMENT (EASE)</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>1.063</r2:PriorYear>
+                    <r2:CurrentYear>1.910</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectNote>In FY17, PE 0702806F Acquisition and Management Support, Project 662906 Electronic Acquisition Service Environment (EASE - in which CON-IT was funded) efforts were transferred to PE 0901410F CON-IT, Project 643483 CON-IT, in order to create a unique PE for the CON-IT acquisition activities.</r2:ProjectNote>
+                    <r2:ProjectMissionDescription>EASE provides a contract writing solution for 8000 AF contracting professionals supporting base operations, logistics, contingency and weapons system contracting world-wide, enabling strategic sourcing and other acquisition efficiencies by standardizing data, business rules, and milestone tracking.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>EASE</r2:Title>
+                            <r2:Description>Develop a single contract writing solution, EASE, to support AF contracting professionals.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.123</r2:Funding>
+                                    <r2:Text>Continue development of information technology framework and production of prototype development.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>CON-IT</r2:Title>
+                            <r2:Description>Develop a comprehensive electronic contracting capability to include contract preparation, records management, electronic filing, electronic ordering and other capabilities.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.940</r2:Funding>
+                                    <r2:Text>Analyze alternate solutions, perform key cost, schedule and performance trades, affordability analysis, risk analysis, and risk mitigation planning.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.910</r2:Funding>
+                                    <r2:Text>Analyze alternate solutions, perform key cost, schedule and performance trades, affordability analysis, risk analysis, and risk mitigation planning.</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>N/A</r2:LineItem>
+                            <r2:Title>N/A</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>0.000</r2:PriorYear>
+                                <r2:CurrentYear>0.000</r2:CurrentYear>
+                                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                                <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>66ACSI</r2:ProjectNumber>
+                <r2:ProjectTitle>ACQ and Command Support Integration</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>15.052</r2:PriorYear>
+                    <r2:CurrentYear>13.447</r2:CurrentYear>
+                    <r2:BudgetYearOne>14.613</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>14.613</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>18.682</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>19.649</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>20.232</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>20.647</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectNote>This program, BA 06 PE 0702806F, project 66ACSI, Civilian Pay, is a new start.</r2:ProjectNote>
+                    <r2:ProjectMissionDescription>The program funds efforts to meet the Defense Acquisition Workforce Improvement Act (DAWIA), as well as Congressional, SECDEF, and SECAF mandates to provide program management execution tools, systems integration and architectural analysis, information technology infrastructure development, and technical workforce management.  Funding also provides the framework for Air Force business and acquisition transformation in developing capabilities-based architectures, re-engineering and enabling technologies, integrating robust systems engineering into early acquisition processes, acquisition process improvement analysis, and developing and managing a technical workforce with the expertise to uniformly implement OSD and Air Force engineering guidance and policies. These efforts provide stability in Air Force Acquisition by integrating major processes to reverse trends toward unpredictable program cost, schedule, and performance to facilitate quick response to urgent operational needs from across the entire spectrum of potential conflicts. These integrated capabilities will provide OSD and AF acquisition leadership insights needed to effectively manage a complex portfolio of acquisition programs through more timely and reliable access to authoritative acquisition data.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Acquisition Mandates</r2:Title>
+                            <r2:Description>Supporting Congressional, SECDEF, and SECAF mandates.  Program funding provides the framework for Air Force business and acquisition.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.457</r2:Funding>
+                                    <r2:Text>Conduct program management and resources management oversight.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.698</r2:Funding>
+                                    <r2:Text>Continue program management and resources management oversight.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.155</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.155</r2:Funding>
+                                    <r2:Text>Continue program management and resources management oversight.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Performance Measurements</r2:Title>
+                            <r2:Description>Develops and upgrades performance measures for capability-based planning constructs.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.991</r2:Funding>
+                                    <r2:Text>Developed and analyzed acquisition processes to provide process improvement and efficiencies.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.950</r2:Funding>
+                                    <r2:Text>Continue to develop and analyze acquisition processes to provide process improvement and efficiencies.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.600</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.600</r2:Funding>
+                                    <r2:Text>Continue to develop and analyze acquisition processes to provide process improvement and efficiencies.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Technical and Analytical Support</r2:Title>
+                            <r2:Description>Supports Acquisition Domain-level effort (via the Acquisition Domain Capabilities Integration (ADCI) activities) to integrate existing acquisition business systems/services, data, and process supporting key Acquisition capabilities at the enterprise level. Supports analysis required to architect an integrated environment built on DISA’s MilCloud infrastructure supporting the portfolio of acquisition business systems and implements standards for data management and service-oriented design methodology to facilitate efficiency and interoperability. Supports analysis aimed at solving problems across or outside of individual system boundaries with the goal of reducing redundancy, improving systems operations, and improving management of data resulting in dramatically improved transparency, efficiency, and effective management of the Acquisition process. Includes the creation and support of domain-level requirements and governance processes as well as the creation of domain-wide data standards.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.934</r2:Funding>
+                                    <r2:Text>Created and documented process to establish a data CONOPs for AQ metadata; supported consolidation of Acquisition Domain infrastructure in DISA MilCloud; prototyped the Air Worthiness Certification/Flight Authorization Process; acted as the Responsible Test Organization for Acquisition Workbench/Acquisition Application Store; created and managed the Acquisition Domain’s onboarding process for new customers; created and began management of the Acquisition Domain’s Requirements Traceability Matrix.  These activities support the automation of key Life Cycle Management Center (LCMC) and Space &amp; Missile Systems Center (SMC) acquisition processes.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.500</r2:Funding>
+                                    <r2:Text>Continuation of work supporting the automation of key Life Cycle Management Center (LCMC) and Space &amp; Missile Systems Center (SMC) acquisition processes. Includes analytical support, process work, governance, requirements definition, analysis, test &amp; evaluation and configuration control.  Continuation of work supporting the onboarding of new capabilities for the Acquisition Workbench/Acquisition Application Store.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>2.044</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>2.044</r2:Funding>
+                                    <r2:Text>Continuation of work supporting the automation of key Life Cycle Management Center (LCMC) and Space &amp; Missile Systems Center (SMC) acquisition processes. Continuation of work supporting the onboarding of new capabilities for the Acquisition Workbench/Acquisition Application Store.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>System Metric and Reporting Tool (SMART) and Associated Tool Development</r2:Title>
+                            <r2:Description>Upgrade the enterprise tools that assists PMs and acquisition professionals with the day-to-day tasking involved in defining, managing, and reporting health and status information throughout an Acquisition program's lifecycle.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>2.845</r2:Funding>
+                                    <r2:Text>Re-hosted SMART and associated tools in MilCloud, creation and deployment of a common user interface, and development of several core Acquisition business services (e.g. data publishing service, analytics foundation services).</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>4.008</r2:Funding>
+                                    <r2:Text>Complete creation of an integrated IT operational environment (Acquisition Workbench/Acquisition Application Store) and further develop applications for Acquisition Program Offices. In addition, assess appropriate metrics and alternative tools to enhance data collection and data visibility on all acquisition programs.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>4.052</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>4.052</r2:Funding>
+                                    <r2:Text>Continue expansion of the integrated IT operational environment (Acquisition Workbench/Acquisition Application Store) to include additional Acquisition Program Office automation and additional application development. Continue assessment of appropriate tools.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Project Management Resource Tools (PMRT)</r2:Title>
+                            <r2:Description>Upgrade enterprise PMRT tools that provide program/project resource management support to the Acquisition community.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>2.540</r2:Funding>
+                                    <r2:Text>Implementation of PMRT enhancements to budget submission, financial management, program oversight and acquisition program control processes including (a) development of capabilities to better track all acquisition programs and have cradle-to-grave oversight of all service programs within the portfolio, (b) automation of key reports (e.g Small Business tracking, Should-Cost), and integration with important contracting data sources.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.987</r2:Funding>
+                                    <r2:Text>Development of the capability required to provide enhanced visibility of acquisition program and financial information for all AF Acquisition Investment programs. Continued development of critical PMRT interfaces to include the Defense Enterprise Accounting Management System (DEAMS).  Upgrades required to (a) address new CyberSpace security requirements due to increased security threats and (b) implement changes to fix weaknesses in audit controls needed to address financial audit findings and to protect Air Force data.  Upgrades to provide additional capability to enable and track Air Force’s implementation of initiatives associated with OSD’s Better Buying Power (BBP) mandates.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.964</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.964</r2:Funding>
+                                    <r2:Text>Continued enhancement of PMRT to allow increased visibility to acquisition programmatic and financial information for all AF Acquisition Investment programs. Re-engineering and implementation of process improvements in PMRT supporting acquisition reporting. Development of additional acquisition dashboard data visualizations. Migration PMRT to a Core Data Center (CDC) in order to comply with the Federal Data Center Consolidation Initiative (FDCCI).</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Capabilities Integration Environment (CIE)</r2:Title>
+                            <r2:Description>Provides a development, testing and integration environment for Information Technology (IT) system development, prototypes and proofs of 
+concept.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.956</r2:Funding>
+                                    <r2:Text>Continues a secure, scalable environment to support Research and Development (R&amp;D), Development Test/Operational Test (DT/OT), integration, exercises, experimentation, acquisition development and direct Warfighter support.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.804</r2:Funding>
+                                    <r2:Text>Continues a secure, scalable environment to support Research and Development (R&amp;D), Development Test/Operational Test (DT/OT), integration, exercises, experimentation, acquisition development and direct Warfighter support.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.805</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.805</r2:Funding>
+                                    <r2:Text>Continues a secure, scalable environment to support Research and Development (R&amp;D), Development Test/Operational Test (DT/OT), integration, exercises, experimentation, acquisition development and direct Warfighter support.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Development and Retention</r2:Title>
+                            <r2:Description>Supports activities to develop, manage and retain the acquisition workforce.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.329</r2:Funding>
+                                    <r2:Text>Performs activities to develop, manage, and retain the acquisition workforce by providing training on enhanced business and engineering processes that enable the effective management of complex acquisition processes, and allows continued interface with the academic community.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.500</r2:Funding>
+                                    <r2:Text>Performs activities to develop, manage, and retain the acquisition workforce by providing training on enhanced business and engineering processes that enable the effective management of complex acquisition processes, and allows continued interface with the academic community.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.500</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.500</r2:Funding>
+                                    <r2:Text>Performs activities to develop, manage, and retain the acquisition workforce by providing training on enhanced business and engineering processes that enable the effective management of complex acquisition processes, and allows continued interface with the academic community.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Civilian Pay</r2:Title>
+                            <r2:Description>This program supports Civilian Full-Time Equivalents (FTEs) to administer Federally Funded Research and Development Center (FFRDC) contracts at the Massachusetts Institute of Technology Lincoln Laboratory (MIT-LL) and the Carnegie Mellon University Software Engineering Institute (CMU-SEI).  The FFRDCs enable the Air Force to use private sector resources to accomplish tasks that are integral to Air Force's mission and operation.</r2:Description>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>2.493</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>2.493</r2:Funding>
+                                    <r2:Text>This program supports Civilian Full-Time Equivalents (FTEs) to administer Federally Funded Research and Development Center (FFRDC) contracts at the Massachusetts Institute of Technology Lincoln Laboratory (MIT-LL) and the Carnegie Mellon University Software Engineering Institute (CMU-SEI).</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>N/A</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

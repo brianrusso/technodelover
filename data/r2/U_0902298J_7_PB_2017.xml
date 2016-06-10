@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0902298J</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Management Headquarters</r2:ProgramElementTitle>
+        <r2:R1LineNumber>240</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>The Joint Staff</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>12.611</r2:AllPriorYears>
+            <r2:PriorYear>3.111</r2:PriorYear>
+            <r2:CurrentYear>2.953</r2:CurrentYear>
+            <r2:BudgetYearOne>0.826</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>0.826</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>0.861</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>0.860</r2:BudgetYearThree>
+            <r2:BudgetYearFour>0.860</r2:BudgetYearFour>
+            <r2:BudgetYearFive>0.861</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>Provides RDT&amp;E funds for the Joint Staff Information Network (JSIN). JSIN is the network infrastructure (for both classified and unclassified information) enabling collaboration and information-sharing among the Joint Staff, Combatant Commands (CCMD) and the Services. The JSIN also provides crucial business-related, decision-making information, and workflow support affecting military operations in support of the JCS. JSIN improves actions processing for faster coordination of critical issues with Combatant Commands, Services, and Agencies, as well as within TJS.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>4.409</r2:PriorYear>
+                <r2:CurrentYear>2.978</r2:CurrentYear>
+                <r2:BudgetYearOne>1.010</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>1.010</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>3.111</r2:PriorYear>
+                <r2:CurrentYear>2.953</r2:CurrentYear>
+                <r2:BudgetYearOne>0.826</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.826</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-1.298</r2:PriorYear>
+                <r2:CurrentYear>-0.025</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.184</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.184</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:CurrentYear>-0.025</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>FY2015 Carryover</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>-1.298</r2:PriorYear>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Economic Adjustment</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-0.184</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.184</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>P001</r2:ProjectNumber>
+                <r2:ProjectTitle>Joint Staff Information Network (JSIN)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>12.611</r2:AllPriorYears>
+                    <r2:PriorYear>3.111</r2:PriorYear>
+                    <r2:CurrentYear>2.953</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.826</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.826</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.861</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.860</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.860</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.861</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>Provides RDT&amp;E funds for the Joint Staff Information Network (JSIN). JSIN is the network infrastructure (for both classified and unclassified information) enabling collaboration and information-sharing among the Joint Staff, Combatant Commands (CCMD) and the Services. The JSIN also provides crucial business-related, decision-making information, and workflow support affecting military operations in support of the JCS. JSIN improves actions processing for faster coordination of critical issues with Combatant Commands, Services, and Agencies, as well as within TJS.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Joint Staff Information Network (JSIN)</r2:Title>
+                            <r2:Description>Provides RDT&amp;E funds for the Joint Staff Information Network (JSIN). JSIN is the network infrastructure (for both classified and unclassified information) enabling collaboration and information-sharing among the Joint Staff, Combatant Commands (CCMD) and the Services. The JSIN also provides crucial business-related, decision-making information, and workflow support affecting military operations in support of the JCS. JSIN improves actions processing for faster coordination of critical issues with Combatant Commands, Services, and Agencies, as well as within TJS.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.111</r2:Funding>
+                                    <r2:Text>Provided requirements refinement, limited roll out of a production system, planning of legacy data migration and assessment of Joint Staff’s electronic Document Task and Records Management (eDTRM) project. eDTRM provides Joint Staff a system that is able to leverage the cloud computing capabilities within the Defense Enterprise Computing Centers (DECC)/Joint Information Environment (JIE) and able to integrate with and leverage information contained within other Task and Records Management Systems currently in use within the Joint Community. Workflows developed included Chairman’s Public Correspondence, Military Awards, Freedom of Information Act, Mandatory Declassification Review, Security Review, Staff Actions and Records Management.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.953</r2:Funding>
+                                    <r2:Text>Joint Staff migration to JIE continues with placement of applications into JIE Core Data Centers and participation within Installation Processing Nodes.  Mobile user access to JSIN services includes unclassified and classified mobile device use of JSIN-U and JSIN-S portals.  Subscription to the Defense Information Systems Agency (DISA) provided Unified Capabilities portfolio will allow a full complement of voice, video, chat, web conferencing, email, and mobility functionality.  Continued refinement of the U.S. Army Information Technology Agency desktop as a service,  Application Virtualization (S) and (U), Cross Domain Services, Enterprise Content Management  and Task Management (U) optimization and integration, Enterprise Services Implementation including Enterprise Task Management (U/S), Identity and Access Management capabilities, completion of a Managed Print Service (MPS) and consideration of DoD cloud services will achieve efficiencies, improve mission effectiveness, and strengthen our security posture.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.826</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.826</r2:Funding>
+                                    <r2:Text>Work with the Joint Service Provider (JSP) to develop and refine methodologies to improve Active Directory hardening, network consolidation strategies, and improve data protection. Continue to develop and integrate more mobile capacities in the JS users as more and more systems are handheld and data hosted in the DOD cloud.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryRemarks>N/A</r2:OtherProgramFundingSummaryRemarks>
+                    <r2:PerformanceMetrics>(1) Reduce technical support hours per desktop a minimum of 10% through deployment of thin client and virtualized management of the IT baseline.
+
+(2) Avoid cost for technology refresh of NIPR and SIPR desktops via the proper planning, testing, and piloting of a Joint Staff Thin Client solution.
+
+(3) Reduce the cost of building, operating, and maintaining Joint Staff specific solutions through implementation of enterprise capabilities, and adoption of new cost models for execution (Enterprise Task management, Unified Communications, JIE, and Managed Print Services (MPS).
+
+(4) Reduce redundancies in Core and Mission IT Capabilities through implementation of a comprehensive portfolio management policy and avoid cost through the institutionalization of investment management governance model.
+
+(5) Reduce cost of Joint Staff controlled IT-services by subscribing to locally hosted IT services providers (Joint IT Service Provider-Pentagon (JITSP-P).</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Contract Support</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>SPAWAR</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Washington, DC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.359</r2:TotalPreviousYears>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Contract Support</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>SPAWAR</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Washington, DC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>11.252</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>3.111</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.953</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.826</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.826</r2:Amount>
+                                            <r2:AwardDate>2015-09</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Joint Staff Information Network (JSIN)</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Joint Staff Information Network (JSIN)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

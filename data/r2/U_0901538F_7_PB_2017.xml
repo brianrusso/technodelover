@@ -1,0 +1,1950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0901538F</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Financial Management Information Systems Development</r2:ProgramElementTitle>
+        <r2:R1LineNumber>242</r2:R1LineNumber>
+        <r2:MdapCode>N87</r2:MdapCode>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Air Force</r2:ServiceAgencyName>
+        <r2:AppropriationCode>3600</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Air Force</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>395.781</r2:AllPriorYears>
+            <r2:PriorYear>91.766</r2:PriorYear>
+            <r2:CurrentYear>95.130</r2:CurrentYear>
+            <r2:BudgetYearOne>10.581</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>10.581</r2:BudgetYearOneBase>
+            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            <r2:BudgetYearTwo>6.975</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>6.951</r2:BudgetYearThree>
+            <r2:BudgetYearFour>6.966</r2:BudgetYearFour>
+            <r2:BudgetYearFive>7.087</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>This program element develops upgrades to existing financial management information systems. These upgrades are required to comply with auditability and transparency requirements as well as enable efficiencies in processing financial transactions. This program element also supports studies and analysis to improve future program planning and execution.
+
+There are three projects within this program element: the Program and Budget Enterprise Service (PBES), the Cost Estimating Modeling (CEM), the Defense Enterprise Accounting and Management System (DEAMS) Increment 1 (Inc 1).  A previous project, DEAMS Inc 2, was incorporated into DEAMS Inc 1 and requested FY 2015 funding was removed by Congressional action.  
+
+PBES is a software development effort that will utilize a service oriented architecture (SOA) to deliver budgeting and programming capability for the Air Force. PBES will replace legacy systems such as the Automated Budget Interactive Data Environment System (ABIDES) and the Resource Allocation Programming Information Decision System (RAPIDS) and will support the budget formulation and force programming process. 
+
+CEM is a knowledge-based study effort to improve Air Force-wide cost estimating by analyzing cost data and recommending changes to estimating models, methods, and tools.
+
+DEAMS Inc 1 is a financial software effort to provide the Air Force with a modern accounting and finance system.  It will allow the Air Force to comply with and fulfill statutory requirements for auditability by 2017, as required in the FY2010 NDAA, and will be Standard Financial Information Structure (SFIS) and Generally Accepted Accounting Principles (GAAP) compliant.  Activities also include studies and analysis to support both current program planning and execution and future program planning.
+
+This program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>102.215</r2:PriorYear>
+                <r2:CurrentYear>101.840</r2:CurrentYear>
+                <r2:BudgetYearOne>10.123</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>10.123</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>91.766</r2:PriorYear>
+                <r2:CurrentYear>95.130</r2:CurrentYear>
+                <r2:BudgetYearOne>10.581</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>10.581</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-10.449</r2:PriorYear>
+                <r2:CurrentYear>-6.710</r2:CurrentYear>
+                <r2:BudgetYearOne>0.458</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.458</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>-0.410</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:CongressionalDirectedReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>-6.300</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:CongressionalRescissions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:CongressionalAdds>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:CongressionalDirectedTransfers>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedTransfers>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>-7.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-3.449</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>0.458</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.458</r2:BudgetYearOneBase>
+                            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>FY2015
+- Congressional approved reprogramming of $7.000 from RDT&amp;E to O&amp;M.
+- SBIR/STTR Transfer of $3.449M
+
+FY2016
+- Congressional General Reduction of $0.410M for FFRDC
+- Congressional Directed Reduction of $6.300M for forward financing excluding funds for audit readiness
+
+FY2017
+- $0.458M increase to meet updated DEAMS Service Cost Estimate</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>672222</r2:ProjectNumber>
+                <r2:ProjectTitle>Program Budget Enterprise Service (PBES)</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>0.000</r2:AllPriorYears>
+                    <r2:PriorYear>1.791</r2:PriorYear>
+                    <r2:CurrentYear>1.971</r2:CurrentYear>
+                    <r2:BudgetYearOne>1.991</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>1.991</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>1.990</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>1.961</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>1.966</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>2.001</r2:BudgetYearFive>
+                    <r2:CostToComplete>0.000</r2:CostToComplete>
+                    <r2:TotalCost>13.671</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>The Program and Budget Enterprise Service (PBES) is a single solution software development effort that will utilize a service oriented architecture (SOA) to deliver budgeting and programming capability for the United States Air Force. PBES will replace legacy systems such as the Automated Budget Interactive Data Environment System (ABIDES) and the Resource Allocation Programming Information Decision System (RAPIDS, and will support the budget formulation and force programming process. Upon full deployment of PBES, the system will be compliant with the Standard Financial Information Structure (SFIS) and Standard Line of Accounting (SLOA) conventions, which will enable standardization of data across the Department of Defense (DoD).
+
+Utilizing Business Process Re-engineering (BPR), the Air Force has designated PBES as the solution to deliver traceability of financial data in support of the programming and budgeting processes.  Through the use of BPR, PBES will address excessive overhead, outdated business practices and other time-consuming support activities. PBES will make the budget formulation process more efficient by incorporating business best practices, organizing programming and budgeting personnel, as well as utilizing current technology. PBES will also eliminate checks and balances required of older technology, taking advantage of automated reconciliation services. In addition, the solution will allow the use of Authoritative Data Sources (ADS) for data exposure, resulting in more timely and accurate budget submissions to Office of the Secretary of Defense (OSD), Congress, and other internal and external customers. 
+
+PBES was originally conceived to be a multiple-release program.  In FY2016, based on streamlining efforts to maximize efficiencies and synergies between the three Releases, PBES will be consolidated into a single delivery effort.  Under the revised single effort, PBES will deliver the following capabilities: baseline extension, allocation of budgetary resources, development of budgetary options for the President's Budget submission, and the integration Congressional marks into the appropriated budget.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>PBES</r2:Title>
+                            <r2:Description>Software development effort providing modern and enhanced budgeting and programming capabilities to the USAF.  Funding supports engineering and technical development and implementation activities.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.791</r2:Funding>
+                                    <r2:Text>- Performed pre-MDD acquisition activities (e.g., market research, risk reduction, annual review) to support business process re-engineering (BPR) and requirements definition
+- Discontinued Budget Formulation and Execution Manager (BFEM) effort due to potential solutions discovered during market research showing improved efficiencies and synergies</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.971</r2:Funding>
+                                    <r2:Text>- Consolidate 4-release approach into 1 to gain efficiencies and synergies
+- Continue pre-MDD acquisition activities (e.g., market research, COA analysis and selection, analyze options for hosting environment)
+- Milestone Development Decision and preparations for RFP development
+- Identify Program Management Office</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.991</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.991</r2:Funding>
+                                    <r2:Text>- Milestone A/B
+- Award product development and system integrator contracts</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>PBES will be acquired using an incremental development-deployment approach.  A competitive, best-value contracting strategy will be used.  Establishment of a Program Management Office is planned post-MDD that will work in coordination with a Functional Management team.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:Remarks>FY2015 funding and contract with Department of the Treasury to re-use existing government-developed budget tools.</r2:Remarks>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES R1 Development</r2:Name>
+                                    <r2:FundingVehicle>PO</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Dept of Treasury</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Washington, DC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.850</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.850</r2:TotalCost>
+                                        <r2:TargetValue>3.566</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES R1 Proof of Concept</r2:Name>
+                                    <r2:FundingVehicle>RO</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFLCMC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WPAFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.000</r2:TotalCost>
+                                        <r2:TargetValue>1.000</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES R1 Requirements Definition</r2:Name>
+                                    <r2:FundingVehicle>RO</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFLCMC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WPAFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.491</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.491</r2:TotalCost>
+                                        <r2:TargetValue>0.491</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES Product Development</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Not specified.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.011</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.011</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>1.011</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES R1 Environment Hosting</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>DISA</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Fort Meade, MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.450</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.450</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES R1 Information Assurance</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFLCMC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WPAFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.000</r2:TotalCost>
+                                        <r2:TargetValue>0.115</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES system engineering</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFLCMC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WPAFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.371</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.371</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES Environment/on-boarding</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFLCMC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WPAFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.300</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.300</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES Business/Data Analyst</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFLCMC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WPAFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.200</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.200</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PBES Data Architect</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFLCMC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WPAFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.200</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.200</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Program Management Costs</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>AFLCMC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>WPAFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.900</r2:Amount>
+                                            <r2:AwardDate>2016-04</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.980</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.980</r2:Amount>
+                                            <r2:AwardDate>2016-04</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Pre-MDD Acquisition Activities (e.g., Risk Reduction)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MDD</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Initiate Program Office operations</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Initiate RFP development</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Milestone A/B (Dec 2016)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Contract award (software product development)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Contract award (system integrator)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Development activities</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Milestone C Full Deployment Decision (June 2019)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>675177</r2:ProjectNumber>
+                <r2:ProjectTitle>Cost Estimating Modeling (CEM)</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>0.000</r2:AllPriorYears>
+                    <r2:PriorYear>4.442</r2:PriorYear>
+                    <r2:CurrentYear>5.016</r2:CurrentYear>
+                    <r2:BudgetYearOne>4.983</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>4.983</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>4.985</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>4.990</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>5.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>5.086</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:AllPriorYears>0</r2:AllPriorYears>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>Cost Estimating Modeling (CEM) provides and enhances Air Force-wide cost estimating capabilities by developing current cost data and estimating methods and tools. In collaboration with the OSD Cost Assessment Data Enterprise (CADE) project, these products will improve the quality, timeliness, and effectiveness of the acquisition program cost estimates required by statute (e.g., 10 USC 2366, 2433, 2434) and regulation (e.g., DoDI 5000.02) in support of Air Force and Department of Defense acquisition decisions, programming and execution decisions, and Congressional mandates.   
+
+The Air Force works to continuously improve cost estimating capabilities for each weapon system type (aircraft; ballistic missiles; electronics and aircraft modifications; ground stations and automated information systems; cross cutting databases; satellites and launch vehicles; tactical missiles; and munitions).  Changing acquisition laws, regulations, initiatives, and technologies drive the need to revise cost estimating tools. For example, current shortfalls in capability reflect efforts needed to fill gaps in response to the laws and regulations such as the FY06 NDAA report {PL 109-163--Provisions relating to Major Defense Acquisition Programs (MDAPs)}, Weapon System Acquisition Reform Act (WSARA) {provisions related to improving cost estimating quality, especially earlier in the program life-cycle and affordability analysis}, Secretary of the Air Force (SECAF) Acquisition Excellence Plan {priorities to improve cost estimating capability and affordability analysis and improved cost estimating support to requirements process}, and new Office of the Secretary of Defense (OSD) policy {better buying power initiatives on enhanced trade-off analysis, affordability analysis, and will versus should cost analysis}.   
+
+This project will perform knowledge-based studies (KBS) analyzing historical data to produce cost estimating relationships (CERs) or statistical data to develop cost estimating databases, methods and tools across hundreds of product work breakdown structure (WBS) elements and functional cost elements within each weapon system type. The different weapon system types are: Aircraft, Ballistic Missiles, Electronics and Aircraft Modifications, Ground Stations and Automated Information Systems (AIS), Cross-Cutting Studies, Satellites and Launch Vehicles (Space Systems), and Tactical Missiles and Munitions. Some areas of cost modeling efforts that are cross-cutting within all weapon system types are: cost risk metrics, methods development, statistical model enhancements; software cost database, metrics, statistical model development; contract or engineering change order analysis models; other government cost elements (e.g., depot standup and government test); nuclear hardening; time phasing; reliability and maintainability; disposal; and commodity area price escalation analysis and models.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>CEM</r2:Title>
+                            <r2:Description>Perform knowledge-based studies (KBS); develop databases, methods and models, and gap improvements for Aircraft, Ballistic Missiles, Tactical Missiles and Munitions, Electronics and Aircraft Modifications, Ground Stations and Automated Information Systems (AIS),  Satellites, Launch Vehicles, and cross-cutting databases.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>4.442</r2:Funding>
+                                    <r2:Text>- Completed optimal data collection templates and began populating with General Commodity KBS data and initiated integration with OSD Cost Assessment Data Enterprise (CADE) project
+- Initiated Space Commodity KBS  
+- Developed Cost Analysis Requirements Document (CARD) table templates and Cost and Software Data Report (CSDR) standardized plans
+- Initiated pilot data collection, for Major Defense Acquisition Programs (MDAPS) meeting milestone reviews
+- Initiated CARD and CSDR integration with OSD CADE project
+- Initiated CADE integration efforts for existing Selected Acquisition Report (SAR) database
+- Collected historical program data to fill gaps identified by KBS
+- Conducted Quarterly Progress Reviews with government cost community</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>5.016</r2:Funding>
+                                    <r2:Text>- Populate optimal data collection templates with General Commodity and Space Commodity KBS data
+- Develop CARD and CSDR templates as programs are scheduled to meet milestone reviews (DCAPES Inc 2B, KC-46, LRASM, LRSO, GBSD, HTM, F-22 Inc 3.2B)
+- Complete CARD and CSDR integration with OSD CADE project
+- Complete SAR database integration into OSD CADE project
+- Develop cost estimating relationships (CERs) and other cost estimating tools/methods
+- Continue to collect historical program data to fill gaps identified by KBS
+- Conduct Quarterly Progress Reviews with government cost community</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>4.983</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>4.983</r2:Funding>
+                                    <r2:Text>- Populate optimal data collection templates with General Commodity and Space Commodity KBS data
+- Develop CARD and CSDR templates as programs are scheduled to meet milestone reviews (programs TBD)
+- Revise CARD and CSDR templates with data collection lessons learned
+- Develop CERs and other cost estimating tools/methods with recent data collections
+- Continue to collect historical program data to fill gaps identified by KBS
+- Conduct Quarterly Progress Reviews with government cost community</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryRemarks>N/A</r2:OtherProgramFundingSummaryRemarks>
+                    <r2:AcquisitionStrategy>Contracts are expected to be firm-fixed price and/or cost plus, and will be awarded through full and open competition and follow Federal Acquisition Regulations (FAR) guidelines.  Headquarters Air Force will provide contract management oversight and direction.  Contracted knowledge-based studies progress will be reviewed on a quarterly basis and adjusted as appropriate.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Aircraft</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.065</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.165</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.115</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.115</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>TBD</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Ballistic Missiles</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Tecolote</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Arlington, VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.250</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.350</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.350</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.350</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>TBD</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Electronics, Aircraft Modifications</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Tecolote</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Arlington, VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.475</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.575</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.575</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.575</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>TBD</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Ground Stations, Automated Information Systems</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Tecolote</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Arlington, VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.525</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.625</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.625</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.625</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>TBD</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Cross-Cutting Databases</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.292</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.395</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.412</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.412</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>TBD</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Satellite, Launch Vehicles</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.625</r2:Amount>
+                                            <r2:AwardDate>2015-06</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.696</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.696</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.696</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>TBD</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Tactical Missiles, Munitions</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.210</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.210</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.210</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.210</r2:Amount>
+                                            <r2:AwardDate>2017-02</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>TBD</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>General Commodity KBS Activities</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Space Commodity KBS Activities</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Optimal Data Collection Templates Deliverable (Feb 2015)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Populate Templates with General &amp; Space Commodities KBS data (ongoing)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>CARD Table Templates Deliverable (Jun 2015 - Initial Deliverable)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>CSDR Plan Draft Templates Deliverable (Sep 2015)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>SAR Database Integration with OSD CADE Project</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Develop CERs/Estimating Tools/Models</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Update 1 - Templates / CERs / Tools / Models Deliverables (Feb 2016)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Update 2 - Templates / CERs / Tools / Models Deliverables (Feb 2017)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Update 3 - Templates / CERs / Tools / Models Deliverables (Feb 2018)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Update 4 - Templates / CERs / Tools / Models Deliverables (Feb 2019)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2020</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2020</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Update 5 - Templates / CERs / Tools / Models Deliverables (Feb 2020)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Quarterly KBS Progress Review (Nov, Feb, May, Aug)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>675179</r2:ProjectNumber>
+                <r2:ProjectTitle>Defense Enterprise Accounting Management System Increment 1 (DEAMS Inc 1)</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>395.781</r2:AllPriorYears>
+                    <r2:PriorYear>85.533</r2:PriorYear>
+                    <r2:CurrentYear>88.143</r2:CurrentYear>
+                    <r2:BudgetYearOne>3.607</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>3.607</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>0.000</r2:CostToComplete>
+                    <r2:TotalCost>573.064</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>MDAP/MAIS Code: N87
+
+Defense Enterprise Accounting and Management System (DEAMS) is a commercial-off-the-shelf (COTS), Oracle-based software implementation effort that will provide an auditable, modern accounting and finance system. DEAMS is a Joint United States Air Force (USAF) and United States Transportation Command (USTRANSCOM) Enterprise Resource Planning (ERP) Program that will replace many existing accounting and finance legacy systems and will provide core funds execution management functions consistent with financial management laws, regulations and policy, general ledger, funds management, payments, receivables, cost and revenues, and fiduciary reporting. DEAMS is compliant with the Clinger-Cohen Act, Business Enterprise Architecture (BEA), and integrates into Global Combat Support System-Air Force (GCSS-AF). When fully deployed, DEAMS will bring the Air Force in compliance with the Financial Improvement and Audit Readiness (FIAR) requirement in the 2010 NDAA.
+
+DEAMS Inc 1 is planned as an eight-release program:
+
+Release 1 - Air Mobility Command (AMC) without Transportation Working Capital Funds (TWCF)
+Release 2 - AMC with TWCF, Defense Finance and Accounting Service (DFAS) Rome
+Release 3 - Air Combat Command (ACC), Air Force Global Strike Command (AFGSC), Air Education and Training Command (AETC)
+Release 4 - Air Force Reserve Command (AFRC), and Air National Guard (ANG) Geographically Separated Units (GSUs) to include DFAS Limestone, Air Force District of Washington (AFDW), Air Force Special Operations Command (AFSOC), U.S. Air Force Academy (USAFA), Pacific Air Forces (PACAF), and DFAS Japan
+Release 5 - U. S. Air Forces in Europe (USAFE), and DFAS Europe
+Release 6 - Air Force Space Command (AFSPC), Air Force Materiel Command (AFMC), and DFAS Columbus
+Release 7 - Conversion programs 
+Release 8 - Surface Deployment and Distribution Command (SDDC), funded with U.S. Transportation Command Working Capital Funds
+
+DEAMS Inc 1 is transitioning to the Operations and Support (O&amp;S) phase post Milestone C to support deployed locations. 
+
+As reported in the November 30, 2015 Defense Acquisition Executive Summary Report and November 2015 significant change notification letters to the congressional defense committees, the DEAMS program did not meet the original estimate schedule threshold for Full Deployment Decision (FDD) in August 2015.  A September 30, 2015 Acquisition Decision Memorandum (ADM) directed the Air Force to return in February 2016 for an FDD review.  This additional time is required to accommodate a verification of the ongoing mitigation actions to address the findings of the July 1, 2015 Initial Operational Test and Evaluation Report, as outlined in the September 30, 2015 ADM.  Postponing FDD from August 2015 to February 2016 does not impact DEAMS pre-deployment activities, funding or schedule.  DEAMS Inc 1 capability will continue to be deployed in FY2016-2017 as approved by the Milestone Decision Authority.
+
+Activities also include studies and analysis to support both current program planning and execution and future program planning.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Product Development</r2:Title>
+                            <r2:Description>DEAMS Inc 1 capability development activities support multiple releases as described in the mission description. Development activities include design, build, test, data conversion, cutover from legacy systems and the resolution of deficiency reports and defects.  Activities also include hardware support (system admininstration and database security) and storage service by Defense Information Systems Agency (DISA); continued development of interface to Global Combat Support System (GCSS); Enterprise Resource Planning (ERP) support; Independent Verification and Validation (IV&amp;V);  Developmental Release Field Support (DRFS) to include process execution, data scripts, etcetera; help desk support; Engineering Integration Services (EIS) for oversight of development tools and processes; deployment training and change management activities, etc.  Provides acquisition, contract, finance, and cost management planning and support activities.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>82.073</r2:Funding>
+                                    <r2:Text>- Initiated development activities affiliated with Releases 4, 5, and 6
+- Transitioned DISA, GCSS, Level 0 Help Desk, and Deployment Support costs Post Milestone C to Operations and Maintenance (O&amp;M)</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>84.124</r2:Funding>
+                                    <r2:Text>- Continue and complete DEAMS Inc 1 Release 4, 5, and 6 development activities in support of multiple deployments.
+- Initiate DEAMS Inc 1 Release 7 development activities in support of multiple deployments.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>3.607</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>3.607</r2:Funding>
+                                    <r2:Text>- Complete any remaining development activities in support of remaining deployments.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Test and Evaluation (T&amp;E)</r2:Title>
+                            <r2:Description>The T&amp;E process will be a complete system test to validate system software requirements and to ensure compliance mandates are satisfied.  The T&amp;E efforts will be conducted at developer test site, Capabilities Integration Environment (CIE) and DISA production sites.  The DEAMS Inc 1 Integrated Test Plan (ITP) and System Integrator (SI) Software Test Plan (STP) cover the details of DEAMS Inc 1 T&amp;E.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.460</r2:Funding>
+                                    <r2:Text>- Continued T&amp;E activities for the following:
+  -- System development services testing &amp; government testing
+  -- Software problem reports and defect resolution
+
+- Completed Initial Operational Test and Evaluation (IOT&amp;E)</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>4.019</r2:Funding>
+                                    <r2:Text>- Complete T&amp;E activities for the following:
+  -- System development services testing &amp; government testing
+  -- Software problem reports and defect resolution
+  -- Releases 4, 5, 6, and 7 development</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>OPAF:  BA03:  Line Item #834470</r2:LineItem>
+                            <r2:Title>DEAMS</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>4.298</r2:PriorYear>
+                                <r2:CurrentYear>4.755</r2:CurrentYear>
+                                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                                <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:AcquisitionStrategy>DEAMS Inc 1 will employ multiple contract actions as the various Releases are developed, tested, and deployed through FY 2017.  Program office will provide management oversight of the system integrator and multiple subcontractors.  Program reviews will occur throughout the lifecycle of the program.  Development and deployment will occur via multiple Releases.  Programmatic adjustments will occur as appropriate or as directed by Air Force leadership or by the Milestone Decision Authority.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:Remarks>DMS data are a consolidation of multiple less than $1M contracts.
+
+DRFS:  Developmental Release Field Support
+DISA:  Defense Information Systems Agency
+ERP:  Enterprise Resource Planning
+ESB:  Enterprise Service Bus
+ETASS:  Engineering and Technology Acquisition Support Services
+FFRDC:  Federally Funded Research and Development Center
+GCSS-AF:  Global Combat Support System - Air Force
+SME:  Subject Matter Expert</r2:Remarks>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DRFS (Post Production Support, Level 2/3 Help Desk Support), System Stabilization, Design, Blueprint, Code, Development tools/processes, etc.</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Accenture Federal Services LLC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>109.287</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>38.219</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>33.249</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>2.959</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>2.959</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>183.714</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DRFS (Level 0 Help Desk Support)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>The Greentree Group</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>2.491</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.552</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>3.043</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>ESB messaging, adapters, web services, security, digital signature service, etc.</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>GCSS-AF</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Gunter AFB, AL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>6.266</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.640</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>6.906</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Computing and storage support, system administration, security, storage, etc.</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>DISA</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>26.967</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.037</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>28.004</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Direct Mission Support (Development/Integration Environments)</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>82.013</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>9.472</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>12.988</r2:Amount>
+                                            <r2:AwardDate>2015-10</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>104.473</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Oracle R12 Support, ERP Support</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>SRISYS</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>West Chester, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>3.093</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.600</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>5.693</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SME Support, General Ledger Reports and Analysis, Business Process Analysis, Master Data Conversion and Training Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>T&amp;M</r2:ContractType>
+                                    <r2:PerformingActivity>Kearney and Company</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>73.593</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>14.662</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>16.015</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>104.270</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Change Management, Strategic Communications</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>SAIC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.511</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.816</r2:Amount>
+                                            <r2:AwardDate>2014-12</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.889</r2:Amount>
+                                            <r2:AwardDate>2015-12</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.648</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.648</r2:Amount>
+                                            <r2:AwardDate>2016-12</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>4.864</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Information Assurance (IA) / Risk Management Framework (RMF)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Jacobs Technology</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.087</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.567</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.584</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>2.238</r2:TotalCost>
+                                        <r2:TargetValue>2.238</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>ERP System Integration</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Credence Management Solutions LLC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>10.706</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>4.600</r2:Amount>
+                                            <r2:AwardDate>2015-06</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>8.259</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>23.565</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FFRDC ERP Engineering</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>The MITRE Corporation</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>10.476</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.942</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.415</r2:Amount>
+                                            <r2:AwardDate>2015-10</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>12.833</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Independent Verification and Validation (IV&amp;V)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>JYG Innovations</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>6.525</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.324</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>7.849</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>ETASS (Engineering)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Jacobs Technology</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>26.819</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>3.199</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>4.784</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>34.802</r2:TotalCost>
+                                        <r2:TargetValue>34.466</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:Remarks>AFOTEC:  Air Force Operational Test and Evaluation Center
+JITC:  Joint Interoperability Test Command
+LDTO: Lead Developmental Test Organization</r2:Remarks>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Test services from AFOTEC, JITC, LDTO and other miscellaneous test resources</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>13.055</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>3.460</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>4.019</r2:Amount>
+                                            <r2:AwardDate>2015-10</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>20.534</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:Remarks>A&amp;AS:  Advisory &amp; Assistance Services</r2:Remarks>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Program Management Administration costs</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFLCMC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Wright-Patterson AFB, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>9.177</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.726</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.879</r2:Amount>
+                                            <r2:AwardDate>2015-10</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>10.782</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Economic/Sustainment Analysis Support</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Peerless Technologies</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.097</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.070</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>2.167</r2:TotalCost>
+                                        <r2:TargetValue>2.449</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Program Management Office Support</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Quantech Services</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Lexington, MA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>14.711</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.154</r2:Amount>
+                                            <r2:AwardDate>2015-04</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.462</r2:Amount>
+                                            <r2:AwardDate>2015-10</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>17.327</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1, Milestone C (Feb 2015)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1, Initial Operational Capability (May 2015)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1, Full Deployment Decision (FDD)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1, Full Deployment (FD)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1 Initial Operational Test &amp; Evaluation (IOT&amp;E)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1 Release 4 Development Activity</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1 Release 5 Development Activity</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1 Release 6 Development Activity</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1 Release 7 Development Activity</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>DEAMS Inc 1  Release 8 Development Activity (funded by U.S. Transportation Command)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Deploy DEAMS Inc 1 Capability (Oct 2014, Feb 2015, Jun 2015)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Deploy DEAMS Inc 1 Capability (Oct 2015, Mar 2016, Jun 2016)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Deploy DEAMS Inc 1 Capability (Oct 2016)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

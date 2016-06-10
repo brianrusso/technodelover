@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" format="R2Long" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1001004F</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>International Activities</r2:ProgramElementTitle>
+        <r2:R1LineNumber>109</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Air Force</r2:ServiceAgencyName>
+        <r2:AppropriationCode>3600</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Air Force</r2:AppropriationName>
+        <r2:BudgetActivityNumber>6</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>RDT&amp;E Management Support</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>3.790</r2:PriorYear>
+            <r2:CurrentYear>2.315</r2:CurrentYear>
+            <r2:BudgetYearOne>4.784</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>4.784</r2:BudgetYearOneBase>
+            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            <r2:BudgetYearTwo>4.556</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>4.026</r2:BudgetYearThree>
+            <r2:BudgetYearFour>4.100</r2:BudgetYearFour>
+            <r2:BudgetYearFive>4.173</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>3.790</r2:PriorYear>
+                <r2:CurrentYear>2.315</r2:CurrentYear>
+                <r2:BudgetYearOne>4.831</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>4.831</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>3.790</r2:PriorYear>
+                <r2:CurrentYear>2.315</r2:CurrentYear>
+                <r2:BudgetYearOne>4.784</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>4.784</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.047</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.047</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:CongressionalDirectedReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:CongressionalRescissions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:CongressionalAdds>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:CongressionalDirectedTransfers>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedTransfers>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>-0.047</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.047</r2:BudgetYearOneBase>
+                            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>664645</r2:ProjectNumber>
+                <r2:ProjectTitle>International Cooperative Research &amp; Development</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>3.790</r2:PriorYear>
+                    <r2:CurrentYear>2.315</r2:CurrentYear>
+                    <r2:BudgetYearOne>4.784</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>4.784</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>4.556</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>4.026</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>4.100</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>4.173</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>The mission of this program is to establish, sustain, expand, and enhance mutually beneficial international partnerships through the implementation of air, space, and cyber international armament cooperation (IAC) agreements thereby supporting USAF and DoD goals and objectives.  These International Agreements (IAs) will:  significantly improve US and allied conventional defense capacity and capabilities; accelerate the availability of defense systems; realize solutions to meet capability gaps; acquire, upgrade, sustain, and/or support common or interoperable equipment with our allies; create cooperative acquisition, production, or logistic partnerships; promote mutual and equitable sharing of effort, cost, information, and risk; provide operational access; leverage economies of scale; and promote interoperability and commonality with our allies. 
+
+The USAF is party to numerous air, space, and cyber bilateral and multilateral IAs to solve common US and allied military capability gaps, develop materiel solutions, harmonize requirements, and build interoperability with our international partners.  This program element funds the USAF to identify, develop, process, negotiate, conclude, implement, and manage IAs in compliance with statutory provisions, legal authorities, fiscal constraints, technology transfer controls, intellectual property rights, third party transfer provisions, equitability criteria, industrial base factors, and political-military interests.  Included in this budget are:  air, space, and cyber IAC IAs activities; technology assessments; specialized working groups; Air Senior National Representative (ASNR) activities; IAC program and project reviews; bilateral and multilateral staff talks; Engineering and Scientist Exchange Program (ESEP); and Administrative and Professional Exchange Program (APEP).
+
+This program is in Budget Activity 6, Management and Support, because this budget activity includes research, development, test and evaluation efforts and funds to sustain and/or modernize the installations or operations required for general research, development, test and evaluation.  These funds are not to be used for civilian salaries or the construction of permanent facilities.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Engineer and Scientist Exchange Program/Administrative and Professional Exchange Program (ESEP/APEP)</r2:Title>
+                            <r2:Description>Funds the USAF execution and management oversight of ESEP and APEP programs and personnel.  Funds eight to ten field level military and civilian personnel from Air Force Materiel Command (AFMC) Facilities, Product Centers, Test Centers, and Logistic Centers for tours at selected allied partner government laboratories and facilities.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.300</r2:Funding>
+                                    <r2:Text>Continue USAF execution and management oversight of the ESEP and APEP programs and personnel.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.200</r2:Funding>
+                                    <r2:Text>Will continue USAF execution and management oversight of the ESEP and APEP programs and personnel.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.450</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.450</r2:Funding>
+                                    <r2:Text>Will continue USAF execution and management oversight of the ESEP and APEP programs and personnel.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>International Partnership Activities</r2:Title>
+                            <r2:Description>Funds USAF management, support, and oversight of IAC goals and objectives to build global partnerships in support of national security objectives.  Funds USAF participation in NATO forums to promote harmonization and interoperability.  Funds USAF support and participation in OSD bi-lateral IAC forums.  Funds SAF/IA Australian liaison office.  Funds technical assessments and discussions that support technology development activities and interoperability.  Funds USAF efforts to enhance existing relationships with:  Australia, Canada, Denmark, France, Germany, Israel, Italy, Japan, NATO, Netherlands, Norway, South Korea, Singapore, Spain, Sweden, and UK.  Funds USAF efforts to strengthen/build IAC relationships with:  Czech Republic, Hungary, Poland, India, Finland, and Turkey.  Funds USAF efforts to establish IAC relationships with:  South Africa, Egypt, Brazil, Chile, and Taiwan.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.905</r2:Funding>
+                                    <r2:Text>Continue ongoing management, support, and oversight of IAC goals and objectives to establish, sustain, expand and enhance mutually beneficial partnerships between the US and coalition partners to meet current and emerging global strategic challenges through optimization of interoperability, integration, and interdependence between coalition forces.  Efforts will have an enhanced focus on mutually beneficial partnerships within Asia.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.540</r2:Funding>
+                                    <r2:Text>Will continue ongoing management, support, and oversight of IAC goals and objectives to establish, sustain, expand and enhance mutually beneficial partnerships between the US and coalition partners to meet current and emerging global strategic challenges through optimization of interoperability, integration, and interdependence between coalition forces.  Continuing efforts will have an enhanced focus on mutually beneficial partnerships within Asia.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>2.253</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>2.253</r2:Funding>
+                                    <r2:Text>Will continue ongoing management, support, and oversight of IAC goals and objectives to establish, sustain, expand and enhance mutually beneficial partnerships between the US and coalition partners to meet current and emerging global strategic challenges through optimization of interoperability, integration, and interdependence between coalition forces.  Continuing efforts will have an enhanced focus on mutually beneficial partnerships within Asia.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>International Armaments Cooperation (IAC) Agreement Activities</r2:Title>
+                            <r2:Description>Funds the USAF's ability to identify, develop, process, negotiate, conclude, implement, and manage an increasing number of research, development, test, and evaluation (RDT&amp;E) bilateral and multilateral IAC Agreements that meet the goals, objectives, and mission of the USAF and DoD in the Air Domain.  IAC activities will meet warfighter needs and enhance interoperability by exploring cooperation with our partners in the areas of:  materials and composites, human effectiveness, robotics, nanotechnology, coalition information sharing, biometrics, munitions design, hypersonics, alternative energy, improvised explosive devices (IED) defeat, weapons of mass destruction (WMD) defeat, autonomous control, distributed missions, training systems, lasers, weapon systems, remotely piloted aircraft, armaments interface, intelligence, surveillance and reconnaissance (ISR) capabilities, sustainment, gap analysis, simulators, combined logistics, software updates, mission planning systems, world-wide flight requirements, electronic warfare, safety, aging aircraft, airlift, tankers, trainers, system modifications, directed energy, weapon stores, acquisition, development, co-production, interoperability, maintenance, system development, and upgrades.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.750</r2:Funding>
+                                    <r2:Text>Continue to identify, develop, process, negotiate, conclude, implement, and manage the increasing number of RDT&amp;E bilateral and multilateral IAs that meet the goals, objectives, and mission of the USAF and DoD in the Air Domain.  Development and negotiation will continue on IAs not concluded during FY14.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.300</r2:Funding>
+                                    <r2:Text>Will continue to identify, develop, process, negotiate, conclude, implement, and manage the increasing number of RDT&amp;E bilateral and multilateral IAs that meet the goals, objectives, and mission of the USAF and DoD in the Air Domain.  Development and negotiation will continue on IAs not concluded during FY15.  New Air Domain agreements and amendments will be initiated.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.131</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.131</r2:Funding>
+                                    <r2:Text>Will continue to identify, develop, process, negotiate, conclude, implement, and manage the increasing number of RDT&amp;E bilateral and multilateral IAs that meet the goals, objectives, and mission of the USAF and DoD in the Air Domain.  Development and negotiation will continue on IAs not concluded during FY16.  New Air Domain agreements and amendments will be initiated.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Air Force Materiel Command (AFMC)</r2:Title>
+                            <r2:Description>Funds AFMC's ability to support IAC RDT&amp;E activities which directly promotes international collaboration.  Funds field level technical assessments and discussions that support technology identification and development activities in support of interoperability.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.150</r2:Funding>
+                                    <r2:Text>Continue support of AFMC's ability to identify, assess, and develop new and continuing RDT&amp;E activities which support interoperability and relationship building efforts with our international partners.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.075</r2:Funding>
+                                    <r2:Text>Will continue support of AFMC's ability to identify, assess, and develop new and continuing RDT&amp;E activities which support interoperability and relationship building efforts with our international partners.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.150</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.150</r2:Funding>
+                                    <r2:Text>Will continue support of AFMC's ability to identify, assess, and develop new and continuing RDT&amp;E activities which support interoperability and relationship building efforts with our international partners.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>International Space Cooperation</r2:Title>
+                            <r2:Description>Funds the USAF's RDT&amp;E efforts in the area of space cooperation with our international partners.  Space cooperation with our allies enables the USAF access to critical geography for distributed ground systems, and remote test ranges for test and evaluation of space capabilities in electronically challenged environments, joint development and acquisition of space systems, and provides a foundation for long-term, full spectrum operational cooperation.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.190</r2:Funding>
+                                    <r2:Text>Continue to identify, develop, process, negotiate, conclude, implement, and manage the bilateral and multilateral RDT&amp;E IAs that meet the goals, objectives, and mission of the USAF and DoD in the Space Domain.  Development and negotiation will continue on IAs not concluded during FY14.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.100</r2:Funding>
+                                    <r2:Text>Will continue to identify, develop, process, negotiate, conclude, implement, and manage the bilateral and multilateral RDT&amp;E IAs that meet the goals, objectives, and mission of the USAF and DoD in the Space Domain.  Development and negotiation will continue on IAs not concluded during FY15.  New Space Domain agreements and amendments will be initiated.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.500</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.500</r2:Funding>
+                                    <r2:Text>Will continue to identify, develop, process, negotiate, conclude, implement, and manage the bilateral and multilateral RDT&amp;E IAs that meet the goals, objectives, and mission of the USAF and DoD in the Space Domain.  Development and negotiation will continue on IAs not concluded during FY16.  New Space Domain agreements and amendments will be initiated.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>International Cyberspace Cooperation</r2:Title>
+                            <r2:Description>Funds the USAF's ability to establish cooperative relationships with allies in the Cyberspace Domain to ensure interoperability, sharing of information on threats, and developing new capabilities to defeat threats to our critical information systems.  Cyberspace requires significant research and development efforts and responsiveness to avoid technological surprises.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.495</r2:Funding>
+                                    <r2:Text>Continue to establish cooperative relationships with allies in the Cyberspace Domain initiated in FY14.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.100</r2:Funding>
+                                    <r2:Text>Will continue to establish relationships and identify, develop, process, negotiate, conclude, implement, and manage bilateral and multilateral RDT&amp;E IAs that meet the goals, objectives, and mission of the USAF and DoD in the Cyberspace Domain.  Development and negotiation will continue on IAs not concluded during FY15.  New Cyberspace Domain agreements and amendments will be initiated.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.300</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.300</r2:Funding>
+                                    <r2:Text>Will continue to establish relationships and  identify, develop, process, negotiate, conclude, implement, and manage bilateral and multilateral RDT&amp;E IAs that meet the goals, objectives, and mission of the USAF and DoD in the Cyberspace Domain.  Development and negotiation will continue on IAs not concluded during FY16.  New Cyberspace Domain agreements and amendments will be initiated.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>This program element is the only source of USAF funds to identify, develop, process, negotiate, conclude, implement, and manage IAC opportunities to: (a) acquire, develop, upgrade, sustain, and support common or interoperable equipment with our allies; (b) leverage USAF resources through cost sharing and economies of scale with our partners; (c) exploit the best US and allied technologies for equipping coalition forces; and (d) foster interoperability and commonality with our allies.  We obtain these benefits only after IAC opportunities are identified, explored, assessed, developed and IAs are negotiated and concluded.  This PE provides funds to execute up-front IAC responsibilities, realize cooperative opportunities, assess allied technologies and generate sound, cost-effective cooperative programs between the USAF and our international partners in the areas of Air, Space and Cyberspace.  Once IAs are concluded they are transferred to the appropriate technology or systems program office and are then funded by the program office.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

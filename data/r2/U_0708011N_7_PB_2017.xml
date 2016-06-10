@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0708011N</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Industrial Preparedness</r2:ProgramElementTitle>
+        <r2:R1LineNumber>244</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Navy</r2:ServiceAgencyName>
+        <r2:AppropriationCode>1319</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Navy</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>305.763</r2:AllPriorYears>
+            <r2:PriorYear>36.031</r2:PriorYear>
+            <r2:CurrentYear>0.000</r2:CurrentYear>
+            <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+            <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+            <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+            <r2:CostToComplete>0.000</r2:CostToComplete>
+            <r2:TotalCost>341.794</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>The Manufacturing Technology (ManTech) program is intended to improve the productivity and responsiveness of the U.S. defense industrial base by funding the development and transition of leading edge manufacturing technologies.  The ManTech program is executed through a Center of Excellence (COE) strategy.  A majority of the COEs are consortium based with only a small group of technical and management personnel at the center.  ManTech projects are primarily performed by industry participants that bill the COE which, in turn, bills the Navy which causes a non-traditional financial execution profile for the program.  The program therefore does not meet traditional execution benchmarks.  The ManTech program, by providing seed funding for the development of moderate to high risk process and equipment technology, permits contractors to upgrade their manufacturing capabilities.  Ultimately, the program aims to produce high-quality weapon systems with shorter lead times and reduced acquisition costs.
+
+Due to the number of efforts in this PE, the programs described herein are representative of the work included in this PE.
+
+For FY 2016 funding has been realigned to new PE 0603680N Manufacturing Technology Program.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>37.169</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>36.031</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-1.138</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-1.138</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Technical: Not applicable.
+
+Schedule: Not applicable.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>1050</r2:ProjectNumber>
+                <r2:ProjectTitle>Manufacturing Tech</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>305.763</r2:AllPriorYears>
+                    <r2:PriorYear>36.031</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>0.000</r2:CostToComplete>
+                    <r2:TotalCost>341.794</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:AllPriorYears>0</r2:AllPriorYears>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>The ManTech Program is intended to improve the productivity and responsiveness of the U.S. defense industrial base by funding the development of manufacturing technologies. Major areas of endeavor both underway and planned include: advanced manufacturing technology for metalworking, joining, electronics and electro-optics, composites, shipbuilding, and above-the-factory-floor business operations technology. The ManTech Program is aimed at assisting acquisition programs in meeting performance and affordability goals by inserting manufacturing process solutions early into the design phase. 
+
+For FY 2016 funds have been realigned to new PE 0603680N Manufacturing Technology Program.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>COMPOSITES PROCESSING AND FABRICATION</r2:Title>
+                            <r2:Description>The primary technical goal of the Composites Processing and Fabrication activity is improving weapon systems affordability, enhancing weapon system effectiveness and improving reliability / war-fighter readiness through the increased utilization of composite materials and structures. This is being achieved through the development and maturation of affordable, robust manufacturing and assembly processes that fully exploit the benefits of composite materials. Concentration is on affordability for the following platforms: DDG-51, CVN-78 Class Carrier, VIRGINIA Class Submarine (VCS) / OHIO Replacement Program (ORP), Littoral Combat Ship (LCS), Joint Strike Fighter (JSF), and, starting in FY16, CH-53-K. 
+
+Funding for FY 2016 and beyond has been realigned to new PE 0603680N.   At this R2A level, FY 2016 Funding of $4.800M from Composites Processing and Fabrication in this PE has been re-aligned to PE 0603680N Composites Processing and Fabrication.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.480</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Continued Composite Materials and Process Improvement Thrust for DDG-51 Shipbuilding Affordability Initiative. 
+- Continued Composite Materials and Process Improvement Thrust for CVN-78 Shipbuilding Affordability Initiative. 
+- Continued Composite Materials and Process Improvement Thrust for Air Platforms, including the Joint Strike Fighter (JSF). 
+- Continued Composite Materials and Process Improvement Thrust for LCS Shipbuilding Affordability Initiative 
+- Completed Composite Materials and Process Improvement Thrust for VCS Shipbuilding Affordability Initiative. Includes continuation of efforts to develop / optimize composite materials fabrication technology for reduced cost VCS construction. 
+- Initiated Composite Materials and Process Improvement Thrust for VCS/ORP Shipbuilding Affordability Initiative.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Funds have been re-aligned to new PE 0603680N Manufacturing Technology Program.
+At this R2A level, FY 2016 Funding of $4.800M from Composites Processing and Fabrication in this PE has been realigned to PE 0603680N Composites Processing and Fabrication.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneOCO>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>CORPORATE INVESTMENTS</r2:Title>
+                            <r2:Description>The Corporate Investments activity is focused on accelerating defense industrial enterprise progress toward implementation of world-class industrial practices as well as advanced design and information systems that support weapon system development, production, and sustainment. Key emphasis areas include: 1) Benchmarking and accelerating the implementation of world-class industrial practices throughout the contractor base; 2) Demonstrating and validating advanced business practices and information technologies capable of streamlining management functions in all industrial base tiers; and 3) Leveraging information technologies in pursuit of tighter coupling of all defense industrial enterprise elements. Corporate Investment efforts create improvements to cost and cycle time for weapon system development, production, and repair. Additionally, Corporate Investments include the funding of recently identified near-term high priority affordability efforts for the following affordability platforms: DDG-51, CVN-78 Class Carrier, VIRGINIA Class Submarine (VCS), Littoral Combat Ship (LCS), Joint Strike Fighter (JSF), and, starting in FY16, CH-53-K. 
+
+Funding for FY 2016 and beyond has been realigned to new PE 0603680N.  At this R2A level, FY 2016 Funding of $3.581M from Corporate Investments in this PE has been re-aligned to PE 0603680N Manufacturing Enterprise/Other.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>4.319</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Continue Near-Term High Priority Affordability Thrust for JSF. 
+- Continued Near-Term High Priority Shipbuilding Affordability Thrust for CVN-78. 
+- Continued Near-Term High Priority Shipbuilding Affordability Thrust for LCS. 
+- Continued efforts to improve the Navy industrial base through above-the-factory-floor enhancements and supply chain processes/technology improvements for Navy weapon system acquisition programs such as the DDG-51, CVN-78, LCS, VCS, and others. 
+- Continued Near-Term, High Priority Shipbuilding Affordability Thrust for DDG-51.  
+-Completed Near-Term High Priority Shipbuilding Affordability Thrust for VCS. 
+-Initiated Near-Term High Priority Shipbuilding Affordability Thrust for VCS/ORP.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Funds have been re-aligned to new PE 0603680N Manufacturing Technology Program.
+At this R2A level, FY 2016 Funding of $3.581M from Corporate Investments in this PE has been realigned to PE 0603680N Manufacturing Enterprise/Other.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneOCO>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>ELECTRONICS PROCESSING AND FABRICATION</r2:Title>
+                            <r2:Description>Electronics Processing and Fabrication efforts develop and deploy affordable, robust manufacturing processes and capabilities for electronics critical to defense applications over their full life cycle. Efforts create new and improved manufacturing processes on the shop floor, as well as repair and maintain facilities such as depots and logistics centers, with a strong emphasis on process maturation. Emphasis is on affordability for the following shipbuilding platforms: DDG-51, CVN-78 Class Carrier, VIRGINIA Class Submarine (VCS) / OHIO Replacement Program (ORP), and Littoral Combat Ship (LCS), Joint Strike Fighter (JSF), and, starting in FY16, CH-53-K.
+
+Funding for FY 2016 and beyond has been realigned to new PE 0603680N.  At this R2A level, FY 2016 Funding of $10.543M from Electronic Processing and Fabrication in this PE has been realigned to PE 0603680N Electronics Processing and Fabrication.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>8.050</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Continued Electronics/Electro-Optics Thrust for LCS Shipbuilding Affordability Initiative. 
+- Continued Electronics/Electro-Optics Thrust for Air Platforms, including the Joint Strike Fighter (JSF). Includes continuation of electronics/ electro-optics efforts to improve affordability for Air Platforms. 
+- Continued Electronics/Electro-Optics Thrust for DDG-51 Shipbuilding Affordability Initiative. Includes radar/communications efforts to impact DDG-51 affordability. 
+- Continued Electronics/Electro-Optic Thrust for CVN-78 Shipbuilding Affordability Initiative. Includes continuation of electronics/electrooptics efforts to improve affordability for CVN-78 Class Carrier.  
+- Completed Electronics/Electro-Optics Thrust for VCS Affordability Initiative. Includes continuation of improved affordable electronics/electro-optics efforts. 
+- Initiated Electronics/Electro-Optics Thrust for VCS/ORP Affordability Initiative.  Includes electronics/electro-optics efforts to improve affordability for VCS/ORP.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Funds have been re-aligned to new PE 0603680N Manufacturing Technology Program.
+At this R2A level, FY 2016 Funding of $10.543M from Electronic Processing and Fabrication in this PE has been re-aligned to PE 0603680N Electronics Processing and Fabrication.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneOCO>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>METALS PROCESSING AND FABRICATION</r2:Title>
+                            <r2:Description>The objective of the Metals Processing and Fabrication activity is to develop affordable, robust manufacturing processes and capabilities for metals and special materials critical to defense weapon system applications. Major areas that support this objective include: processing methods, special materials, joining, and inspection and compliance. These efforts directly impact the cost and performance of future aircraft, rotorcraft, land combat vehicles, surface and subsurface naval platforms, space systems, artillery and ammunition, and defense industry manufacturing equipment. Emphasis is on affordability for the following platforms: DDG-51, CVN-78 Class Carrier, VIRGINIA Class Submarine (VCS) / OHIO Replacement Program (ORP), Littoral Combat Ship (LCS), Joint Strike Fighter (JSF), and, starting in FY16, CH-53-K.
+
+Funding for FY 2016 and beyond has been realigned to new PE 0603680N.  At this R2A level, FY 2016 Funding of $16.700M from Metals Processing and Fabrication in this PE has been realigned to two activities within PE 0603680N:  $15.500M Metals Processing and Fabrication, $1.200M Manufacturing Enterprise/Other.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>10.160</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Continued schedule Compression/Production Engineering Thrust for VCS Shipbuilding Affordability Initiative. 
+- Continued outfitting Thrust for VCS Shipbuilding Affordability Initiative. 
+- Continued rapid response efforts. 
+- Continued Metals Materials and Process Improvement Thrust for DDG-51 Shipbuilding Affordability Initiative. Metallic materials and process efforts for DDG-51 include material characterization for optimum processing and fabrication as well as process optimization (welding, bonding, machining, etc.) resulting in reduced cost of fabrication for DDG-51 components. 
+- Continued Metals Materials and Process Improvement Thrust for CVN-78 Shipbuilding Affordability Initiative. Metallic materials and process efforts for CVN 78 include material characterization for optimum processing and fabrication as well as process optimization (welding, bonding, machining, etc.) resulting in reduced cost of fabrication for CVN 78 components. 
+- Continued Metals Thrust for Littoral Combat Ship (LCS) Shipbuilding Affordability Initiative. 
+- Continued Metal Materials and Process Improvements Thrust for Other Ship/NAVSEA Platforms. 
+- Continued Metals Materials and Process Improvement Thrust for Air Platforms. - Continued Metal Materials and Process Improvements Thrust for Marine Corps Systems. 
+- Completed Metals Materials and Process Improvement Thrust for VCS Shipbuilding Affordability Initiative.
+- Initiated Metals Materials and Process Improvement  Thrust for VCS/ORP initiative.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Funds have been realigned to new PE 0603680N Manufacturing Technology Program.  
+At this R2A level, FY 2016 Funding of $16.700M from Metals Processing and Fabrication in this PE has been realigned to two activities within PE 0603680N:  $15.500M Metals Processing and Fabrication, $1.200M Manufacturing Enterprise/Other.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneOCO>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>OTHER (SHIPBUILDING, REPAIR TECH, ENERGETICS, AND TECHNICAL ENGINEERING SUPPORT)</r2:Title>
+                            <r2:Description>The "Other" activity includes shipbuilding technology, repair technology, energetics, and technical engineering support. Shipbuilding technology primarily addresses the development of manufacturing process improvements for shipyards and is geared towards affordability efforts for the following shipbuilding platforms: DDG-51, CVN-78 Class Carrier, VIRGINIA Class Submarine (VCS) / OHIO Replacement Program (ORP), and Littoral Combat Ship (LCS). Repair technology addresses repair, overhaul, and sustainment functions that emphasize remanufacturing processes and advancing technology. Energetics efforts concentrate on developing energetics solutions to ensure the availability of safe, affordable, and quality energetics products largely in support of Program Executive Office (PEO) Integrated Warfare Systems (IWS).  
+
+Funding for FY 2016 and beyond has been realigned to new PE 0603680N.  At this R2A level, FY 2016 Funding of $13.955M from Other (Shipbuilding, Repair Tech, Energetics, and technical engineering support) have been realigned to PE 0603680N Manufacturing Enterprise/Other.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>10.022</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>- Continued Shipbuilding Affordability Thrust for CVN-78. 
+- Continued Shipbuilding Affordability Thrust for LCS. 
+- Continued Shipbuilding Affordability Thrust for DDG-51. 
+- Continued Shipbuilding Thrust for Other Ship/NAVSEA Platforms. 
+- Continued Repair Technology Thrust for repair and sustainment of Navy weapons systems. Includes continuation of Repair Technology projects based on high priority depot needs. 
+- Continued Energetics Thrust for PEO IWS and Other Acquisition Programs. Includes continuation of energetics efforts to support PEO IWS and other acquisition programs. 
+- Continued to provide technical engineering support for the ManTech Program. 
+-Completed Shipbuilding Affordability Thrust for VCS.
+-Initiated Shipbuilding Affordability Thrust for VCS/ORP.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>Funds have been realigned to new PE 0603680N Manufacturing Technology Program.
+At this R2A level, FY 2016 Funding of $13.955M from Other (Shipbuilding, Repair Tech, Energetics, and technical engineering support) has been realigned to PE 0603680N Manufacturing Enterprise/Other.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneOCO>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>Efforts are focused on affordability reduction for the following: DDG Family, CVN-78 Class Carrier, Littoral Combat Ship (LCS), the VIRGINIA Class Submarine (VCS) / OHIO Replacement Program (ORP), Joint Strike Fighter (JSF), and, starting in FY16, CH-53-K.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>The ManTech program's overall goal is to transition production technology to reduce the cost of Navy weapons systems. Metrics are currently collected on the cost savings per hull or per aircraft for each of the five primary affordability platforms: DDG-51, CVN-78 Class Carrier, VIRGINIA Class Submarine/OHIO Replacement Program (VCS/ORP), Littoral Combat Ship (LCS), and Joint Strike Fighter (JSF), and, starting in FY16, CH-53-K.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (B2P)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>American Competitiveness Institute (ACI)</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Philadelphia, PA (B2P)</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>6.300</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>6.300</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (CMTC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>SCRA</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Anderson, SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>39.671</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>3.525</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>43.196</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Award Fee (CMTC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>SCRA</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Anderson, SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.932</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.225</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>2.157</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (CNST)1</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Advanced Technology Institute (ATI)</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Charleston, SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>4.697</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>4.697</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (CNST)2</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Advanced Technology Institute (ATI)</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Charleston, SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>26.818</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>6.322</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>33.140</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Award Fee (CNST)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Advanced Technology Institute (ATI)</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Charleston, SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.874</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.378</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>2.252</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (EMPF)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>American Competitiveness Institute (ACI)</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Philadelphia, PA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>40.728</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>5.264</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>45.992</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Award Fee (EMPF)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>American Competitiveness Institute (ACI)</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Philadelphia, PA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>2.632</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.336</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>2.968</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (EMTC)</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Naval Surface Warfare Center - Indian Head</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Indian Head, MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>11.705</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.300</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>13.005</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (EOC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Penn State University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>State College, PA (EOC)</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>20.826</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>2.303</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>23.129</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Award Fee (EOC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Penn State University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>State College, PA (EOC)</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.072</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.147</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>1.219</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (iMAST)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Penn State University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>State College, PA (iMAST)</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>21.879</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>2.700</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>24.579</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (NJC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Edison Welding Institute</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Columbus, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>11.479</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>11.479</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Award Fee (NJC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Edison Welding Institute</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Columbus, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.793</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.793</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development (NMC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Concurrent Technologies Corp.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Johnstown, PA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>66.962</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>7.663</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>74.625</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Award Fee (NMC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Concurrent Technologies Corp.</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Johnstown, PA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>3.810</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.480</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>4.290</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Naval Air Systems Command (NAVAIR)</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Patuxent River, MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>2.128</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.090</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>2.218</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Naval Research Laboratory (NRL)</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Washington, DC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.280</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.080</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>1.360</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Naval Surface Warfare Center - Carderock Division</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Carderock, MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>8.516</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.858</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>9.374</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Naval Undersea Warfare Center - Newport</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Newport, RI</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.380</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.380</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>SPAWAR</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>San Diego, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.010</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.010</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Naval Surface Warfare Center Dahlgren</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dahlgren, VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.055</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.025</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.080</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Mfg Development</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Puget Sound Naval Shipyard</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Bremerton, WA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.006</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.006</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Contractor Support (GTEC)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>DRC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Andover, MA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>11.057</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.700</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>12.757</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Contractor Support (GMST)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>DRC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Andover, MA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.238</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.025</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.263</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>ManTech Registrations (GMPC)</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.049</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.005</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.054</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>ManTech Travel (GMTT)</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.460</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.045</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.505</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Contractor Support (GMST)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.866</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.015</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.881</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Miscellaneous (ONR Support Bills)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>7.221</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.335</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>8.556</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Miscellaneous (Stat Reserve)</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>10.109</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.000</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>11.109</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Detailee staff</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Army Research Lab</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Aberdeen, MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.150</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.150</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.300</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>JDMTP Support</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Air Force Research Lab</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Dayton, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.060</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.060</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.120</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Proj 1050</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Composites Processing and Fabrication</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Annual Investment Guidance (CP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Identification (CP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Evaluation (CP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Prog Office Commitment (CP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- FY Plan Determined (CP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Award (CP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Ongoing Projects (CP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Corporate Investments</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Annual Investment Guidance (CI)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Identification (CI)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Evaluation (CI)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Prog Office Commitment (CI)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- FY Plan Determined (CI)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Award (CI)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Ongoing Projects (CI)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Electronics Processing and Fabrication</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Annual Investment Guidance (EP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Identification (EP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Evaluation (EP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Prog Office Commitment (EP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- FY Plan Determined (EP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Award (EP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Ongoing Projects (EP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Metals Processing and Fabrication</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Annual Investment Guidance (MP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Identification (MP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Evaluation (MP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Prog Office Commitment (MP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- FY Plan Determined (MP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Award (MP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Ongoing Projects (MP&amp;F)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Other</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Annual Investment Guidance (Other)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Identification (Other)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Evaluation (Other)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Prog Office Commitment (Other)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- FY Plan Determined (Other)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Project Award (Other)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>-- Ongoing Projects (Other)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

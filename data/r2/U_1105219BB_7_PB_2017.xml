@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1105219BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>MQ-9 Unmanned Aerial Vehicle (UAV)</r2:ProgramElementTitle>
+        <r2:R1LineNumber>241</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>27.492</r2:AllPriorYears>
+            <r2:PriorYear>14.418</r2:PriorYear>
+            <r2:CurrentYear>22.151</r2:CurrentYear>
+            <r2:BudgetYearOne>17.804</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>17.804</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>17.863</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>14.259</r2:BudgetYearThree>
+            <r2:BudgetYearFour>14.528</r2:BudgetYearFour>
+            <r2:BudgetYearFive>14.819</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>This program element identifies, develops, integrates, and tests Special Operations Forces (SOF)-unique mission kits, mission payloads, weapons, and modifications on MQ-9 UAVs, ground control stations, and training systems as a component of the Medium Altitude Long Endurance Tactical program.  USSOCOM is designated as the DOD lead for planning, synchronizing, and as directed, executing Overseas Contingency Operations (OCO) against terrorist networks.  USSOCOM requires the capability to find, fix, finish, exploit, and analyze time-sensitive high-value targets.  These targets can often only be identified with patient collection of information and require rapid, decisive action during the short periods in which they present themselves.  This program element addresses the primary areas of Intelligence, Surveillance, Reconnaissance, and Target (ISR&amp;T) Acquisition, and Strike.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>14.902</r2:PriorYear>
+                <r2:CurrentYear>18.151</r2:CurrentYear>
+                <r2:BudgetYearOne>17.938</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>17.938</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>14.418</r2:PriorYear>
+                <r2:CurrentYear>22.151</r2:CurrentYear>
+                <r2:BudgetYearOne>17.804</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>17.804</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-0.484</r2:PriorYear>
+                <r2:CurrentYear>4.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.134</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.134</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalAdds>
+                    <r2:CurrentYear>4.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-0.484</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-0.134</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.134</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding:
+
+FY 2015:  Decrease of -$0.484 million is due to a transfer of funds to Small Business Innovative Research/Small Business Technology Transfer programs. 
+
+FY 2016:  Increase of $4.000 million is due to a congressional add to support MQ–9 capability enhancements for mission kits, mission payloads, weapons and modifications.
+
+FY 2017:  Decrease of -$0.134 million is due to a Departmental economic assumption decrease.
+
+Schedule:  None.
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S851</r2:ProjectNumber>
+                <r2:ProjectTitle>MQ-9 Unmanned Aerial Vehicle (UAV)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>27.492</r2:AllPriorYears>
+                    <r2:PriorYear>14.418</r2:PriorYear>
+                    <r2:CurrentYear>22.151</r2:CurrentYear>
+                    <r2:BudgetYearOne>17.804</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>17.804</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>17.863</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>14.259</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>14.528</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>14.819</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project identifies, develops, integrates, and tests Special Operations Forces (SOF) - unique mission kits, mission payloads, weapons, and modifications on MQ-9 UAVs, ground control stations, and training systems.  As the supported combatant command in Overseas Contingency Operations (OCO), USSOCOM requires the capability to find, fix, finish, exploit, and analyze time-sensitive high-value targets.  These targets can often only be identified with patient collection of information and require rapid, decisive action during the short periods in which they present themselves.  This project addresses the primary areas of Intelligence, Surveillance, Reconnaissance, and Target (ISR&amp;T) Acquisition and Strike.  This project received OCO funding in FY 2015 and a congressional add in FY 2016.</r2:ProjectMissionDescription>
+                    <r2:CongressionalAddDetailList>
+                        <r2:CongressionalAddDetail>
+                            <r2:Title>MQ-9 UAV</r2:Title>
+                            <r2:CurrentYear>
+                                <r2:Funding>4.000</r2:Funding>
+                                <r2:Text>Develop, test, and integrate SOF-unique capability enhancements for mission kits, mission payloads, weapons and modifications on MQ-9 UAVs, ground control stations, and training systems.</r2:Text>
+                            </r2:CurrentYear>
+                        </r2:CongressionalAddDetail>
+                    </r2:CongressionalAddDetailList>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>MQ-9 UAV</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>14.418</r2:Funding>
+                                    <r2:Text>Developed, tested, and completed integration of SOF-unique mission kits, mission payloads, weapons, and modifications on MQ-9 UAVs, ground control stations, and training systems.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>18.151</r2:Funding>
+                                    <r2:Text>Develop, test, and integrate SOF-unique mission kits, mission payloads, weapons and modifications on MQ-9 UAVs, ground control stations, and training systems.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>17.804</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>17.804</r2:Funding>
+                                    <r2:Text>Develops, tests, and integrates SOF-unique emerging technology mission kits, mission payloads, weapons and modifications on MQ-9 UAVs, ground control stations, and training systems.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/1108MQ9</r2:LineItem>
+                            <r2:Title>MQ-9 Unmanned Aerial Vehicle</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>18.593</r2:PriorYear>
+                                <r2:CurrentYear>17.226</r2:CurrentYear>
+                                <r2:BudgetYearOne>10.598</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>10.598</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>11.660</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>5.285</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>5.411</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>5.519</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:AcquisitionStrategy>MQ-9 UAV is an evolutionary acquisition program that identifies, develops, tests and integrates SOF-unique mission kits, mission payloads, weapons, and modifications on MQ-9 UAVs, ground control stations, and training systems to increase the Intelligence, Surveillance, Reconnaissance, and Targeting acquisition and strike capabilities of SOF.  Proprietary issues with operational flight program software, sensor operating software, and aircraft modification considerations dictate sole source contracts.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>MQ-9 UAVs, Ground Control Stations, and Training Systems</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>General Atomics Aeronautical Services</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>San Diego, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>11.619</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>4.414</r2:Amount>
+                                            <r2:AwardDate>2015-06</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>11.113</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>10.954</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>10.954</r2:Amount>
+                                            <r2:AwardDate>2017-06</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>MQ-9 UAVs, Ground Control Stations, and Training Systems</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Raytheon</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>McKinney, TX</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>2.500</r2:Amount>
+                                            <r2:AwardDate>2015-07</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.500</r2:Amount>
+                                            <r2:AwardDate>2016-07</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>2.500</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>2.500</r2:Amount>
+                                            <r2:AwardDate>2017-07</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>MQ-9 UAVs, Ground Control Stations, and Training Systems Overseas Contingency Operations (OCO)</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>General Atomics Aeronautical Services</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>San Diego, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>9.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>3.900</r2:Amount>
+                                            <r2:AwardDate>2015-06</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>12.900</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>MQ-9 UAVs, Ground Control Stations, and Training Systems (Congressional Add)</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>General Atomics Aeronautical Services</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>San Diego, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>3.000</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>3.000</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>MQ-9 UAVs, Ground Control Stations, and Training Systems</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>General Atomics Aeronautical Services</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>San Diego, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>3.873</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>2.304</r2:Amount>
+                                            <r2:AwardDate>2015-06</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>4.538</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>4.350</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>4.350</r2:Amount>
+                                            <r2:AwardDate>2017-06</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>MQ-9 UAVs, Ground Control Stations, and Training Systems Overseas Contingency Operations (OCO)</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>General Atomics Aeronautical Services</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>San Diego, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>3.000</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.300</r2:Amount>
+                                            <r2:AwardDate>2015-06</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>4.300</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>MQ-9 UAVs, Ground Control Stations, and Training Systems (Conressional Add)</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>General Atomics Aeronautical Services</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>San Diego, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.000</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>1.000</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>MQ9 UAV.tif</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>MQ-9 UAVs, Ground Control Stations, and Training Systems</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Sensor Payloads/Pods</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Full Motion Video Upgrades</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Improved Communications</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2019</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Rapid Transport</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Extended Range</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Weapons Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Training Systems</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Emerging Technology</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Test and Evaluation</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

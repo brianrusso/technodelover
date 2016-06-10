@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0708012S</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Pacific Disaster Centers</r2:ProgramElementTitle>
+        <r2:R1LineNumber>238</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Defense Logistics Agency</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>15.060</r2:AllPriorYears>
+            <r2:PriorYear>1.522</r2:PriorYear>
+            <r2:CurrentYear>1.770</r2:CurrentYear>
+            <r2:BudgetYearOne>1.754</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>1.754</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>1.755</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>1.753</r2:BudgetYearThree>
+            <r2:BudgetYearFour>1.753</r2:BudgetYearFour>
+            <r2:BudgetYearFive>1.785</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>The Pacific Disaster Center (PDC) has been in operation since February 1996. The PDC is a public/private partnership managed by the University of Hawaii (UH) under a cooperative agreement with the Department of Defense.  It is functionally within the organization of the Office of the Under Secretary of Defense (Acquisition, Technology, and Logistics) (OUSD(AT&amp;L)) and the Defense Logistics Agency (DLA). The PDC is a world-recognized authority and leader in science and information technology applications relating to humanitarian assistance and disaster relief (HA/DR).  PDC develops new and innovative technologies to operate an (unclassified) integrated multi-hazard hazard monitoring, early warning and decision support system, called RAPIDS, for the department. Logistics Support Activities (LSA) transferred to outside DLA in FY15.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>1.574</r2:PriorYear>
+                <r2:CurrentYear>1.770</r2:CurrentYear>
+                <r2:BudgetYearOne>1.770</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>1.770</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>1.522</r2:PriorYear>
+                <r2:CurrentYear>1.770</r2:CurrentYear>
+                <r2:BudgetYearOne>1.754</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>1.754</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-0.052</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.016</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.016</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-0.052</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Inflation for Non-Pay/Non-Fuel Purchases</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-0.016</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.016</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>In FY 17, funding was reduced due to inflation for non-pay and non-fuel purchases.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>1</r2:ProjectNumber>
+                <r2:ProjectTitle>Logistics Support Activities (LSA)</r2:ProjectTitle>
+                <r2:SpecialProject>1</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>12.488</r2:AllPriorYears>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This program is reported in accordance with Title 10, United States Code, Section 119 (a)(1) in the Special Access Program Annual Report to Congress.  The staff cognizance and oversight will transfer from the Defense Logistics Agency (DLA) to the Defense Information Systems Agency effective October 1, 2014. The USD(P) will continue to be the Operational Sponsor and functional OSD Principal Staff Assistant (PSA) for the program.</r2:ProjectMissionDescription>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>2</r2:ProjectNumber>
+                <r2:ProjectTitle>Pacific Disaster Center</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>2.572</r2:AllPriorYears>
+                    <r2:PriorYear>1.522</r2:PriorYear>
+                    <r2:CurrentYear>1.770</r2:CurrentYear>
+                    <r2:BudgetYearOne>1.754</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>1.754</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>1.755</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>1.753</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>1.753</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>1.785</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The Pacific Disaster Center (PDC) has been in operation since February 1996. The PDC is a public/private partnership managed by the University of Hawaii (UH) under a cooperative agreement with the Department of Defense.  It is functionally within the organization of the Office of the Under Secretary of Defense (Acquisition, Technology, and Logistics) (OUSD(AT&amp;L)) and the Defense Logistics Agency (DLA). The PDC is a world-recognized authority and leader in science and information technology applications relating to Humanitarian Assistance and Disaster Relief (HA/DR).  It has developed innovative technologies, and has provided operational support for an (unclassified) integrated multi-hazard hazard monitoring, early warning and decision support system, called RAPIDS, for the department since 2007.  The system, covering global hazard is frequently used by COCOMS, particularly PACOM and SOUTHCOM, for HA/DR missions and exercises, and was recently selected as one of the most effective systems in a position paper by the department, reviewing all unclassified information sharing systems.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Pacific Disaster Center (PDC)</r2:Title>
+                            <r2:Description>This program is reported in accordance with Title 10, United States Code, Section 119 (a)(1) in the Special Access Program Annual Report to Congress.  The USD(P) will continue to be the Operational Sponsor and functional OSD Principal Staff Assistant (PSA) for the program.  USD(AT&amp;L) will provide acquisition oversight authority for the program.
+
+The Pacific Disaster Center (PDC) has been in operation since February 1996. The PDC is a public/private partnership managed by the University of Hawaii (UH) under a cooperative agreement with the Department of Defense.  The Pacific Disaster Center (PDC) function, manpower, and budget resources transferred to the Office of the Under Secretary of Defense (Acquisition, Technology, and Logistics) (OUSD(AT&amp;L)) and the Defense Logistics Agency (DLA)in October 2011.
+
+ The USD(P) will continue to be the Operational Sponsor and functional OSD Principal Staff Assistant (PSA) for the program.  The PDC is a world-recognized authority and leader in science and information technology applications relating to humanitarian assistance and disaster relief (HA/DR). PDC’s applications and information products enhance preparedness, situational awareness, and civil-military communications for humanitarian missions worldwide, while its national-level socio-economic Risk and Vulnerability Assessments help inform strategies by measuring indicators for national resiliency using scientific methods.
+
+The PDC Program Office’s (USD(P),  ASD(HD&amp;GS), and DASD(DC&amp;MA)) primary responsibility is for management and stewardship of governmental funds provided in Defense Department appropriations for DoD missions associated with DoD CrM, HA/DR, Theater Security Cooperation, and Defense Support to Civil Authorities (DSCA). In doing this, the Program Office develops and provides policy, oversight and guidance, and jointly develops strategic guidelines, programmatic content and priorities with the UH and PDC. The PDC Program Office also serves as a support element of the Hawaii-based organization especially in the area of gaining Federal agency support and resources, as well as business opportunities.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.522</r2:Funding>
+                                    <r2:Text>For the past 18 years, Pacific Disaster Center (PDC) has been at the forefront of improving disaster-reduction decision-support capabilities through the application of information, science and technology.  PDC's products and services enhance foundational and global services supporting civil-military humanitarian assistance operations by the US Military and US agencies, state agencies, United Nation agencies, ASEAN, national governments, and International/Non-Governmental Organizations (I/NGO).  Foundational and Global Services include projects supporting development, analysis, and delivery of relevant and actionable information.  These activities fall into three categories:  Global Information Services; Anticipatory Sciences and Socio-Economic Risk and Vulnerability Assessment; and Decision Support Platforms and Applications.
+
+Emphasis areas in FY 2015 include:
+•	Implemented uniform communication, expanding operational utility of mobile applications
+•	Improved automated damage and needs assessment and other analytical reports
+•	Expanded bio/health related monitoring capabilities (in partnership with OSD and U.S. Navy).
+•	Continued to grow competitive grants and proposals as a mean to expand the center’s capabilities, and leverage these new capabilities in support of DoD missions.
+•	Built capacity in stakeholder agencies through exercise and training, and enhance partnerships with USG agencies, their counterparts in key partner nations, and within I/NGOs to improve outcomes of HA/DR and related activities</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.770</r2:Funding>
+                                    <r2:Text>The Pacific Disaster Center (PDC) continues to be at the forefront of improving disaster-reduction decision-support capabilities through the application of information, science and technology.  PDC's products and services enhance foundational and global services supporting civil-military humanitarian assistance operations by the US Military and US agencies, state agencies, United Nation agencies, ASEAN, national governments, and International/Non-Governmental Organizations (I/NGO).  Foundational and Global Services include projects supporting development, analysis, and delivery of relevant and actionable information.  These activities fall into three categories:  Global Information Services; Anticipatory Sciences and Socio-Economic Risk and Vulnerability Assessment; and Decision Support Platforms and Applications.
+
+Emphasis areas in FY 2016 include:
+
+•  Improve the simplified DisasterAWARE/RAPIDS user interface (a.k.a. "dashboard") for increased ease-of-use and situational awareness, while allowing the system to accommodate "low bandwidth" operational mode (enabling better support to mobile platforms, as well as, degraded communications) 
+• Extend and enhance mobile computing and situational awareness platform for DisasterAWARE/RAPIDS to include:
+   a) limited "down range" data collection &amp; sharing capabilities (e.g., damage photos, voice memos, etc.)
+   b) investigate and implement degraded but functional/operational "off-grid" capabilities
+   c) investigate and implement degraded but operational "low bandwidth" capabilities
+• Enhance DisasterAWARE's social media/network visualization capabilities, in collaboration with partners such as ONR-funded research in the subject matter
+•  Extend and enhance Bio Surveillance capabilities in collaboration with Navy and Defense Threat Reduction Agency's (DTRA)Bio Surveillance Portal (BSP) Joint Program Executive Office
+•  Extend collaboration with DTRA &amp; other data providers in enhancing data fusion capabilities
+•  Continue to emphasize and participate jointly- and externally-funded research and application programs to enhance the Center's capabilities and experiences which in turn can be operationalize and applied in direct support of DoD HA/DR and DSCA missions
+•  Continue to grow competitive grants and proposals as a means to expand the center’s capabilities, and leverage these new capabilities in support of DoD missions</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.754</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.754</r2:Funding>
+                                    <r2:Text>Risk and Vulnerability Assessment
+•    Explore trends and shifts in risks and vulnerability using the last 7 years of data. 
+
+Data
+•     In accordance with the latest (DRAFT) DoD study for unclassified information systems for disaster preparedness, enhance development of standard protocols for interoperability.
+
+•    Continue development of new data sources for hazards and related observational data TBD
+	
+Modeling
+•     Explore incorporating impacts from hazard models into the definition of disasters within the system.
+
+•     Continue enhancing application of hazard models to estimating initial needs for HA/DR support missions
+	
+Applications
+•     Enhance RAPIDS functionality based on user feedback and requirements
+
+•    Continue improving stabilization of the platform by increasing cloud-based utilization
+
+•    Continue evaluating new and innovative technologies for enhancing user experience (for RAPIDS)</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>PDC projects beyond the baseline Situational Awareness &amp; Decision Support Applications/Tools architecture (Atlas/EMOPS/RAPIDS) undertaken in support of the DoD Cooperative Agreement (CA) with the University of Hawaii (UH) are from PDC customers (e.g., DoD, NGOs, other nations, academia, and industry). The PDC prepares the public, disaster managers, governments, and others to mitigate the effects of disasters.  The goal is to have people and technology work together to preserve life, safeguard livelihoods, protect property to foster disaster-resilient communicates. Projects obtained and funded from this customer base serve as a means to determine PDC product and services relevancy.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Projects objectives and tasks are designed to build upon the previous year’s successes and are consistent with the framework and direction provided by the 2012-2016 PDC Strategic Plan.  At the beginning of each calendar year, an Annual Plan is in-place to guide the program and enable a framework for performance feedback to the DoD PDC Program Manager, the PDC Executive Director, WHS CA Contracting Office, and the UH. At the end of each calendar year, these stakeholders meet to review the past year performance and finalize a new Annual Plan for the next calendar year.  This plan details a set of specific objectives to further capabilities and capacities supporting the PDC’s mission and increasing operational value to the stakeholders.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>PDC DisasterAWARE:  Early Warning and Decision Support Applications</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>University of Hawaii Systems</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Honolula, HI</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>2.572</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.522</r2:Amount>
+                                            <r2:AwardDate>2014-12</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.770</r2:Amount>
+                                            <r2:AwardDate>2015-12</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.754</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.754</r2:Amount>
+                                            <r2:AwardDate>2016-12</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>PDC</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>PDC</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2014</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

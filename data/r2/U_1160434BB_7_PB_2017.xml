@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1160434BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Unmanned ISR</r2:ProgramElementTitle>
+        <r2:R1LineNumber>249</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>0.000</r2:PriorYear>
+            <r2:CurrentYear>0.000</r2:CurrentYear>
+            <r2:BudgetYearOne>22.117</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>22.117</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>24.766</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>25.060</r2:BudgetYearThree>
+            <r2:BudgetYearFour>25.492</r2:BudgetYearFour>
+            <r2:BudgetYearFive>28.964</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>NOTE:  Beginning in FY 2017 Unmanned ISR represents the approved consolidation of Special Applications for Contingencies Program Element (PE) 0304210BB; MQ-1 Unmanned Aerial Vehicle (UAV), PE 0305219BB; MQ-8 PE 0305231BB; RQ-11 UAV PE 1105232BB; and RQ-7 UAV, PE 1105233BB.
+
+This program element is part of the Military Intelligence Program (MIP).  Develops and deploys special capabilities to perform Intelligence, Surveillance, and Reconnaissance (ISR) for deployed Special Operations Forces (SOF) using non-traditional means.  USSOCOM has been designated as the DOD lead for planning, synchronizing, and as directed, executing global operations against terrorist networks and targets. USSOCOM requires the capability to find, fix, and finish time-sensitive high-value fixed and fleeting targets at the unit and team level without placing personnel and units in harm’s way. These targets can often only be identified with patient collection of information and require rapid, decisive action during the short periods in which they present themselves. This PE addresses the primary areas of Intelligence, Surveillance, Reconnaissance, and Targeting (ISR&amp;T) capabilities for SOF.
+
+Group 1, 2, 3 and 4, Unmanned Aerial Systems (UAS) developmental efforts are to identify, develop, integrate, and test SOF-unique mission kits, mission payloads, air vehicle enhancements, and modifications on the related ground control stations. SAFC develops and integrates UAS payloads to advance ISR capabilities to address dynamic and emergent operational needs of the SOF user.  Efforts include improving imagery/signals intelligence and electronic warfare payloads, capitalizing on developing technologies to reduce size, weight and power while addressing processing and data management challenges. It provides a mechanism for SOF user combat evaluation of emerging sensor technologies.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>22.117</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>22.117</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>22.117</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>22.117</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustment</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>22.117</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>22.117</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding:     
+
+FY 2015:  None.
+
+FY 2016:  None.
+
+FY 2017:  The net increase of $22.117 million is due to the FY 2017 approved consolidation of the Unmanned ISR program element (PE) which includes Special Applications for Contingencies PE 0304210BB ($18.037 million); MQ-1 Unmanned Aerial Vehicle (UAV), PE 0305219BB; MQ-8 PE 0305231BB; RQ-11 UAV PE 1105232BB ($4.384 million); and RQ-7 UAV, PE 1105233BB, a reduction by the Department to account for prior year execution balances (-$0.142 million), and a Departmental economic assumption decrease (-$0.162 million).
+
+Schedule:  None.  
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S855</r2:ProjectNumber>
+                <r2:ProjectTitle>Unmanned ISR</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>22.117</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>22.117</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>24.766</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>25.060</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>25.492</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>28.964</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>NOTE:  Beginning in FY 2017, Unmanned ISR represents the approved consolidation of Special Applications for Contingencies Program Element (PE) 0304210BB; MQ-1 Unmanned Aerial Vehicle (UAV), PE 0305219BB; MQ-8 PE 0305231BB; RQ-11 UAV PE 1105232BB; and RQ-7 UAV, PE 1105233BB.
+
+This project is part of the Military Intelligence Program (MIP). Develops and deploys special capabilities to perform intelligence, surveillance, and reconnaissance (ISR) for deployed Special Operations Forces (SOF) using non-traditional means.  
+
+Special Applications for Contingencies (SAFC). Provides for efforts to develop and integrate Unmanned Aerial Systems (UAS) payloads to advance ISR capabilities to address dynamic and emergent operational needs of the SOF user.  Efforts include improving imagery/signals intelligence and electronic warfare payloads, capitalizing on developing technologies to reduce size, weight and power while addressing processing and data management challenges. It provides a mechanism for SOF user combat evaluation of emerging sensor technologies. SAFC applies focused Research &amp; Development (R&amp;D) for relatively low cost solutions to provide short lead-time contingency planning requirements where focused R&amp;D will allow for test and evaluation of leading edge solutions to emergent problem sets.
+
+Group 1 UAS.  Group 1 UAS are small tactical systems, less than 20 pounds in weight.  Provides for development efforts to identify, develop, integrate, and test Special Operations Forces (SOF) unique mission kits.  The FY 2017 funding was reduced by $0.142 million to account for the availability of prior year execution balances.
+
+Group 2 UAS.  Group 2 UAS are medium tactical systems, between 21 pounds and 55 pounds in weight. Provides for development efforts to identify, develop, integrate, and test SOF-unique mission kits.
+
+Group 3 UAS.  Group 3 UAS are large tactical systems that weigh less than 1,320 pounds and fly less than flight level 180.    
+
+Group 4 UAS.  Group 4 UAS are large systems that weigh greater than 1,320 pounds and fly higher than flight level 180. Provides for development efforts to identify, develop, integrate, and test SOF-unique mission kits.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>SAFC</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>17.875</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>17.875</r2:Funding>
+                                    <r2:Text>Continues development and combat evaluation of selected sensor delivery platforms and mounted or deliverable ISR capabilities for global contingencies including short-notice requirements.  Continues to evaluate unique sensor technologies, persistent stare and quick reaction systems.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Group 1 UAS (Previously justified as Small Unmanned Aerial System)</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.124</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.124</r2:Funding>
+                                    <r2:Text>Continues to integrate, and test SOF-unique mission kits, mission payloads, and modifications to the small tactical UAS and ground control station, to include but not limited to; improved capabilities for geo-location, collection of push-to-talk, communications, specialized tagging, tracking, and locating, and enhanced communications relay and work to miniaturize previously developed payloads.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Group 2 UAS (Previously justified as Multi-mission Tactical Unmanned Aerial System)</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>4.118</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>4.118</r2:Funding>
+                                    <r2:Text>Continues to integrate, and test SOF-unique mission capabilities to the medium tactical UAS, to include but not limited to; signals intelligence gathering, full motion video, and geo-location.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/0201UMISR</r2:LineItem>
+                            <r2:Title>Unmanned ISR</r2:Title>
+                            <r2:Funding>
+                                <r2:BudgetYearOne>33.070</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>21.190</r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>11.880</r2:BudgetYearOneOCO>
+                                <r2:BudgetYearTwo>12.555</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>6.877</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>6.980</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>7.443</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/0809RQ11</r2:LineItem>
+                            <r2:Title>RQ-11 Unmanned Aerial Vehicle</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>6.397</r2:PriorYear>
+                                <r2:CurrentYear>15.587</r2:CurrentYear>
+                                <r2:CostToComplete>0.000</r2:CostToComplete>
+                                <r2:TotalCost>21.984</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/1108MQ1</r2:LineItem>
+                            <r2:Title>MQ-1  Unmanned Aerial Vehicle</r2:Title>
+                            <r2:Funding>
+                                <r2:CurrentYear>1.934</r2:CurrentYear>
+                                <r2:CostToComplete>0.000</r2:CostToComplete>
+                                <r2:TotalCost>1.934</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/1108STU</r2:LineItem>
+                            <r2:Title>Small Tactical Unmanned Aerial System</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>1.500</r2:PriorYear>
+                                <r2:CurrentYear>1.514</r2:CurrentYear>
+                                <r2:CostToComplete>0.000</r2:CostToComplete>
+                                <r2:TotalCost>3.014</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:AcquisitionStrategy>SAFC acquisition strategy utilizes existing competed contract vehicles for minor development and integration and modification of Government Off The Shelf/Contractor Off The Shelf (GOTS/COTS) equipment. It utilizes limited/full and open competition contracts for major developments. 
+
+The Group 1 UAS are evolutionary acquisition programs that deliver, integrate, and qualify SOF-unique mission kits, mission payloads, weapons, air vehicle enhancements, and ground control station upgrades.  Contracting methods depend on the type of development effort.  Competitive source selection will be conducted as much as possible.  Proprietary considerations may direct some effort to the Original Equipment Manufacturer (OEM).
+
+Group 2 UAS are evolutionary acquisition programs that deliver, integrate, and qualify SOF-unique mission kits, mission payloads, weapons, air vehicle enhancements, and ground control station upgrades.  Contracting methods depend on the type of development effort.  Competitive source selection will be conducted as much as possible.  Proprietary considerations may direct some effort to the OEM.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SAFC Platform/Payload Development and Integration</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>8.911</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>8.911</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Group 1 Unmanned Aerial System (UAS) Payloads</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>IDIQ</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.124</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.124</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Group 2 UAS Platform/Payloads Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>TBD</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>2.059</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>2.059</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SAFC Platform/Payload Integration</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.600</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.600</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Group 2 UAS Platform/Payload Support</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>TBD</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.617</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.617</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SAFC Sensor Testing, Evaluation and Demonstration</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>7.291</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>7.291</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Group 2 UAS Platform/Payload Test and Evaluation</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>TBD</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.825</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.825</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SAFC Sensor Testing, Evaluation and Demonstration Management</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.073</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.073</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Group 2 UAS Platform/Payload Mqnqgement</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>TBD</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.617</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.617</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>SAFC.TIF</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>Group 1 Unmanned ISR ver 2.tif</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>Group 2 UAS.TIF</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>SAFC</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Platform/Payload Development and Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Sensor Testing, Evaluation and Demonstration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Group 1 Unmanned Aerial System (UAS)</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Payload Integration, and Test</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Group 2 UAS</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Operational Test/Operational Assessment (OT/OA)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Payload Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

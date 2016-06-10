@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1160483BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Maritime Systems</r2:ProgramElementTitle>
+        <r2:R1LineNumber>251</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>228.283</r2:AllPriorYears>
+            <r2:PriorYear>58.656</r2:PriorYear>
+            <r2:CurrentYear>59.597</r2:CurrentYear>
+            <r2:BudgetYearOne>54.577</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>54.577</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>29.451</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>11.193</r2:BudgetYearThree>
+            <r2:BudgetYearFour>12.857</r2:BudgetYearFour>
+            <r2:BudgetYearFive>13.101</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>This program element provides for engineering and manufacturing development of Special Operations Forces (SOF) Surface and Undersea Mobility platforms.  This program element also provides for pre-acquisition activities to quickly respond to new requirements for SOF surface and undersea mobility, looking at multiple alternatives to include cross-platform technical solutions, service-common solutions, Commercial-Off-The-Shelf technologies, and new development efforts.  
+
+The Underwater Systems project provides for engineering and manufacturing development of combat submersibles, SOF operator diving systems, underwater support systems, and underwater equipment.  This project also provides for pre-acquisition activities (materiel solutions analysis, advanced component and prototype development) to respond to emergent requirements.  These submersibles, equipment, and diving systems are used by SOF in the conduct of infiltration/extraction, personnel/material recovery, hydrographic/inland reconnaissance, beach obstacle clearance, underwater ship attack, and other missions.  The capabilities of the submersible systems, diving systems, and unique equipment provides small, highly trained forces the ability to successfully engage the enemy and conduct clandestine operations associated with SOF maritime missions.  
+
+The Surface Craft project provides for engineering and manufacturing development of medium and heavy surface combatant craft, combatant craft mission equipment, and pre-planned product improvement and technology insertion engineering changes to meet the unique requirements of SOF.  This project element also provides for pre-acquisition activities (materiel solutions analysis, advanced component development and prototypes) to quickly respond to new requirements for maritime craft and subsystems.  The craft capabilities and unique equipment provide small, highly trained forces the ability to successfully engage the enemy and conduct operations associated with SOF maritime missions.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>56.746</r2:PriorYear>
+                <r2:CurrentYear>63.597</r2:CurrentYear>
+                <r2:BudgetYearOne>52.590</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>52.590</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>58.656</r2:PriorYear>
+                <r2:CurrentYear>59.597</r2:CurrentYear>
+                <r2:BudgetYearOne>54.577</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>54.577</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>1.910</r2:PriorYear>
+                <r2:CurrentYear>-4.000</r2:CurrentYear>
+                <r2:BudgetYearOne>1.987</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>1.987</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalDirectedReductions>
+                    <r2:CurrentYear>-4.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>3.750</r2:PriorYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-1.840</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>1.987</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>1.987</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding:   
+
+FY 2015:  Net increase of $ 1.910 million is for a reprogramming of $3.680 million to support engineering and testing for the Shallow Water Combat Submersible, $0.070 million to support the contract award for the Next Generation Combatant Craft Forward Looking Infrared Radar, and a decrease of $ 1.840 million is due to a transfer of funds to Small Business Innovative Research/Small Business Technology Transfer programs. 
+
+FY 2016:  This program element was reduced due to a Congressional Directed Reduction of ($4.000) million to the Dry Combat Submersible program. 
+
+FY 2017:  Net Increase of $1.987 million due to revised program strategy for the Combatant Craft Medium of $0.407 million increase, Combatant Craft Assault (previously High Speed Assault Craft) of $0.500 million increase, SOF Combat Diving of $1.490 million increase, and a decrease of ($0.410) million due to a Departmental economic assumption decrease. 
+
+Schedule:  Due to delay in development and builder's trial of the DCS prototypes, further development and testing efforts were subsequently delayed into FY 2016 and FY 2017.
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S0417</r2:ProjectNumber>
+                <r2:ProjectTitle>Underwater Systems</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>221.211</r2:AllPriorYears>
+                    <r2:PriorYear>48.086</r2:PriorYear>
+                    <r2:CurrentYear>52.328</r2:CurrentYear>
+                    <r2:BudgetYearOne>50.150</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>50.150</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>25.295</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>6.527</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>6.063</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>6.185</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project provides for engineering and manufacturing development of combat underwater submersibles, Special Operations Forces (SOF) operator diving systems, underwater support systems, and underwater equipment.  This project also provides for pre-acquisition activities (materiel solutions analysis, advanced component development and prototypes) to respond to emergent requirements.  These submersibles, equipment, and diving systems are used by SOF in the conduct of infiltration/extraction, personnel/material recovery, hydrographic/inland reconnaissance, beach obstacle clearance, underwater ship attack, and other missions.  The capabilities of the submersible systems, diving systems, and unique equipment provides small, highly trained forces the ability to successfully engage the enemy and conduct clandestine operations associated with SOF maritime missions.  Sub-projects include:
+
+•   Shallow Water Combat Submersible (SWCS):  This sub-project provides for the engineering, manufacturing, testing, and development of one Engineering Developmental Model (EDM) to replace the SEAL Delivery Vehicle (SDV) system.  The EDM is being developed due to obsolescence of the SDV system.  This project will utilize mature technologies, which include electric propulsion along with upgraded navigation, communication, and sensor suites.  It also provides for integration efforts with the current Dry Deck Shelter (DDS), development of engineering changes for SWCS production craft configuration, and integration of other diving technologies to meet SOF requirements.  
+
+• Dry Combat Submersible (DCS): This sub-project provides for the advanced engineering, manufacturing, testing, and development efforts for a surface-launched, dry, diver lock-in/lock-out vessel capable of inserting and extracting SOF and/or payloads into denied areas.  USSOCOM will award an Engineering and Manufacturing Development contract in FY 2016 to produce one production representative vessel, with options to produce two additional vessels following testing.  Current efforts leverage commercial practices to develop dry submersible prototypes to assess submersible capabilities and reduce risk in the DCS program.  USSOCOM developed and is currently testing two submersible prototypes.  USSOCOM has also conducted risk reduction efforts on a third leased vehicle to include validation of test processes, commercial classification processes, and development of the SOCOM safety certification process which permits SEALs to operate the vehicles.  In addition, the prototypes are being and will continue to be used to evaluate capability enhancing technologies in a relevant environment.  Technologies include, but are not limited to, safe Li-Ion batteries, silver zinc batteries, improved sonar systems, an advanced battery management system, and a three-dimensional Electro Optical Infrared (EO/IR) sensor.
+
+•   DDS Modernization:  This sub-project provides for the pre-planned product improvements, testing, and integration of specialized underwater systems to meet the unique requirements of SOF, and compatibility with the submarine fleet.  The current DDS is a certified diving system which attaches to modified host submarines that provides for insertion of SOF forces and platforms.  Funding supports product improvements to the current DDS, as well as associated diver equipment for in-service submarine support systems, unmanned underwater vehicles, and follow on development efforts for future SOF payloads.
+
+•   SOF Combat Diving:  This sub-project provides for the engineering, manufacturing, testing, development, and transition of SOF peculiar diving equipment providing the SOF combat diver the ability to engage the enemy and conduct operations.  SOF Combat Diving will provide capabilities to USSOCOM components and will support the SDV, SWCS, and DCS in conduct of infiltration/extraction, material recovery, underwater ship attack, beach clearance, and other missions.  Technologies include, but are not limited to, commercial and developmental life support, maneuverability, employment of weapons, diver navigational accuracy and situational awareness, thermal protection, and underwater communications.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>SWCS</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>19.981</r2:Funding>
+                                    <r2:Text>Completed EDM manufacturing and development and started developmental testing.  Executed dry, pool, and open water testing.  Obtained Milestone C approval.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>7.596</r2:Funding>
+                                    <r2:Text>Continue EDM development testing, certification and government  acceptance. Incorporate any necessary engineering design changes and modifications to meet key performance parameters.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.950</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.950</r2:Funding>
+                                    <r2:Text>Completes EDM, including final logistics packages, develops and incorporates any engineering changes into SWCS production craft configuration as needed.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>DCS</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>28.105</r2:Funding>
+                                    <r2:Text>Completed manufacturing, obtained commercial classification, and began testing of the two submersible prototypes.  Achieved SOF Embarkation approval for leased vessel, validating process and enabling initial SOF pilot training and multiple lock-in/lock-out evolutions.  Validated test plans and procedures for use with DCS. Completed testing of government-furnished EO/IR sensor, silver zinc battery, battery management system, and began initial testing of lithium ion battery.  Battery development efforts have resulted in more than doubling the range of the leased vessel.  Obtained Milestone B approval, conducted Industry Day, and released Request for Proposals for DCS program of record.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>34.232</r2:Funding>
+                                    <r2:Text>Continue testing of lithium ion battery and begin characterization testing of the prototypes.  Award an engineering and manufacturing development (EMD) contract for a production representative system.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>38.700</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>38.700</r2:Funding>
+                                    <r2:Text>Continues EMD for DCS production representative system.  Completes testing of the prototypes and initiates refit of one prototype submersible to be used as a training vessel.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>DDS Modernization</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>10.000</r2:Funding>
+                                    <r2:Text>Begin development of the modernization necessary to extend useful life, transition from SSGN to Virginia Class host platform, and increase capacity to carry larger payloads.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>8.500</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>8.500</r2:Funding>
+                                    <r2:Text>Continues development of the modernization necessary to extend useful life of the DDS, transitions from SSGN to Virginia Class host platform, and increases capacity to carry larger payloads.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>SOF Combat Diving</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.500</r2:Funding>
+                                    <r2:Text>Begin development of SOF peculiar diving technologies for transition to the SOF combat diver for thermal protection to include free diver heating/cooling system, compact multi-diver heating system, and propulsion power interface.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>2.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>2.000</r2:Funding>
+                                    <r2:Text>Continues thermal protection and man and unmanned testing.  Begins development for situational awareness and underwater breathing apparatuses.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/0210US</r2:LineItem>
+                            <r2:Title>Underwater Systems</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>25.408</r2:PriorYear>
+                                <r2:CurrentYear>29.021</r2:CurrentYear>
+                                <r2:BudgetYearOne>37.098</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>37.098</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>91.032</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>54.299</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>7.820</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>7.977</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:AcquisitionStrategy>•   SWCS used full and open competition, with a down select to a single contractor.  The full spectrum of contracting activities is being utilized for any integration and subsystem requirements, using existing contracts where appropriate, government agencies and new contracts as necessary.
+
+•   DCS performed risk reduction efforts on a leased vessel (S301i) to define future DCS program plans and procedures as well as used Broad Area Announcements for Research and Development contracts to design, build, and test prototypes (Button 5.60 and S351) to refine and validate key performance parameters and attributes for the future DCS, leveraging commercial technologies, practices, and safety classification standards.  USSOCOM will solicit and award a competitive engineering and manufacturing development contract for a production representative system in FY16 and award two options for procurement vessels in FY18 and FY19.
+
+•   DDS Modernization will use existing DDS contracts to develop modernization efforts and execute configuration changes required to achieve performance requirements specified by the government.
+
+•   SOF Combat Diving:  The full spectrum of contracting activities is planned to be utilized, using existing contracts where appropriate, government agencies, and new contracts competitively selected as necessary.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Shallow Water Combat Submersible (SWCS)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPIF</r2:ContractType>
+                                    <r2:PerformingActivity>Teledyne Brown Engineering</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Huntsville, AL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>59.276</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>18.024</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>7.000</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>84.300</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SWCS Engineering Changes</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.950</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.950</r2:Amount>
+                                            <r2:AwardDate>2016-12</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Dry Combat Submersibles (DCS) (Button 5.60 prototype)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>General Dynamic-Electric Boat</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Groton, CT</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>25.403</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.635</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.877</r2:Amount>
+                                            <r2:AwardDate>2016-07</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>28.915</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DCS (S351 prototype)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Submergence Group</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Chester, CT</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>23.075</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>9.638</r2:Amount>
+                                            <r2:AwardDate>2015-09</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.953</r2:Amount>
+                                            <r2:AwardDate>2015-12</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>33.666</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DCS Technologies (Government Furnished Equipment)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>19.552</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>7.907</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>4.003</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>7.377</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>7.377</r2:Amount>
+                                            <r2:AwardDate>2017-06</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DCS (Engineering &amp; Manufacturing Development)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>MacDill AFB</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Tampa, FL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>22.300</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>25.723</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>25.723</r2:Amount>
+                                            <r2:AwardDate>2017-06</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>48.023</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DCS Engineering Changes</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.000</r2:TotalPreviousYears>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>3.100</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>3.100</r2:Amount>
+                                            <r2:AwardDate>2017-06</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Dry Deck Shelter (DDS)  Modernization</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Oceaneering International Inc. Marine Services Division</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Chesapeake, VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>9.650</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>8.197</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>8.197</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SOF-Peculiar Diving Technologies</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.500</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.500</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.500</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>59.896</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>59.896</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>9.094</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>9.094</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SWCS</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Puget Sound Naval Shipyard</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Seattle, Washington</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.240</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.368</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.596</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>1.204</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DCS</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>NAVSEA / CRANE</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Panama City, FL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>1.700</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>7.307</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.299</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>10.306</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SOF Combat Diving</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.500</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.500</r2:Amount>
+                                            <r2:AwardDate>2017-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>9.320</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>9.320</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>SWCS</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>John Hopkins University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Columbia, MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.589</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>1.589</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DCS</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>SRA</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Tampa, FL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>6.698</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>2.618</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.800</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>2.500</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>2.500</r2:Amount>
+                                            <r2:AwardDate>2017-06</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>DDS</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>NAVSEA</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Washington, DC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.757</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.350</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.303</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.303</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.700</r2:CostToComplete>
+                                        <r2:TotalCost>2.110</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>John Hopkins University</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Columbia, MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>6.200</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>6.200</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>SWCS.tif</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>DCS.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>DDS.tif</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>Diving.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Shallow Water Combat Submersible</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Engineering &amp; Manufacturing Development</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Developmental Test</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Milestone C</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Engineering Changes</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Dry Combat Submersibles</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Analysis, Component and Prototype Development, and Testing</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Training Vessel</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Milestone B</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Acquisition Planning, Request for Proposals, and Source Selection</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Engineering and Manufacturing Development Phase</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Engineering Changes</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Milestone C</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Developmental and Operational Test and Evaluation</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2019</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Dry Deck Shelter Modernization</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Preliminary Design Review</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Critical Design Review</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>SOF Combat Diving</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Free Diver Heating / Cooling System Development / Manufacturing / Test / Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Compact Multi-Diver Heating System Development / Manufacturing / Test / Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Propulsion Power Interface Development / Manufacturing / Test / Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Communications and Navigational Accuracy Development / Manufacturing / Test / Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2019</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Diver Survivability Development / Manufacturing / Test / Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2020</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Maneuverability Development / Manufacturing / Test / Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2019</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>S1684</r2:ProjectNumber>
+                <r2:ProjectTitle>Surface Craft</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>7.072</r2:AllPriorYears>
+                    <r2:PriorYear>10.570</r2:PriorYear>
+                    <r2:CurrentYear>7.269</r2:CurrentYear>
+                    <r2:BudgetYearOne>4.427</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>4.427</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>4.156</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>4.666</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>6.794</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>6.916</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project provides for engineering and manufacturing development of medium and heavy surface combatant craft, combatant craft mission equipment, and pre-planned product improvement and technology insertion engineering changes to meet the unique requirements of Special Operations Forces (SOF).  This project also provides for pre-acquisition activities (materiel solutions analysis, advanced component development and prototypes) to quickly respond to new requirements for maritime craft and subsystems.  The craft capabilities and unique equipment provide small, highly trained forces the ability to successfully engage the enemy and conduct operations associated with SOF maritime missions.  Sub-projects include:
+
+•   Combatant Craft Medium Mk 1 (CCM):  This sub-project is a semi-enclosed, low-observable, multi-mission combatant craft for platoon-size maritime mobility in maritime denied environments.  It is multi-mission capable, including Maritime Interdiction, Insert / Extract, and Visit, Board, Search, and Seizure (VBSS) Operations.  CCM is Naval Special Warfare’s (NSW) craft-of-choice for long-range, high-payload SOF mobility operations in denied environments up to high threat.  CCM has NSW’s best Iron Triangle: 40 knot (kt) speed; 4 crew + 19 passengers (pax) / 10,000 pound (lb) payload; and 600 nautical miles (nm) range.  CCM Mk 1 payload capacity enables inclusion of shock mitigating seats, which is critical for ride quality, operator tactical readiness, and operator health.  At 60 feet long CCM is C-17 / C5 transportable and can launch/recover by well deck or shore based trailer.  
+
+•   Combatant Craft Heavy (CCH):  This sub-project represents a family of solutions that provides platoon-size maritime surface mobility.  The current CCH is the Sea, Air, Land Insertion, Observation, and Neutralization (SEALION) craft.  SEALION is a fully-enclosed, climate-controlled, low-observable, semi-submersible craft that operates in denied environments up to high-threat. SEALION is NSW’s most versatile and survivable combatant craft and the craft-of-choice for sensitive maritime intelligence, surveillance, and reconnaissance missions and those missions requiring a prolonged presence in denied environments.  Its clandestine mobility capability is only exceeded by an undersea craft.  Iron Triangle: 40 kt speed; 7 crew + 12 pax / 3,300 lb payload; and 400 nm range.  SEALION payload capacity enables inclusion of shock mitigating seats, which is critical for ride quality, operator tactical readiness, and operator health.  At 77+ feet long, SEALION is C-17/C-5 transportable and can launch/recover by well deck or shore based mobile travel lift or crane.  
+
+•   Next Generation Combatant Craft Forward Looking Infrared Radar (NG CCFLIR):  This sub-project consists of a legacy CCFLIR and the NG CCFLIR.  The CCFLIR capability provides SOF with a multi-sensor, electro-optic system that enhances SOF effectiveness by improving their ability to detect, recognize, identify, range, track, and highlight objects of interest in a maritime environment.  The legacy CCFLIR is under sustainment, it is currently used on all Naval Special Warfare Combatant Craft.  The NG CCFLIR will use technological advancements to gain significant improvements in capability such as operational range, image fusion, net-centric data sharing, information assurance, and seamless craft and combat systems integration.
+
+•   Combatant Craft Mission Equipment (CCME) (previously Next Generation Surface Systems):  This sub-project provides a rapid response capability to support SOF Combatant Craft Systems and subsystems.  The CCME will explore and provide solutions to support emerging requirements in support of SOF missions.  It provides technology refresh efforts to correct system deficiencies, improve asset life, and enhance mission capability through the means of feasibility studies, analyses of alternatives, pre-developmental risk reduction, and engineering analyses.  Demonstrations and modifications may be made to support emerging capability enhancements such as but not limited to conformal antennas, identification Friend-or-Foe capabilities, enhanced communications, weapon integration, software efresh, and navigation subsystems in support of future missions.  Solutions may be Commercial-Off-The-Shelf (COTS) solutions, leveraged from other agency solutions, or new solutions. 
+
+•   Combatant Craft Assault (CCA) (previously High Speed Assault Craft):  This sub-project is a National-to-Theater transition.  The CCA is the theater version of the High Speed Assault Craft.  The CCA is a low-observable combatant craft for squad-size maritime mobility operations in maritime denied environments.  CCA is NSW’s best craft for VBSS in maritime denied environments up to and including medium threat.  It is the craft-of-choice for maritime interdiction and boarding operations because of the open deck space, maneuverability, and interoperability with an Afloat Forward Staging Base.  Iron Triangle: 40 kt speed; 3 crew + 12 pax / 5,000 lb payload; and 300 nm range.  At 41 feet long, CCA is air transportable by C-130 / C-17 / C-5 and can launch/recover by crane, davit, well deck, or shore based trailer.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>CCM</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>4.572</r2:Funding>
+                                    <r2:Text>Completed Operational Testing and continued development and integration of sub-systems including weapons and situational awareness systems.  Refurbished test article to production craft configuration.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.308</r2:Funding>
+                                    <r2:Text>Continue development and integration of advanced technologies including situational awareness, survivability, weapons, navigation, and communication.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.659</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.659</r2:Funding>
+                                    <r2:Text>Develops conceptual, preliminary, and detail design drawings necessary to integrate and conduct initial testing of a remote weapon system on the CCM test article.  Begins integration of NG CCFLIR and applicable CCME technology onto CCM crafts.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>CCH</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.872</r2:Funding>
+                                    <r2:Text>Completed SEALION III design study and began tactical computer system upgrades.  Installed dynamic positioning system.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.245</r2:Funding>
+                                    <r2:Text>Continue development and integration of advanced technologies including situational awareness, survivability, weapons, navigation, and communication.  Initiate studies and analysis for upgraded CCH craft.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.887</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.887</r2:Funding>
+                                    <r2:Text>Completes tactical computer system upgrades.  Continues pre-planned product improvement and technology insertion.  Begins integration of NG CCFLIR and applicable CCME technology onto CCH crafts.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>NG CCFLIR</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>2.247</r2:Funding>
+                                    <r2:Text>Completed source selection for prototype units for development testing.  Began development and testing of NG CCFLIR.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.500</r2:Funding>
+                                    <r2:Text>Complete testing and integration with combatant craft systems.</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>CCME</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.879</r2:Funding>
+                                    <r2:Text>Tested and analyzed combatant crafts survivability characteristics.  Performed analysis of alternatives tests for obsolete intercom system.  Performed baseline test and assessment for a remote weapon system.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.216</r2:Funding>
+                                    <r2:Text>Identify and evaluate candidate solutions for capability enhancements and insertion across Combatant Craft Systems.  Technology development include, but not limited to, conformal antennas, communications, weapons integration, survivability, shock and vibration systems, and situational awareness.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.381</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.381</r2:Funding>
+                                    <r2:Text>Evaluates candidate solutions for technology development to include, but not limited to, MK50 SOF improvements (i.e., accuracy and increased rounds), Vehicular Intercommunications-3 intercom control integration tests, active ride control integration tests, craft survivability painting studies and verification, and situational awareness studies.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>CCA</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.500</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.500</r2:Funding>
+                                    <r2:Text>Begins integration of NG CCFLIR and applicable CCME technology onto CCA crafts.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/0204SCCS</r2:LineItem>
+                            <r2:Title>Combatant Craft Systems</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>50.337</r2:PriorYear>
+                                <r2:CurrentYear>63.362</r2:CurrentYear>
+                                <r2:BudgetYearOne>55.820</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>55.820</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>27.110</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>13.149</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>38.342</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>38.081</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:OtherProgramFundingSummaryRemarks>N/A</r2:OtherProgramFundingSummaryRemarks>
+                    <r2:AcquisitionStrategy>•  CCM acquisition strategy was a competition using a two-phase source selection process.  Phase I involved a Small Business Set-Aside competition for two vendors to design, build and deliver test articles.  Phase II selected a single vendor to provide a fully integrated baseline craft system for test and evaluation with options for production, engineering support and contractor logistic support.  
+
+•  CCH:  SEALION I &amp; II were transitioned from United States Navy advanced technology demonstrator craft to USSOCOM.  Sustainment for SEALION I &amp; II is conducted via Special Operations Forces Support Activity (SOFSA).  Based on market research completed in December 2015; currently pursuing a Sole Source award for SEALION III in order to take advantage of previous Government investments in manufacturing infrastructure for SEALION I &amp; II.
+
+•  NG CCFLIR:  Current fleet of legacy CCFLIR was procured via full and open competition.  Procurement for legacy CCFLIR is complete.  Legacy CCFLIR will continue to be utilized on the Rigid-hull Inflatable Boat (RIB) and Special Operations Craft Riverine (SOCR).  The Combatant Craft Medium (CCM), Combatant Craft Heavy (CCH), and High Speed Assault Craft (HSAC) will transition from legacy CCFLIR to NG CCFLIR. NG CCFLIR completed a full and open competition in Sep 15.  An Engineering Manufacturing Development contract was awarded to FLIR Systems Incorporated, which included production and sustainment options.
+
+•  CCME acquisition strategy plans include the full spectrum of contracting activities, using existing contracts where appropriate, and other Government agencies to leverage, marinize, commonize, and advance Technology Readiness Level 6 leap ahead technology from Services and USSOCOM SOF AT&amp;L S&amp;T.  Procurement of items will be from the Combatant Craft Systems procurement program element.   
+
+•  CCA originated as National-to-Theater transition.  The CCA is the theater version of the High Speed Assault Craft and will use various contracting and better buying power practices to develop, test, and integrate capability enhancements required to increase the craft’s current performance envelope.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Combatant Craft Medium (CCM)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Vigor Works</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Clackamas, OR</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>4.374</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.426</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.308</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.659</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.659</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Combatant Craft Heavy (CCH)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.225</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.872</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.245</r2:Amount>
+                                            <r2:AwardDate>2016-04</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.887</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.887</r2:Amount>
+                                            <r2:AwardDate>2017-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Next Generation Combatant Craft Forward Looking Infrared (NG CCFLIR)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>FLIR Systems</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Billerica, MA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.691</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>2.247</r2:Amount>
+                                            <r2:AwardDate>2015-09</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.600</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>3.538</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Combatant Craft Mission Equipment (CCME)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.311</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.642</r2:Amount>
+                                            <r2:AwardDate>2015-04</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.891</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.156</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.156</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>CCA</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.280</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.280</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>CCM</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>NSWC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Norfolk, VA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.281</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.800</r2:Amount>
+                                            <r2:AwardDate>2014-12</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>1.081</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>NG CCFLIR</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>NSWC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Crane, IN</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.900</r2:Amount>
+                                            <r2:AwardDate>2016-04</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.900</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>CCME</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.237</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.325</r2:Amount>
+                                            <r2:AwardDate>2016-04</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.225</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.225</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.787</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>CCA</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.220</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.220</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>CCM</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>NSWC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Norfolk, VA; Crane, IN</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.937</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.937</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>CCM</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>SRA</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Tampa, FL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.625</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.409</r2:Amount>
+                                            <r2:AwardDate>2015-05</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>2.034</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Years</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>Various</r2:ContractType>
+                                    <r2:PerformingActivity>NSWC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Crane, IN</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.565</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.565</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>CCM.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>CCH.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>NG CCFLIR.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>CCME.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>CCA.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Combatant Craft Medium</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Test Article Refurbishment</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Acceptance and Operational Testing</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Weapons, Survivability, C4ISR Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Combatant Craft Heavy</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Preplanned Product Improvement (Weapons / C4I / Survivability)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Design Study - SEALION III</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Tech Data Package - SEALION III</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Next Generation Combatant Craft Forward Looking Infrared Radar</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Prototype Contract</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Prototype Development</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Developmental Test</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Milestone C Decision</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Operational Testing</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Combatant Craft Mission Equipment</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>360 Development, Test, Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Shock/Vibration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Situational Awareness</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>SATCOM on the Move Test, Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Weapons Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2018</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Survivability</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Threat Analysis</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2020</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Obsolescence Analysis, Test, Analysis</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Combatant Craft Assault</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Preplanned Product Improvement (Survivability, Weapons, C4ISR)</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2017</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" format="R2Long" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0702207F</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Depot Maintenance (Non-IF)</r2:ProgramElementTitle>
+        <r2:R1LineNumber>232</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Air Force</r2:ServiceAgencyName>
+        <r2:AppropriationCode>3600</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Air Force</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>1.407</r2:PriorYear>
+            <r2:CurrentYear>1.525</r2:CurrentYear>
+            <r2:BudgetYearOne>1.518</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>1.518</r2:BudgetYearOneBase>
+            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            <r2:BudgetYearTwo>1.523</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>1.498</r2:BudgetYearThree>
+            <r2:BudgetYearFour>1.526</r2:BudgetYearFour>
+            <r2:BudgetYearFive>1.553</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>1.407</r2:PriorYear>
+                <r2:CurrentYear>1.525</r2:CurrentYear>
+                <r2:BudgetYearOne>1.533</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>1.533</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>1.407</r2:PriorYear>
+                <r2:CurrentYear>1.525</r2:CurrentYear>
+                <r2:BudgetYearOne>1.518</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>1.518</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.015</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.015</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:CongressionalDirectedReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:CongressionalRescissions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:CongressionalAdds>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:CongressionalDirectedTransfers>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedTransfers>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>-0.015</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.015</r2:BudgetYearOneBase>
+                            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>673326</r2:ProjectNumber>
+                <r2:ProjectTitle>Precision Measurement &amp; Calibration</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>1.407</r2:PriorYear>
+                    <r2:CurrentYear>1.525</r2:CurrentYear>
+                    <r2:BudgetYearOne>1.518</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>1.518</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>1.523</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>1.498</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>1.526</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>1.553</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>This program develops, tests, and evaluates national and Air Force measurement standards (hardware) and calibration equipment in support of all Air Force programs and activities, including Precision Measurement Equipment Laboratories (PMELs) worldwide.  Metrology research and development provides technology to support systems in all phases of development and acquisition, as well as Air Force R&amp;D laboratories, test ranges, ground test facilities, and operational weapons systems support. Rapidly changing technology requires continuing research and development of measurement standards and calibration equipment to ensure modern weapon systems meet Air Force readiness objectives. This program addresses all metrology disciplines and includes the technology areas of laser, infrared, microwave, millimeter wave, optical, physical, mechanical, electrical, electronic, and ionizing radiation measurements. Metrology is a technical discipline devoted to the science of measurements and to the study and improvement of measurement technology.  Measurements are the foundation of military system development, quality assurance, hardware conformance testing and system readiness tests.  The integrity of these tests is assured through calibration and traceability assurance schemes.  The capability to measure and calibrate must parallel the emergence of new technology, new ranges, and new capabilities of military systems.  Lack of new measurement capability impedes or blocks the successful exploitation of new technologies, especially in the movement from development laboratory to production to deployment.  R&amp;D efforts are essential within the DoD to pace these requirements, otherwise, these same new systems will suffer time delays, excessive cost, and increased risk due to unreliable test results in all phases of development, production, deployment and operation.    
+
+Program is managed by Air Force Materiel Command, Agile Combat Support Directorate, Air Force Metrology Division (WNM).
+
+This program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Weapons Systems Measurement Standards</r2:Title>
+                            <r2:Description>Continue development of national measurement standards to support Air Force infrared / laser / electro-optical weapon systems and support equipment.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.440</r2:Funding>
+                                    <r2:Text>Continued project development in support of infrared/laser/electro-optical weapon systems.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.565</r2:Funding>
+                                    <r2:Text>Project development continues on infrared/laser/electro-optical weapon system support.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.558</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.558</r2:Funding>
+                                    <r2:Text>Will continue project development on infrared/laser/electro-optical weapon system support.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Electrical Measurements</r2:Title>
+                            <r2:Description>Continue development of standards for electrical measurements to support high accuracy electronic test equipment.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.396</r2:Funding>
+                                    <r2:Text>Continued developing radar support standards, RF communication systems and radar cross section range through development process.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>Continuing to develop radar support standards, RF communication systems and radar cross section range through development process.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.000</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Radar Support/Communications</r2:Title>
+                            <r2:Description>Continue development of standards for radar support, RF communication systems, and radar cross section range measurements.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.085</r2:Funding>
+                                    <r2:Text>Development of radar support standards, RF communication systems and radar cross section range continued through development process.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.300</r2:Funding>
+                                    <r2:Text>Development of radar support standards, RF communication systems and radar cross section range will continue through development process.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.300</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.300</r2:Funding>
+                                    <r2:Text>Development of radar support standards, RF communication systems and radar cross section range will continue through development process.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Calibration</r2:Title>
+                            <r2:Description>Continue the development of improved calibration standards to support physical, mechanical, and electro-mechanical support equipment.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.426</r2:Funding>
+                                    <r2:Text>Calibration standards which support physical, mechanical and electro-mechanical support equipment were developed to meet ever changing technology.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.560</r2:Funding>
+                                    <r2:Text>Calibration standards which support physical, mechanical and electro-mechanical support equipment will continue to be developed to meet ever changing technology.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.560</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.560</r2:Funding>
+                                    <r2:Text>Calibration standards which support physical, mechanical and electro-mechanical support equipment will continue to be developed to meet ever changing technology.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Analytical Metrology</r2:Title>
+                            <r2:Description>Continue development of standards, models, and procedures to support analytical metrology applications.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.060</r2:Funding>
+                                    <r2:Text>Continued development projects to meet changing technology.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.100</r2:Funding>
+                                    <r2:Text>Projects will continue in development phase to meet changing technology.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.100</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.100</r2:Funding>
+                                    <r2:Text>Projects will continue in development phase to meet changing technology.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>Primarily accomplished through intergovernmental transfer between the Department of Defense and other Federal Departments.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>National Institute of Standards &amp; Technology</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFMETCAL</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Heath, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.974</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.100</r2:Amount>
+                                            <r2:AwardDate>2016-08</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.118</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.118</r2:Amount>
+                                            <r2:AwardDate>2017-08</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Department of Defense</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>AFMETCAL</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Heath, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.260</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.200</r2:Amount>
+                                            <r2:AwardDate>2016-08</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.200</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.200</r2:Amount>
+                                            <r2:AwardDate>2017-08</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Industry</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>T&amp;M</r2:ContractType>
+                                    <r2:PerformingActivity>AFMETCAL</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Heath, OH</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.173</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.225</r2:Amount>
+                                            <r2:AwardDate>2016-08</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.200</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.200</r2:Amount>
+                                            <r2:AwardDate>2017-08</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Standards Development</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>4</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

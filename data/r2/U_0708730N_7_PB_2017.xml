@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0708730N</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Maritime Tech (MARITECH)</r2:ProgramElementTitle>
+        <r2:R1LineNumber>245</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Navy</r2:ServiceAgencyName>
+        <r2:AppropriationCode>1319</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Navy</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>13.162</r2:AllPriorYears>
+            <r2:PriorYear>4.187</r2:PriorYear>
+            <r2:CurrentYear>4.321</r2:CurrentYear>
+            <r2:BudgetYearOne>3.204</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>3.204</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>4.861</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>4.808</r2:BudgetYearThree>
+            <r2:BudgetYearFour>4.191</r2:BudgetYearFour>
+            <r2:BudgetYearFive>4.638</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>The National Shipbuilding Research Program (NSRP) is an industry and enterprise wide research collaboration that seeks to reduce the Navy's shipbuilding and repair cost.  The resulting technologies implemented in NSRP-ASE member shipyards, benefit both the shipyard and the US Navy.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>4.347</r2:PriorYear>
+                <r2:CurrentYear>4.321</r2:CurrentYear>
+                <r2:BudgetYearOne>4.361</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>4.361</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>4.187</r2:PriorYear>
+                <r2:CurrentYear>4.321</r2:CurrentYear>
+                <r2:BudgetYearOne>3.204</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>3.204</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-0.160</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-1.157</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-1.157</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-0.160</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Program Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>-1.067</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-1.067</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Rate/Misc Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>-0.090</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.090</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>The FY 2015 funding request includes a reduction of 0.160 million to account for SBIR transfers.
+
+The FY 2017 funding request includes reductions of $0.929 million to account for prior year available balances, $0.138 million for the Department of the Navy to comply with the Bipartisan Budget Act of 2015, and $0.090 million for other miscellaneous adjustments.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>2466</r2:ProjectNumber>
+                <r2:ProjectTitle>NSRP ASE</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>13.162</r2:AllPriorYears>
+                    <r2:PriorYear>4.187</r2:PriorYear>
+                    <r2:CurrentYear>4.321</r2:CurrentYear>
+                    <r2:BudgetYearOne>3.204</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>3.204</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>4.861</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>4.808</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>4.191</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>4.638</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:AllPriorYears>0</r2:AllPriorYears>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>NSRP ASE is a collaboration of U.S. shipyards working with the Navy customer to reduce the cost of building and repairing naval ships and improving shipbuilding industry productivity through advanced technology and processes. NSRP ASE is an innovative and proven approach to public/private cooperation to manage cost-shared R&amp;D based on a national consensus Strategic Investment Plan. The Plan targets potential industry-wide technology and process solutions which are vetted by industry experts and builds upon the progress
+made over the previous years. The collaboration's organizational structure promotes teaming of industry, government and academia to achieve the continuous product and process improvements necessary for improved Navy ship affordability.  Solutions include both leverage of best commercial practices and creation of industry-wide initiatives with aggressive technology transfer to, and buy-in by, multiple U.S. shipyards. Navy PEOs (Ships, Subs and Carriers) and NAVSEA are directly involved in NSRP.  The Plan calls for matching government and industry investments over several years.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Technology Development Projects</r2:Title>
+                            <r2:Description>The NSRP is an ongoing Research and Development program.  This program awards small research projects and large research projects to (1) Improve Quality; (2) Reduce Total Ownership Costs; and, (3) Increase Energy Efficiency.  These research projects have been known to produce technological advances in shipbuilding that once implemented have resulted in savings for the Navy.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>4.187</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>(1) Completed technology development projects in the four major initiative areas (Ship Design and Material Technologies,
+Ship Production Technologies, Business Process and Information Systems, and Infrastructure and Support (Regulatory
+Compliance, Technology Transfer and Workforce Development) that were competitively selected by industry subject
+matter experts and Navy stakeholders during Government Fiscal Year (GFY14). The projects targeted the following priorities in Naval shipbuilding
+and repair: (1)Improving Quality; (2) Reduction of Total Ownership Costs; and, (3) Increasing Energy Efficiency. It is
+anticipated that projects currently in process will continue to be focused in the following areas:
+- Promotion of Modular Construction
+- Reduction of Re-work
+- Improving Production Engineering
+- Improving Specifications and Standards
+- Improving Manufacturing Processes
+- Improving Production Planning
+- Data Exchange
+- Improving Safety &amp; Health / Reducing Environmental Impacts
+- Education and Training
+- Total Ownership Cost
+
+(2) Continue technology transfer among the Navy, shipbuilding industry, academia, equipment and material suppliers and the R&amp;D community.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>4.321</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>(1) Complete technology development projects in the four major initiative areas (Ship Design and Material Technologies, Ship Production Technologies, Business Process and Information Systems, and Infrastructure and Support (Regulatory Compliance, Technology Transfer and Workforce Development)) that will be competitively selected by industry subject matter experts and Navy stakeholders during GFY15, targeting the following priorities in Naval shipbuilding and repair:
+(1) Improving Quality; (2) Reduction of Total Ownership Costs; and, (3) Increasing Energy Efficiency. It is anticipated that projects selected will continue to be focused in the following areas:
+- Promotion of Modular Construction
+- Reduction of Re-work
+- Improving Production Engineering
+- Improving Specifications and Standards
+- Improving Manufacturing Processes
+- Improving Production Planning
+- Data Exchange
+- Improving Safety &amp; Health / Reducing Environmental Impacts
+- Education and Training
+- Total Ownership Cost
+(2) Continue technology transfer among the Navy, shipbuilding industry, academia, equipment and material suppliers and the R&amp;D community</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>3.204</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>3.204</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>(1) Complete technology development projects in the four major initiative areas (Ship Design and Material Technologies, Ship Production Technologies, Business Process and Information Systems, and Infrastructure and Support (Regulatory Compliance, Technology Transfer and Workforce Development)) that will be competitively selected by industry subject matter experts and Navy stakeholders during GFY16, targeting the following priorities in Naval shipbuilding and repair:
+(1) Improving Quality; (2) Reduction of Total Ownership Costs; and, (3) Increasing Energy Efficiency. It is anticipated that projects selected will continue to be focused in the following areas:
+-	Promotion of Modular Construction
+-	Reduction of Re-work
+-	Improving Production Engineering
+-	Improving Specifications and Standards
+-	Improving Manufacturing Processes
+-	Improving Production Planning
+-	Data Exchange
+-	Improving Safety &amp; Health / Reducing Environmental Impacts
+-	Education and Training
+-	Total Ownership Cost
+(2) Continue technology transfer among the Navy, shipbuilding industry, academia, equipment and material suppliers and the R&amp;D community</r2:Text>
+                                </r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Articles>0</r2:Articles>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneOCO>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:AcquisitionStrategy>R&amp;D projects have been solicited and awarded by an industry collaboration represented by the Executive Control Board (ECB) of the National Shipbuilding Research Program (NSRP). The Navy has entered into an agreement with the industry collaboration using "other transaction" authority pursuant to 10 U.S.C. 2371.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Quarterly reports and reviews</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Technology Development</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>ECB NSRP</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Not Specified</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>12.291</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>4.187</r2:Amount>
+                                            <r2:AwardDate>2014-12</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>4.321</r2:Amount>
+                                            <r2:AwardDate>2015-12</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>3.204</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>3.204</r2:Amount>
+                                            <r2:AwardDate>2016-12</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>Continuing</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Gov't Support Services</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>NSWCCD</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Not Specified</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.650</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>Continuing</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Contractor Support Services</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Not Specified</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.221</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                            <r2:AwardDate>2015-03</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>Continuing</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>R4_2017PB_0708730N_2466_FILE2.JPG</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Proj 2466</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Ship Collaborative Framework Technologies</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

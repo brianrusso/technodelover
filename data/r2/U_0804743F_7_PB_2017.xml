@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0804743F</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Other Flight Training</r2:ProgramElementTitle>
+        <r2:R1LineNumber>235</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Air Force</r2:ServiceAgencyName>
+        <r2:AppropriationCode>3600</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Air Force</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:PriorYear>0.987</r2:PriorYear>
+            <r2:CurrentYear>1.836</r2:CurrentYear>
+            <r2:BudgetYearOne>1.653</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>1.653</r2:BudgetYearOneBase>
+            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            <r2:BudgetYearTwo>2.068</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>2.036</r2:BudgetYearThree>
+            <r2:BudgetYearFour>2.072</r2:BudgetYearFour>
+            <r2:BudgetYearFive>2.109</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>The Aviation Resource Management System (ARMS) is the authoritative data source for recording and managing aircrew training information, aircrew/parachutist management, flying hour tracking, flight pay management, and flying gate tracking for 70,000 Air Force members. The Air Force uses this information to enhance safety-of-flight operations and to determine eligibility to perform aviation related events. New development work is required to provide additional flying operations information, which will aid in better portraying Air Force readiness, and to feed this data into Defense Readiness Reporting System Strategic (DRRS-S). These enhanced capabilities, to be developed incrementally, include the following:  electronic flight record, enhanced flying hour management/execution, simulator and remotely piloted aircraft (RPA) management/utilization, full career logbook, training look-back, aircrew member man-month allocation, enhanced resource and jump module management, and interface with DRRS-S.  ARMS data will also be used to support Headquarters Air Force/Major Command (HAF/MAJCOM) level readiness decision reports/analytics.  New development work in support of ARMS needs to be accomplished with RDT&amp;E versus O&amp;M funds. 
+
+This program is Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year. 
+
+The FY2017 funding request was reduced by 0.387 Million to account for the availability of prior year execution balances.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>0.987</r2:PriorYear>
+                <r2:CurrentYear>1.836</r2:CurrentYear>
+                <r2:BudgetYearOne>2.040</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>2.040</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>0.987</r2:PriorYear>
+                <r2:CurrentYear>1.836</r2:CurrentYear>
+                <r2:BudgetYearOne>1.653</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>1.653</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.387</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.387</r2:BudgetYearOneBase>
+                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalGeneralReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalGeneralReductions>
+                <r2:CongressionalDirectedReductions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedReductions>
+                <r2:CongressionalRescissions>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:CongressionalAdds>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalAdds>
+                <r2:CongressionalDirectedTransfers>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:CongressionalDirectedTransfers>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:PriorYear>0.000</r2:PriorYear>
+                            <r2:CurrentYear>0.000</r2:CurrentYear>
+                            <r2:BudgetYearOne>-0.387</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.387</r2:BudgetYearOneBase>
+                            <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>The FY2017 funding request was reduced by 0.387 Million to account for the availability of prior year execution balances</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>675304</r2:ProjectNumber>
+                <r2:ProjectTitle>Aviation Resource Management System (ARMS)</r2:ProjectTitle>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>0.987</r2:PriorYear>
+                    <r2:CurrentYear>1.836</r2:CurrentYear>
+                    <r2:BudgetYearOne>1.653</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>1.653</r2:BudgetYearOneBase>
+                    <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                    <r2:BudgetYearTwo>2.068</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>2.036</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>2.072</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>2.109</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectArticles>
+                        <r2:PriorYear>0</r2:PriorYear>
+                        <r2:CurrentYear>0</r2:CurrentYear>
+                        <r2:BudgetYearOne>0</r2:BudgetYearOne>
+                        <r2:BudgetYearOneBase>0</r2:BudgetYearOneBase>
+                        <r2:BudgetYearOneOCO>0</r2:BudgetYearOneOCO>
+                        <r2:BudgetYearTwo>0</r2:BudgetYearTwo>
+                        <r2:BudgetYearThree>0</r2:BudgetYearThree>
+                        <r2:BudgetYearFour>0</r2:BudgetYearFour>
+                        <r2:BudgetYearFive>0</r2:BudgetYearFive>
+                    </r2:ProjectArticles>
+                    <r2:ProjectMissionDescription>The Aviation Resource Management System (ARMS) is the authoritative data source for recording and managing aircrew training information, aircrew/parachutist management, flying hour tracking, flight pay management, and flying gate tracking for 70,000 Air Force members. The Air Force uses this information to enhance safety-of-flight operations and to determine eligibility to perform aviation related events. ARMS interfaces with the Military Personnel Data System (MilPDS) and multiple operations and flight scheduling systems such as Patriot Excalibur (PEX), Graduate Training Integration Management System (GTIMS), Center Operations On-Line (COOL), Global Decision Support System (GDSS), and Automated Aircrew Management System (AAMS) and is used to determine whom to select for flying operations, assignment actions, and promotion of aircrew members.
+ 
+New development work is required to provide additional flying operations information, which will aid in better portraying Air Force readiness, and to feed this data into Defense Readiness Reporting System Strategic (DRRS-S). These enhanced capabilities, to be developed incrementally, include the following:  electronic flight record, enhanced flying hour management/execution, simulator and RPA management/utilization, full career logbook, training look-back, aircrew member man-month allocation, enhanced resource and jump module management, and interface with DRRS-S.  Additional development work on the existing ARMS, such as database flattening and Business Process Reengineering (BPR) actions, is required prior to incorporating these enhanced capabilities.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Aviation Resource Management System (ARMS)</r2:Title>
+                            <r2:Description>Hardware/software development to update ARMS, adding functionality and system interfaces.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.987</r2:Funding>
+                                    <r2:Text>- Continued hardware/software development efforts in support of ARMS. 
+- Completed milestone documentation for MDD scheduled 1st Qtr FY15.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>1.836</r2:Funding>
+                                    <r2:Text>- Continue hardware/software development efforts in support of ARMS. 
+- Release RFP for ARMS 7.0 Development contract 
+- Award ARMS 7.0 Design Contract
+- Financial Improvement Audit Compliance Contract.
+- Begin Development of Increment 1 Build 1 (Flying Hours and Flight).</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>1.653</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>1.653</r2:Funding>
+                                    <r2:Text>- Continue hardware/software development efforts in support of ARMS 
+- Complete Development of  Increment 1 Build 1 (Flying Hours and Crew Training).
+- Begin Development Increment 1 Build 2 (Simulator Utilization and Training)</r2:Text>
+                                </r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>
+                                    <r2:Funding>0.000</r2:Funding>
+                                    <r2:Text>N/A</r2:Text>
+                                </r2:BudgetYearOneOCO>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>O&amp;M: BA03:  PE 0804743F</r2:LineItem>
+                            <r2:Title>Other Flight Training</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>1.057</r2:PriorYear>
+                                <r2:CurrentYear>1.388</r2:CurrentYear>
+                                <r2:BudgetYearOne>1.260</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>1.260</r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>0.000</r2:BudgetYearOneOCO>
+                                <r2:BudgetYearTwo>1.376</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>1.401</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>2.280</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>2.322</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:AcquisitionStrategy>ARMS will incrementally develop enhancements to the existing system.  The acquisition will be accomplished with Firm Fixed Price (FFP) contracts awarded under Section 8(a) as small business set aside.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>Please refer to the Performance Base Budget Overview Book for information on how Air Force resources are applied and how those resources are contributing to Air Force performance goals and most importantly, how they contribute to our mission.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>ARMS Requirements and Document Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>AFLCMC/HIB</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Maxwell AFB-Gunter Annex, AL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.920</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.920</r2:TotalCost>
+                                        <r2:TargetValue>0.920</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>ARMS Financial Improvement Audit Readiness (FIAR) contract</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>AFLCMC/HIB</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Maxwell AFB-Gunter Annex, AL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.200</r2:Amount>
+                                            <r2:AwardDate>2016-02</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>1.200</r2:TotalCost>
+                                        <r2:TargetValue>1.200</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>ARMS Increment 1, Build 1 and Build 2 contract</r2:Name>
+                                    <r2:ContractMethod>SS</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Enterprise Solution Architects</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Maxwell AFB-Gunter Annex</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.636</r2:Amount>
+                                            <r2:AwardDate>2016-03</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.490</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.490</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                        <r2:TargetValue>3.400</r2:TargetValue>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>ARMS A&amp;AS Support</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>AFLCMC/HIB</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Maxwell AFB, AL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.067</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.163</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.163</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:BudgetYearOneOCO>
+                                            <r2:Amount>0.000</r2:Amount>
+                                        </r2:BudgetYearOneOCO>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4aExhibit>
+                    <r2:ScheduleDetailList>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>New Functional Requirements</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Acquisition/Clinger Cohen Act Docs</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>System Software Requirements</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>3</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Architectural Documents (Certification and Accreditation)</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>Advisory and Assistance Services Contract</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2015</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MDD</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>1</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>RFP</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>MS B</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>ARMS Financial Inmprovement Audit Readiness contract</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>ARMS 7.0 Increment 1 Build 1 Contract</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2016</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>ARMS 7.0 Increment 1 Build 2 Contract</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2017</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>ARMS 7.0 Increment 2 Build 1 Contract</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2018</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>ARMS 7.0 Increment 2 Build 2 Contract</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2019</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2020</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                        <r2:ScheduleDetail>
+                            <r2:EventTitle>ARMS 7.0 Increment 2 Build 3 Contract</r2:EventTitle>
+                            <r2:Schedule>
+                                <r2:Start>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2020</r2:Year>
+                                </r2:Start>
+                                <r2:End>
+                                    <r2:Quarter>2</r2:Quarter>
+                                    <r2:Year>2021</r2:Year>
+                                </r2:End>
+                            </r2:Schedule>
+                        </r2:ScheduleDetail>
+                    </r2:ScheduleDetailList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

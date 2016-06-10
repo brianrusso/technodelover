@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1160480BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>SOF Tactical Vehicles</r2:ProgramElementTitle>
+        <r2:R1LineNumber>250</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>28.494</r2:AllPriorYears>
+            <r2:PriorYear>3.553</r2:PriorYear>
+            <r2:CurrentYear>3.212</r2:CurrentYear>
+            <r2:BudgetYearOne>3.316</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>3.316</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>2.578</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>2.624</r2:BudgetYearThree>
+            <r2:BudgetYearFour>2.677</r2:BudgetYearFour>
+            <r2:BudgetYearFive>2.730</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>This program element provides for the development and testing of a variety of incremental upgrades to Special Operations Forces (SOF) Vehicles and ancillary equipment.  Current SOF tactical vehicles include: Lightweight Tactical All Terrain Vehicles (Light), Ground Mobility Vehicles (Medium), Non-Standard Commercial Vehicles (Commercial) for use in tactical missions, and Mine Resistant Ambush Protected Vehicles (Heavy).  The SOF mission mandates that SOF vehicles remain technologically superior, operate in multiple environments and be able to meet any threat to provide a maximum degree of survivability.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>3.672</r2:PriorYear>
+                <r2:CurrentYear>3.212</r2:CurrentYear>
+                <r2:BudgetYearOne>3.341</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>3.341</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>3.553</r2:PriorYear>
+                <r2:CurrentYear>3.212</r2:CurrentYear>
+                <r2:BudgetYearOne>3.316</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>3.316</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-0.119</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>-0.025</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-0.025</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-0.119</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-0.025</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-0.025</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding:    
+
+FY 2015:  Decrease of -$0.119 million is due to a transfer of funds to Small Business Innovative Research/Small Business Technology Research Transfer programs.
+
+FY 2016:  None.
+
+FY 2017:  Decrease of -$0.025 million is due to Departmental economic assumption decrease.  
+
+Schedule:  None.
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S910</r2:ProjectNumber>
+                <r2:ProjectTitle>SOF Tactical Vehicles</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>28.494</r2:AllPriorYears>
+                    <r2:PriorYear>3.553</r2:PriorYear>
+                    <r2:CurrentYear>3.212</r2:CurrentYear>
+                    <r2:BudgetYearOne>3.316</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>3.316</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>2.578</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>2.624</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>2.677</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>2.730</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This project develops, tests, and evaluates Special Operations vehicles and modifications.  The Special Operations Forces (SOF) mission mandates that SOF vehicles remain technologically superior, operate in multiple environments and be able to meet any threat to provide a maximum degree of survivability.  The current family of SOF tactical vehicles include: individual mobility vehicles, light mobility vehicles, medium mobility vehicles, non-standard commercial vehicles, and heavy mobility vehicles.     
+
+Family of Special Operations Vehicles (FSOV).  This initiative provides for product improvements in the areas of suspension, power management, armor protection and unique vehicle design for all SOF tactical vehicle configurations.  Designs must be standardized across all SOF Components that utilize a tactical vehicle.   Improvements include, but are not limited to, new engineering change proposals (ECPs), field safety issues and theater endorsed requirements that make it essential to keep up with the increased weight and minimize the impact to mobility on the basic vehicle.  FSOV develops, integrates and tests Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR) systems in order to reduce space and power claim on vehicles and develop safety and engineering improvements that specifically address the enemy’s changing tactics on the battlefield which typically focuses on survivability, force protection, or mobility.  Specific efforts include but are not limited to: Ground Mobility Vehicle (GMV) Medium Version 1.1 effort which provides for a medium vehicle variant capable of meeting specific requirements of internal aircraft transport on the C/MH-47.  The effort also provides for engineering costs related to performance, endurance, safety testing, integration and logistical analysis of product samples.  Additionally, efforts include ECPs associated with the Non-Standard Commercial Vehicle (NSCV), the Lightweight Tactical All Terrain Vehicle (LTATV).  These ECPs will address any identified safety, reliability, and performance concerns.  Finally, funding will be used to support vehicle signature reduction efforts.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Family of Special Operations Vehicle</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.553</r2:Funding>
+                                    <r2:Text>Continued design/development and integration of ECPs that implement incremental upgrades and improve the design of the light and medium mobility vehicles to meet mission requirements.  Funded Initial Operational Test and Evaluation (IOT&amp;E) of the GMV 1.1 medium mobility vehicle which will be completed first quarter of FY16.  Continued enhancements/modifications on the NSCV to improve reliability and survivability, with a focus on alternative rear axles and low visibility C4ISR antennas.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>3.212</r2:Funding>
+                                    <r2:Text>Continue integration of ECPs that implement incremental upgrades and improve the design of the light and ground mobility vehicles (medium).  Continue enhancements/modifications on the NSCV to improve reliability and survivability and engineering design changes.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>3.316</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>3.316</r2:Funding>
+                                    <r2:Text>Continues design/development and integration of ECPs that implement incremental upgrades and improve the design of the light tactical all-terrain vehicles (LTATV), Ground Mobility Vehicles (GMV - medium), and NSCV, to include a C4 effort to incorporate a Chairman of the Joint Chiefs of Staff directed Global Positioning System upgrade to M-Code.  Continues enhancements/modifications on the NSCV to improve reliability and survivability.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/0204TACVEH</r2:LineItem>
+                            <r2:Title>Tactical Vehicles</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>63.134</r2:PriorYear>
+                                <r2:CurrentYear>73.520</r2:CurrentYear>
+                                <r2:BudgetYearOne>71.049</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>67.849</r2:BudgetYearOneBase>
+                                <r2:BudgetYearOneOCO>3.200</r2:BudgetYearOneOCO>
+                                <r2:BudgetYearTwo>62.956</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>39.303</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>17.923</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>17.092</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:AcquisitionStrategy>Vehicle improvements integrate emerging technology or commercial-off-the-shelf/non-developmental items.  Materiel solutions will be procured via existing contracts or through a competitive procurement.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV Ground Mobility Vehicles (GMV) 1.1 Medium and Non Standard Commercial Vehicle (NSCV) Engineering Change Proposal (ECP) Development</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Naval Air Systems Command</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Patuxent River, MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>2.477</r2:TotalPreviousYears>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.358</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.358</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>2.835</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV GMV 1.1 Medium Enviro, simulation and modeling</r2:Name>
+                                    <r2:FundingVehicle>WR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>TARDEC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Warren, Michigan</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.090</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.050</r2:Amount>
+                                            <r2:AwardDate>2015-02</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.250</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.250</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV GMV 1.1 Medium ECP Development &amp; C4 Integration</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>General Dynamics - OTS</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>St. Petersburg, FL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>6.558</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.305</r2:Amount>
+                                            <r2:AwardDate>2015-07</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>2.297</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.250</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.250</r2:Amount>
+                                            <r2:AwardDate>2017-04</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV Lightweight Tactical All Terrain Vehicles (LTATV) ECP Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Polaris Defense</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MInneapolis, MN</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.381</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.312</r2:Amount>
+                                            <r2:AwardDate>2015-10</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.741</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.741</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV Non-Standard Commercial Vehicles (NSCV) ECP Development/Signature Reduction</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>TBD</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>TBD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.807</r2:TotalPreviousYears>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.603</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.717</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.717</r2:Amount>
+                                            <r2:AwardDate>2017-03</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.383</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.383</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV GMV 1.1 Medium ECP Development &amp; C4 Integration</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>General Dynamics - OTS</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>St. Petersburg, FL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.952</r2:Amount>
+                                            <r2:AwardDate>2015-06</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.952</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV LTATV ECP Development</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Polaris Defense</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>MInneapolis, MN</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.187</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.187</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV NSCV ECP</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>HQ USSOCOM</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Tampa, FL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.500</r2:Amount>
+                                            <r2:AwardDate>2015-08</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.500</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>3.910</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>3.910</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV GMV 1.1 Medium Initial Operational Test and Evaluation (IOT&amp;E)</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Nevada Automotive Test Center</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Carson City, NV</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.447</r2:Amount>
+                                            <r2:AwardDate>2015-07</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.447</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>13.888</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>13.888</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>FSOV GMV 1.1 Medium test support</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Nevada Automotive Test Center</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Carson City, NV</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.112</r2:Amount>
+                                            <r2:AwardDate>2015-06</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.112</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>FSOV R4_30DEC.png</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>FSOV GMV 1.1 Medium</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>FSOV GMV 1.1 Medium Enviro, Simulation and Modeling</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>FSOV Lightweight Tactical All Terrain Vehicles (LTATV)</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>FSOV LTATV ECP Development</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>FSOV GMV 1.1 Medium ECP Development and Support</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>FSOV GMV 1.1 Medium Initial Operational Test &amp; Evaluation</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>FSOV GMV 1.1 Medium Test Support</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>FSOV Non-Standard Commercial Vehicles (NSCV)</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>FSOV NSCV ECP Development/Signature Reduction and Support</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>0804767D8Z</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>COCOM Exercise Engagement and Training Transformation (CE2T2)</r2:ProgramElementTitle>
+        <r2:R1LineNumber>175</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>Office of the Secretary Of Defense</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>6</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>RDT&amp;E Management Support</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>157.609</r2:AllPriorYears>
+            <r2:PriorYear>38.266</r2:PriorYear>
+            <r2:CurrentYear>42.679</r2:CurrentYear>
+            <r2:BudgetYearOne>34.384</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>34.384</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>46.241</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>44.659</r2:BudgetYearThree>
+            <r2:BudgetYearFour>42.071</r2:BudgetYearFour>
+            <r2:BudgetYearFive>42.063</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>These programs support readiness of the joint force by creating a Joint Training Environment to replicate the complex and changing operational environment.  The funding increase beginning in FY 2016 represents planned growth and internal reprogramming decisions to accelerate development of a cloud-enabled joint training environment.  These investments directly support defense strategic guidance and enhance joint warfighting readiness by building training capabilities that support the operational readiness of the force.  The elements associated with this coordinated effort consist of:
+
+- Joint National Training Capability (JNTC)
+- Joint Simulation System (JSS)
+- Joint Knowledge Development &amp; Distribution Capability (JKDDC)
+- U.S. Forces Korea Training &amp; Exercise Support (USFK)
+- Air Force Joint National Training Capability (JNTC)
+- Navy Joint National Training Capability (JNTC)
+
+JNTC:  The mission of the Joint National Training Capability (JNTC) program is to advance joint capabilities and interoperability by concentrating on emerging joint training requirements through collective training experiences using a managed set of globally distributed capabilities and activities. The program resources Service and SOF joint training and enabling capabilities that improve interoperability and realism of tactical and operational joint training between the Services and USSOCOM. JNTC enables joint collective training for Combatant Commands and Services by developing relevant joint training content and ensuring global distributed access. The enabling capabilities support the Services and USSOCOM in their requirement to provide trained and ready forces in support of Combatant Command operational requirements. This program will focus efforts on improving, rather than consuming, readiness and create a ready surge force consistent with Chairman’s guidance.
+
+JSS:  The Joint Simulation System (JSS) provides a low cost, distributed or deployable, web-based joint training capability with a small technical and operator footprint.  The JSS funding provides warfighters with joint simulations and tools that enhance and enable Joint training across Services, Combatant Commands, Combat Support Agencies, NATO and multinational partners. The Joint simulations and tools provided by JSS funding are critical enablers that support the delivery of trained, capable, and interoperable joint forces.  JSS’s intent is to maintain a capability to share simulation environments with coalition partners.
+
+JKDDC:  Joint Knowledge Development &amp; Distribution Capability (JKDDC) Joint Knowledge Online (JKO) is the JS J7 program of record for online joint training that implements and operationalizes the OSD T2 JKDDC.  JKO directly supports the CE2T2 program by developing, delivering, tracking, and reporting online training for Combatant Command exercises; Combatant Command required training; doctrinally based Joint Operations Core Curriculum; multinational, coalition, IA training; and OSD required training (externally funded).  JKO also expends funding for leading edge technology review, market research, and integration to directly enhance specific aspects of the training capability as required for J7 support to Combatant Commanders. JKO satisfies all requirements necessary to provide the CE2T2 stakeholders with a distributed learning capability and access to web-based training content.
+
+USFK:  FY 2015 is the last year for dedicated funding within the overall program.  The U.S. Forces Korea (USFK) Training &amp; Exercise Support program develops simulations capable of satisfying all joint exercise training requirements in the Korean Theater of Operations.  Interoperability with the Republic of Korea-developed Korean Simulation System (KSIMS) is a critical and unique requirement of this USFK RDT&amp;E program.  This solution will be capable of interoperating in a common battle space that realistically represents the operating environment to all levels of training audiences -- tactical to strategic -- in Korean theater exercises.  While supporting USFK’s specific requirements, this solution will contain enhancements that will benefit other combatant commander training programs that use the aging Joint, Live, Virtual, and Constructive (JLVC) simulations and the emerging JLVC 2020 simulations.  
+
+Air Force JNTC:  The Air Force JNTC funding provides a focused upgrade to develop models for space-based capabilities for integration into the JLVC environment.  The Air Force supports development of cross-domain solutions that enable the integration of systems with disparate security requirements, and significantly increases the training audience to additional joint and coalition participants.  
+
+Navy JNTC:  These funds enable the Navy to develop unique maritime capabilities that integrate JLVC elements into a seamless joint training environment. The Navy program activities include conducting research, development, test and evaluation, and cross-service architecture certification on joint-capable systems.  Additionally, the program develops cross-domain architectures for U.S. and Coalition Forces and ensures sister service modeling/simulation and instrumentation efforts follow a unified standard.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>38.950</r2:PriorYear>
+                <r2:CurrentYear>43.811</r2:CurrentYear>
+                <r2:BudgetYearOne>42.454</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>42.454</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>38.266</r2:PriorYear>
+                <r2:CurrentYear>42.679</r2:CurrentYear>
+                <r2:BudgetYearOne>34.384</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>34.384</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>-0.684</r2:PriorYear>
+                <r2:CurrentYear>-1.132</r2:CurrentYear>
+                <r2:BudgetYearOne>-8.070</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>-8.070</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:CongressionalRescissions>
+                    <r2:CurrentYear>-1.045</r2:CurrentYear>
+                </r2:CongressionalRescissions>
+                <r2:Reprogrammings>
+                    <r2:PriorYear>-0.015</r2:PriorYear>
+                    <r2:CurrentYear>-0.087</r2:CurrentYear>
+                </r2:Reprogrammings>
+                <r2:SBIRSTTRTransfer>
+                    <r2:PriorYear>-0.669</r2:PriorYear>
+                </r2:SBIRSTTRTransfer>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Rephasing of funds</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>-8.070</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>-8.070</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>The decreased funding for the USFK program is attributed to the fact that the program is nearing completion and will no longer require RDT&amp;E funding.  Funding was realigned in FY 2016 to the O&amp;M appropriation to support other priorities.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>758</r2:ProjectNumber>
+                <r2:ProjectTitle>Joint National Training Capability (JNTC)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>82.524</r2:AllPriorYears>
+                    <r2:PriorYear>24.118</r2:PriorYear>
+                    <r2:CurrentYear>31.031</r2:CurrentYear>
+                    <r2:BudgetYearOne>25.611</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>25.611</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>34.205</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>33.033</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>31.052</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>31.044</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>Investment in the Joint National Training Capability (JNTC) program will enable Service and Combatant Commands to train as they operate.  The funding requested continues development of exercise Scenario Management Tools and services that support planning and execution of joint training, and continued maturation of a single integrating architecture for Joint Training.  Funding supports the development of cloud-enabled modular training application services.  Program intent is to reduce dependence on touch labor, and mitigate the impact of reductions in operation and sustainment funding.  Focus must be maintained to deliver operationally relevant training environments and respond to changes in the warfighter’s operational environment.  JNTC enables the Department of Defense to be responsive to the warfighters’ pace of changing operational concepts, threat environments, and best practices. In FY 2017, this investment continues expanding access for Service and Combatant Command trainers to plan and execute joint training.  Funds support improved relevance and realism of training by providing capabilities that replicate the contemporary and future operating environment.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Joint National Training Capability (JNTC)</r2:Title>
+                            <r2:Description>JNTC provides the technical standards, architecture (blueprint), and development processes required to integrate/link joint training programs.  The Joint Training Environment is envisioned as an integrated network of training sites and nodes, and accessible joint training and force development services.  By leveraging existing training programs and initiating specific actions, JNTC develops credible opposing force capabilities and expanded access to assets typically unavailable to the training audience.  This enhances the integration of joint training objectives into Service training events.  Funding in this account supports the technical integration of Joint and Service modeling and simulation training capabilities.  Technical integration enables selective aggregation of training audiences at the Combatant Command, Joint Task Force, and Component Command Headquarter levels.  The funding supports modernization of the Joint Training Environment (JTE) to increase warfighter access to automated training enablers within the Joint Training Synthetic Environment (JTSE) through web-based and cloud capabilities. 
+
+The Adaptive Training Capability Program (ATCP) is a subordinate component of JNTC that enables the Joint Force to be responsive to the warfighters’ pace of changing operational concepts, threat environments, and best practices.  ATCP funding advances joint capabilities and interoperability by addressing emerging joint training requirements through a managed set of globally distributed JLVC enablers.  ATCP funding promotes joint context to Service training programs and joint enablers supporting Combatant Command training requirements and CJCS High Interest Training Issues identified in the Chairman’s Annual Training Guidance.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>24.118</r2:Funding>
+                                    <r2:Text>• In accordance with Deputy Assistant Secretary of Defense (Readiness) (DASD(R)) direction to “Advance Joint Training Environment to exist within a future Joint Information Environment (JIE) and Data Center Consolidation Initiative,” continued development and refinement of the JTE strategy, roadmap, and conceptual design working with the Services, Combatant Commands, Coalition partners, agencies, and the DoD modeling and simulation community to deliver a training environment reliant on cloud-enabled modular services with an initial operating capability in FY 2016, and full operating capability in FY 2022.
+• Conducted JTSE (previously JLVC 2020) Integration Events with Services to prepare for limited operational capability release in December 2015.
+• Initiated the transition to the objective JTE by developing the first JLVC web-accessible version allowing access to cloud-base modeling and simulation, networking, and information technology applications.  Provided Combatant Commands and Services a more efficient and effective method in meeting joint training requirements. JTE Capabilities delivered at the end of FY 2015. 
+• Continued development of a capability that provides Combatant Command and Service consumers the ability to search for and download across the exercise network, exercise order of battle data from different data sources for initiating exercise modeling and simulation systems; expanded development into geospatial services.• Continued Service simulation integration by providing direction, specification, standards, and testing environments to enable the integration of Service, Joint Combatant Command, and Agency simulations, services, and tools. 
+• Completed development of a 3-D immersive virtual environment to facilitate a distributed collaboration environment. 
+• Developed a draft JIE Implementation Plan (I-Plan) to migrate the Suffolk data center to JIE. The plan consists of three main phases or Lines of Objective (LOO). LOO-1 establishes an initial operational capability (IOC) – Special Purpose Processing Node (SPPN) with secure connectivity to the JIE. LOO-1 test one of three was complete in March 2015. LOO-2 rationalizes and consolidates mission applications/systems. LOO-3 will reduce the combined J7 Data Center (DC) footprint, by performing consolidation and optimization, and evaluating hosting environments.  
+• Supported the DISA JIE Technical Support Office by co-chairing the SPPN Integrated Design Team with the mission to develop SPPN documentation and architectures for DoD-wide use.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>31.031</r2:Funding>
+                                    <r2:Text>• IAW DASD(R) direction to “enhance adaptivity by implementing innovative collective/individual training,” achieve JTE initial operating capability in FY 2016 to provide the home station user with initial ability to conduct small Joint Command Post simulation exercises and individual staff section simulation training at home stations.
+• Continue Service simulation integration by providing direction, specification, standards, and testing environments to enable the integration of Service, Joint Combatant Command and Agency simulations, services and tools.  
+• Invest in Information Technology capabilities to support expected growth in home-station training Joint training enabler demand driven by returning forces, and a fiscally-driven adaptive training model that relies more heavily on home-station activities.  
+• Continue development of JTE tools/services that support reduction in out-year training operations and sustainment costs, for planning, designing, provisioning and executing Combatant Command and Service joint training activities.
+• Develop cloud management services that provide on-demand, auto-initiated, and load balanced JTE services (i.e. data, simulation, planning tools, virtualize C2, etc.).
+• Develop a network planning service that allows the user to create the physical layout of the training domain (i.e. computer workstations, C2 Systems, Simulation Workstations, SIPR Machines, printers, etc.) being used for the exercise/event.
+• Continue to develop, finalize, and approve the J7 Suffolk JIE I-plan. Continue to develop LOO-1 secure connectivity test 2 and 3. Begin application consolidation and rationalization supporting LOO-2. Begin collaboration across J7 to define the requirement and identify LOO-3 data center consolidation opportunities.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>25.611</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>25.611</r2:Funding>
+                                    <r2:Text>• Implement Theater Intelligence Collection services designed to allow players to capture audience Intelligence Collection plans. 
+• Implement an Unconventional Warfare Service designed to capture Special Operations-centric shaping operations over longer duration for planning, designing, provisioning, and executing Combatant Command and Service joint training activities.
+• Continue to develop cloud management services that provide on-demand, auto-initiated, and load balanced JTE services (i.e. data, simulation, planning tools, virtualize C2, etc.). 
+• Develop civilian infrastructure and population data services which represent reasonable effects of Civil-Military Operations and Information Operations in simulation.
+• Continue to align with the JIE.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>0804767D8Z</r2:LineItem>
+                            <r2:Title>JNTC O&amp;M Funding</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>25.732</r2:PriorYear>
+                                <r2:CurrentYear>36.341</r2:CurrentYear>
+                                <r2:BudgetYearOne>35.880</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>35.880</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>35.865</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>35.308</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>34.328</r2:BudgetYearFour>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:PerformanceMetrics>RDT&amp;E development efforts are evaluated based on the performance metrics below.  This ensures the Joint Force Trainer capabilities development effort synchronizes with warfighter requirements.  Performance metrics include, but are not limited to; access, cost, realism, relevance and technology as defined below:
+
+•  Access – Develop design standards that enable participation across DoD and, as applicable, with Coalition Partners. Make the environment available to meet user demands.
+•  Cost – Enable the Joint Force Trainer to prepare and execute training at a more effective and efficient cost than current capabilities allow. 
+•  Realism – Enable the Joint Force Trainer to create a training environment that is closer to the real world environment than current capabilities allow.
+•  Relevance – Maintain operational relevance through adaptation to the changing operational environment.
+•  Technology – Sustain the training environment network through developments for distributed home station training that include modular cloud-enabled training services.
+
+Measures:
+•  
+•  Conduct integration events with Services and gain enterprise consensus for publishable standards. (FY 2016)
+•  Initiate development of SOF unconventional warfare service (FY 2016)
+•  Develop individual staff section training (FY 2016)
+•  Increase the number of Order of Battle data sources accessible across the training network for search and download (FY 2016 and FY 2017)
+•  JTSE achieves Initial Operating Capability (FY 2016)
+•  Publish, revise, and update standards for developing JTE modular services (FY 2016/2017)
+•  Conduct at least one distributed training event from home station (FY 2016)</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>761</r2:ProjectNumber>
+                <r2:ProjectTitle>Joint Simulations Systems (JSS)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>13.261</r2:AllPriorYears>
+                    <r2:PriorYear>1.889</r2:PriorYear>
+                    <r2:CurrentYear>2.255</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>0</r2:CostToComplete>
+                    <r2:TotalCost>17.405</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The Joint Simulation System (JSS) will decompose, harvest, and reuse DoD investment in joint simulations to develop cloud-enabled modular services (CEMS), reaching Initial Operating Capability in FY 2016.  JSS will further development of existing Joint Conflict and Tactical Simulation (JCATS) and Joint Theater Level Simulation (JTLS) as required, to remain relevant and responsive to meet Combatant Command training requirements as the Joint Training Environment is implemented.  JSS will provide design and development of web-based applications used as services in CEMS environment.   FY 2016 is the last programmed year of funding for JSS.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Joint Simulation System (JSS)</r2:Title>
+                            <r2:Description>This effort provides warfighters with joint simulations and tools that enhance and enable Joint training across Services, Combatant Commands, agencies and coalition partners.  These joint simulations and tools are part of an overall JLVC baseline of training capabilities.  They represent a set of training enablers, and “certified systems” that are interoperable and acceptable for usage within the joint training environment.  The joint simulations and tools provided by JSS are critical enablers that support the delivery of trained, capable, and interoperable Joint Forces.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>1.889</r2:Funding>
+                                    <r2:Text>• Sustained joint training capability using JTLS and JCATS to meet Combatant Command training requirements until the next generation of Joint Training Modeling and Simulation Federation is fielded with like-capabilities.
+• Continued development of JCATS and JTLS to meet Combatant Command training requirement gaps during transition to Joint Training Modeling and Simulation Federation. 
+• Provided design and development of web-based applications used as services in cloud-based modular services environment.
+• Provided Joint Training Modeling and Simulation Federation.  Develop the service for the web-based Air Tasking Order Generator and an Air Tasking Order Translator that interfaces with the JLVC-2020 Runtime Database. 
+• Completed development of Tactical Electronic Intelligence (TAC ELINT) and Satellite Services.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.255</r2:Funding>
+                                    <r2:Text>• Continue to develop/support JTLS and JCATS as a low cost, small support footprint, web-enabled, and/or deployable solution in order to meet Combatant Command and mission partner training requirements as well as Coalition and Service interoperability needs until next generation Joint Training Modeling and Simulation services are fielded with like-capabilities.
+• Complete development and delivery of Air Mission Scheduling Service, Tactical Electronic Intelligence Service, and Satellite Service.
+• Perform test and integration for new development work completed.</r2:Text>
+                                </r2:CurrentYear>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>0804767D8Z</r2:LineItem>
+                            <r2:Title>JSS O&amp;M Funding</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>1.547</r2:PriorYear>
+                                <r2:CurrentYear>0.927</r2:CurrentYear>
+                                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:PerformanceMetrics>RDT&amp;E development efforts are evaluated based on performance metrics.  This ensures the development of Joint Force Trainer capabilities synchronizes with warfighter requirements.  Performance metrics include, but are not limited to; time, cost, realism, and fidelity as defined below:
+
+• Time – Will the effort enable the Joint Force Trainer to prepare and execute training more timely than current capabilities allow?
+• Cost – Will the effort enable the Joint Force Trainer to prepare and execute training at a more effective and efficient cost than current capabilities allow?
+• Realism – Will the effort enable the Joint Force Trainer to create a training environment that is closer to the real world environment than current capabilities allow?
+• Fidelity – Will the effort enable the Joint Force Trainer to create more detailed capabilities in the training environment than current capabilities allow?
+
+Measures:
+• JTLS and JCATS availability in use for support of Service, Combatant Command, agency, and Coalition training activities is above 95%.
+• Enhance joint model and simulation capabilities to meet 65% of Combatant Command training requirements in hybrid threats and Anti-Access/Area-Denial functional areas.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>769</r2:ProjectNumber>
+                <r2:ProjectTitle>Joint Knowledge Development &amp; Distribution Capability (JKDDC)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>12.981</r2:AllPriorYears>
+                    <r2:PriorYear>3.811</r2:PriorYear>
+                    <r2:CurrentYear>3.867</r2:CurrentYear>
+                    <r2:BudgetYearOne>3.210</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>3.210</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>4.482</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>4.329</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>4.108</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>4.108</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>Joint Knowledge Development &amp; Distribution Capability (JKDDC) Joint Knowledge Online (JKO) is the DoD unique and authoritative source for online joint training.  JKDDC JKO is tasked to develop a Joint Individual Training Toolkit of web-enabled individual and small group training products and services.  Products and services are developed in response to OSD(P&amp;R) CE2T2 Program Goals &amp; Objectives guidance, CJCS High Interest Training Issues, Joint Staff J7 training priorities, and JKDDC JKO Stakeholder (Combatant Commands, Services, and Combat Support Agencies) prioritized training requirements.  JKDDC JKO supports a career-long joint learning continuum, joint professional military education, and tailored common training standards to Service members for tasks that are jointly executed, resulting in trained, capable, and interoperable joint forces.  JKO research and development will improve:  
+
+•  JKO Learning Content Management System (LCMS): Development and enhancement is required to host and deliver JKO courses and track/report students’ completions more effectively and efficiently.
+•  Small Group Scenario Trainer (SGST) desktop modeling and simulation based training: These capabilities train and prepare tens of thousands of military and civilian personnel deploying to Combatant Command theaters of operation prior to serving in their assigned Combined/Joint Task Force (C/JTF) billets. Specifically, C/JTF ‘battle staffs’ will be adequately trained, as individuals and the staffs collectively, based on SGST development and implementation throughout the joint training enterprise.  
+•  JKO mobile courseware training device development:  Development and enhancements facilitate the global distribution of web-based joint training content on portable, hand-held platforms (cell phones and tablets).</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Joint Knowledge Development &amp; Distribution Capability (JKDDC)</r2:Title>
+                            <r2:Description>JKDDC Joint Knowledge Online (JKO) advanced technology initiatives primarily include the JKO Learning Content Management System (LCMS) application, Small Group Scenario Trainer (SGST) desktop modeling and simulation based training capability, and mobile courseware training devices..  These capabilities facilitate the training and preparation of tens of thousands of military and civilian personnel deploying to Combatant Command (CCMD) theaters of operation prior to serving in their assigned Combined/Joint Task Force (C/JTF) billets.  Specifically, JKO LCMS development and enhancements are required to host and deliver JKO courses and track/report students’ completions more effectively and efficiently.  C/JTF “battle staffs” will be better trained, as individuals and the staffs collectively, based on SGST development and implementation throughout the joint training enterprise.  JKO mobile courseware training device development facilitates the global distribution of web-based joint training content on portable, hand-held platforms (cell phones and tablets) for DoD personnel.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.811</r2:Funding>
+                                    <r2:Text>• Developed, tested and delivered two JKO Learning Content Management System (LCMS) releases resulting in a more effective and efficient online training management application that is interoperable with DoD personnel management systems.  Requirements were derived from CCMD user feedback and DoD training priorities directed by DASD(R) for JKO to “develop content for pre-exercise training and support—as required by the Army, Marine Corps and supported GCCs—and support individual and unit training for REF/SP-MAGTF missions.”  These enhancements have improved the ease of use for the current ~30,000 daily log-ins and ~220,000 monthly course completions by DoD personnel.  Improvements to the JKO LCMS have directly benefited thousands of individuals by easing their requirement to complete mandatory joint individual web-based training as a precursor to their participation in numerous CCMD exercise training events.  
+• Developed, tested, and delivered one JKO Small Group Scenario Trainer (SGST) desktop modeling and simulation application release resulting in a more effective and efficient training capability integrated within the JKO Learning Content Management System (LCMS).  Updated product derived from CCMD user feedback providing a more effective and efficient training capability improving the OSD endorsed Blended Learning Training component of CCMD collective training exercises. The SGST was used to prepare individuals serving on CCMD required small functional teams and C/JTF ‘battle staffs’ in preparation for USTRANSCOM’s, USNORTHCOM’s, USSOUTHCOM’s, USPACOM’s and USEUCOM’s collective training exercises.  Individual training proficiency improvement was measured and quantified as a key component of the exercise design. DoD mandated information assurance network security enhancements were successfully integrated in the release.  
+• Assessed, refined, and continued executing JKO’s comprehensive plan to develop mobile training device capabilities focused on JKO’s entire Joint Individual Training Toolkit.  Plan components included existing JKO courseware conversion to portable, hand-held devices (cell phones and tablets), emerging FY 2015 training courseware requirements interoperable with portable, hand-held devices (cell phones and tablets), and the leveraging of other DoD agencies, interagency, and multinational training courseware ported to mobile training devices.  Developed, converted, tested, and delivered ~120 mobile training courses, eBooks, Podcasts, job aids, and videos.  OSD’s Transition Veteran’s Program Office benefited significantly in assisting military members transitioning to civilian life.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>3.867</r2:Funding>
+                                    <r2:Text>• Develop, test and deliver two JKO Learning Content Management System (LCMS) releases resulting in a more effective and efficient online training management application that is interoperable with DoD personnel management systems.  Requirements will be derived from CCMD user feedback and DoD training priorities directed by DASD(R) for JKO to “develop content for pre-exercise training and support—as required by the Army, Marine Corps and supported GCCs—and support individual and unit training for REF/SP-MAGTF missions.”  Anticipate these enhancements will improve the ease of use for the current ~35,000 daily log-ins and ~260,000 monthly course completions by DoD personnel.  Improvements to the JKO LCMS will directly benefit thousands of individuals by easing their requirement to complete mandatory joint individual web-based training as a precursor to their participation in numerous CCMD exercise training events.  
+• Develop, test, and deliver one JKO Small Group Scenario Trainer (SGST) desktop modeling and simulation application release resulting in a more effective and efficient training capability integrated within the JKO Learning Content Management System (LCMS).  Anticipate these enhancements will improve the quality of the training experience for CCMD exercise participants.  The SGST will be used as part of the OSD endorsed Blended Learning Training component in approximately six CCMD collective training exercises to prepare individuals serving on CCMD required small functional teams and C/JTF ‘battle staffs’.  Individual training proficiency improvement will be measured and quantified as part of the exercise design.
+• Assess, refine, and continue executing JKO’s comprehensive plan to develop mobile training device capabilities focused on JKO’s entire Joint Individual Training Toolkit.  Planned components include existing JKO courseware conversion to portable, hand-held devices, emerging FY 2016 training courseware requirements interoperable with portable, hand-held devices, and the leveraging of other DoD agencies, interagency, and multinational training courseware ported to mobile training devices. Anticipate the development or conversion of ~150 training courses, eBooks, Podcasts, job aids, and videos resulting in tens of thousands of hours spared for DoD personnel required to take this training.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>3.210</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>3.210</r2:Funding>
+                                    <r2:Text>• Develop, test and deliver two JKO Learning Content Management System (LCMS) releases resulting in a more effective and efficient online training management application that is interoperable with DoD personnel management systems.  Requirements will be derived from CCMD user feedback and DoD training priorities directed by DASD(R) for JKO to “develop content for pre-exercise training and support—as required by the Army, Marine Corps and supported GCCs—and support individual and unit training for REF/SP-MAGTF missions.”  Anticipate these enhancements will improve the ease of use for the ~40,000 daily log-ins and ~300,000 monthly course completions by DoD personnel.  Improvements to the JKO LCMS will directly benefit thousands of individuals by easing their requirement to complete mandatory joint individual web-based training as a precursor to their participation in numerous CCMD exercise training events.  
+• Develop, test, and deliver one JKO Small Group Scenario Trainer (SGST) desktop modeling and simulation application release resulting in a more effective and efficient training capability integrated within JKO Learning Content Management System (LCMS).  Anticipate these enhancements will improve the quality of the training experience for CCMD exercise participants.  The SGST will be used as part of the OSD endorsed Blended Learning Training component in approximately six CCMD collective training exercises to prepare individuals serving on CCMD required small functional teams and C/JTF ‘battle staffs’.  Individual training proficiency improvement will be measured and quantified as part of the exercise design.
+• Assess, refine, and continue executing JKO’s comprehensive plan to develop mobile training device capabilities focused on JKO’s entire Joint Individual Training Toolkit.  Planned components include existing JKO courseware conversion to portable, hand-held devices, emerging FY 2017 training courseware requirements interoperable with portable, hand-held devices, and the leveraging of other DoD agencies, interagency, and multinational training courseware ported to mobile training devices. Anticipate the development/conversion of ~150 training courses, eBooks, Podcasts, job aids, and videos resulting in tens of thousands of hours spared for DoD personnel required to take this training.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>0804767D8Z</r2:LineItem>
+                            <r2:Title>JKDDC O&amp;M Funding</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>6.031</r2:PriorYear>
+                                <r2:CurrentYear>6.038</r2:CurrentYear>
+                                <r2:BudgetYearOne>5.394</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>5.394</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>5.490</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>5.218</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>5.287</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>5.287</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:PerformanceMetrics>Joint Staff prescribed performance metrics include, but are not limited to; time, cost, realism, and fidelity as defined below:
+
+• Time – Will the effort enable the Joint Force Trainer to prepare and execute training more timely than current capabilities allow?
+• Cost – Will the effort enable the Joint Force Trainer to prepare and execute training at a more effective and efficient cost than current capabilities allow?
+• Realism – Will the effort enable the Joint Force Trainer to create a training environment that is closer to the real world environment than current capabilities allow?
+• Fidelity – Will the effort enable the Joint Force Trainer to create more detailed capabilities in the training environment than current capabilities allow?
+
+Measures:
+• Augment the ability to provide cultural context training for Combatant Command Joint Mission Essential Task functional areas by one geographic area of responsibility, and two mission areas per year.
+• Provide small group training focused on Joint Exercise Life Cycle specified mission areas for pre-requisite in exercise augmentation, or post exercise remediation training for three exercise response cells per year.
+• Add techniques to modify JKO software to automate certain courses to become more adaptive to the learner. 
+• Provide a systematic, steady-state process for integrating cultural context, small group training, and intelligent remediation requirements into the Joint Training System Phase I of the initiative, resulting in improved training and readiness for the warfighter.
+• Provide cost model for evaluating level of effort, additional conditions and standards for cultural context, small group training, and intelligent remediation to Joint Mission Essential Task training solutions for the Joint Training System Phase II, resulting in improved readiness, while providing improved training to the warfighter, will be in place by year five of the initiative.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>770</r2:ProjectNumber>
+                <r2:ProjectTitle>U.S. Forces Korea Training and Exercise Support</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>30.047</r2:AllPriorYears>
+                    <r2:PriorYear>3.861</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>0.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>0.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>0.000</r2:CostToComplete>
+                    <r2:TotalCost>33.908</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The U.S. Forces Korea (USFK) Training &amp; Exercise Support program develops simulations capable of satisfying all joint exercise training requirements in the Korean Theater of Operations.  Interoperability with the Republic of Korea-developed Korean Simulation System (KSIMS) is a critical and unique requirement of this USFK RDT&amp;E program.  This solution will be capable of interoperating in a common battle space that realistically represents the operating environment to all levels of training audiences -- tactical to strategic -- in Korean theater exercises.  While supporting USFK’s specific requirements, this solution will contain enhancements that will benefit other combatant commander training programs that use the aging Joint, Live, Virtual, and Constructive (JLVC) simulations and the emerging JTSE (previously JLVC 2020) simulations.  FY 2015 is the last year for dedicated funding within the overall program.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>USFK Training &amp; Exercise</r2:Title>
+                            <r2:Description>This program provides Joint Training Environment support to the 2015 stand-up of KORCOM as a sub-unified command under USPACOM.  This program develops a jointly accredited, supported, and funded federation of constructive models and simulations which are capable of satisfying all joint exercise training requirements in the Korean Theater of Operations (and which is interoperable with KSIMS).  While supporting U.S. Forces Korea specific training requirements, this solution is inextricably linked to the JTSE modeling and simulation capability via Cloud-Enabled Modular Services.  This will provide a common, interoperable simulated battlespace which realistically represents the operating environment to all levels of training audiences (tactical to strategic) in Korean theater exercises and across the Combatant Commands, Services, and coalition Partners.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>3.861</r2:Funding>
+                                    <r2:Text>• Continued to enhance Army, Air Force, Navy, and Marine Corps Live, Virtual, and Constructive capabilities and fully integrate these into the JTSE modeling and simulation capability to meet USFK theater specific, Combatant Command, Service, and Coalition training requirements.
+• Invested in technology necessary to address Korean/U.S. modeling and simulation interoperability challenges and joint training requirements on Peninsula.  Efforts supported Joint/Service modeling and simulation with ROK modeling and simulation capable of supporting large (e.g. > 1 million entities), high-intensity combat scenarios under a single integrating architecture for Joint Training.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>0804767D8Z</r2:LineItem>
+                            <r2:Title>U.S. Forces Korea Training &amp; Exercise Proc</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>0.299</r2:PriorYear>
+                                <r2:CurrentYear>0.000</r2:CurrentYear>
+                                <r2:BudgetYearOne>0.000</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>0.000</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>0.000</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>0.000</r2:BudgetYearThree>
+                                <r2:CostToComplete>0.000</r2:CostToComplete>
+                                <r2:TotalCost>0.299</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:PerformanceMetrics>RDT&amp;E development efforts are evaluated based on performance metrics.  This ensures the development of Joint Force Trainer capabilities synchronizes with warfighter requirements.  Performance metrics include, but are not limited to; time, cost, realism, and fidelity as defined below:
+
+• Time – Will the effort enable the Joint Force Trainer to prepare and execute training more timely than current capabilities allow?
+• Cost – Will the effort enable the Joint Force Trainer to prepare and execute training at a more effective and efficient cost than current capabilities allow?
+• Realism – Will the effort enable the Joint Force Trainer to create a training environment that is closer to the real world environment than current capabilities allow?
+• Fidelity – Will the effort enable the Joint Force Trainer to create more detailed capabilities in the training environment than current capabilities allow?
+
+Measures:
+• Develop software for interoperability of JLVC versions along with initial integration of the Army’s Multi-Resolution Federation (MRF). Additionally, provide a validated approach for Cross Domain Information Sharing technologies and Korea Battle Simulation Center (KBSC) simulations to the joint training enterprise that meets USFK technical training requirements.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>701</r2:ProjectNumber>
+                <r2:ProjectTitle>Air Force Joint National Training Capability (JNTC)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>7.185</r2:AllPriorYears>
+                    <r2:PriorYear>2.339</r2:PriorYear>
+                    <r2:CurrentYear>2.701</r2:CurrentYear>
+                    <r2:BudgetYearOne>2.242</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>2.242</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>3.130</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>3.024</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>2.869</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>2.869</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>The Air Force JNTC funding provides a focused upgrade to develop models for space-based and cyber capabilities for integration into the Joint Live, Virtual, Constructive (JLVC) environment.  The Air Force supports development of cross-domain solutions that enable the integration of systems with disparate security requirements, and significantly increases the training audience to additional joint and coalition participants.  The Air Force supports the development of simulation integration making Air and Space capabilities available to the Joint community.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Air Force Joint National Training Capability (JNTC)</r2:Title>
+                            <r2:Description>The Air Force continues to develop joint enablers that drive realistic/effective training by producing a deployable Electronic Warfare training capability for Europe which replicates highly advanced Surface-to-Air Missiles and advance Anti-Aircraft Artillery threats for U.S. and coalition forces.  Additionally, the Air Force assists in the engineering, development, and deployment of Joint Cross Domain Information Sharing (JCDIS) Enterprise Network Architecture which will enable joint and coalition participants to train while protecting classified information.  Furthermore, the Air Force is creating cyber-contested environments in the distributed mission operations setting to challenge the joint exercise/training audience.  Finally, comprehensive space effects are being integrated into the Joint Live, Virtual, and Constructive (JLVC) federation of models.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>2.339</r2:Funding>
+                                    <r2:Text>•  Cyber Simulation:  Continued improving a LVC Cyber Simulator to train tactical cyber operators in offensive and defensive operations.  Continued modeling cyber effects on adversary networks for presenting the cyber effects for conventional forces through the ACE-IOS.
+•  Joint CDIS Enterprise Network Architecture: Continued to develop and engineer a persistent enterprise level CDIS network architecture to achieve maximum NATO, coalition, and agency participation in joint and service training events.
+•  ACE-IOS: Migrated the ACE-IOS to meet the new standards being developed for JLVC 2020.  Improved the efficiency of the ACE-IOS through performance enhancing techniques and improved data generation capabilities.
+•  Simulation Integration:  Integrated the mission training simulators for the Predator/Reaper Unmanned Aerial System platforms into the Distributed Mission Operation federation of simulators.
+•  Space Simulations: Improved Space simulation capabilities in the GPS and infrared sensor representations in the ACE-IOS.  Enhanced the capability to incorporate top secret data into the simulation capabilities.
+•  Exercise Debrief Capabilities: Ported the Live Venue Common Operation Picture to support exercise Angel Thunder.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.701</r2:Funding>
+                                    <r2:Text>•  Space and Cyber Simulation: Continue to develop the cyber capabilities and migrate these capabilities to the JLVC 2020 standards. 
+•  Joint CDIS Enterprise Network Architecture: Continue to develop and engineer a persistent enterprise level CDIS network.
+•  ACE-IOS: Continue to improve the efficiency of the ACE-IOS through training solutions supporting Collaborative Planning, Cost, AAR and Metrics/ROI for Joint Training.
+•  Simulation Integration:  Improve the VIRTUAL FLAG Intelligence, Surveillance, and Reconnaissance/Battle Damage Assessment.
+•  Space Simulations: Continue to improve Space simulation capabilities in the GPS and infrared sensor representations in the ACE-IOS.  Continue to enhance the capability to incorporate top secret data into the simulation capabilities. Enhance the Command and Control capability of the space simulations.
+•  Exercise Debrief Capabilities: Continue porting the Live Venue Common Operation Picture to support live exercises.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>2.242</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>2.242</r2:Funding>
+                                    <r2:Text>•  Cyber Simulation:  Continue improving a LVC Cyber Simulator.
+•  Joint CDIS Enterprise Network Architecture: Continue to develop and engineer a persistent enterprise level CDIS network.
+•  ACE-IOS: Migrate the ACE-IOS to meet the new standards being developed for JLVC 2020.
+•  Space Simulations: Improve Space simulation capabilities in the GPS and infrared sensor representations in the ACE-IOS.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>0804767D8Z</r2:LineItem>
+                            <r2:Title>Air Force JNTC O&amp;M Funding</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>12.043</r2:PriorYear>
+                                <r2:CurrentYear>10.514</r2:CurrentYear>
+                                <r2:BudgetYearOne>9.636</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>9.636</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>9.729</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>9.673</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>9.821</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>9.821</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:PerformanceMetrics>RDT&amp;E development efforts are evaluated based on performance metrics.  This ensures the development of Joint Force Trainer capabilities synchronize with warfighter requirements.  Performance metrics include, but are not limited to; time, cost, realism, and fidelity as defined below:
+
+• Time – Will the effort enable the Joint Force Trainer to prepare and execute training more timely than current capabilities allow?
+• Cost – Will the effort enable the Joint Force Trainer to prepare and execute training at a more effective and efficient cost than current capabilities allow?
+• Realism – Will the effort enable the Joint Force Trainer to create a training environment that is closer to the real world environment than current capabilities allow?
+• Fidelity – Will the effort enable the Joint Force Trainer to create more detailed capabilities in the training environment than current capabilities allow?
+
+Measures:
+• Cyber: Establish a persistent simulation environment that can be configured rapidly and accurately to reflect the desired operating environment of the training audience.  Also, create an ability to reflect cyber activities against a live Integrated Air Defense system.
+• Joint CDIS Enterprise Network Architecture: develop Joint Cross Domain Information Sharing (JCDIS) Enterprise Network Architecture which provides a persistent, enterprise-level, government off-the-shelf (GOTS) CDIS architecture to achieve maximum joint/coalition and agency participation in joint training events.  This effort will provide a native live, virtual, constructive, protocol-based, lower-cost, higher performance, and non-proprietary capability currently lacking in the JLVC training environment.
+•  ACE-IOS: The Air Force's Air, Space, and Cyber Constructive Environment (ASCCE) suite of LVC models are modified to fully integrate with Joint Staff - J7's JLVC 2020 LVC models.
+• Space: a fully operational GPS environment which allows space operators to actively participate in Distributed Mission Operations-Space LVC missile warning, GPS disruption and Infrared special events.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>772</r2:ProjectNumber>
+                <r2:ProjectTitle>Navy Joint National Training Capability (JNTC)</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>11.611</r2:AllPriorYears>
+                    <r2:PriorYear>2.248</r2:PriorYear>
+                    <r2:CurrentYear>2.825</r2:CurrentYear>
+                    <r2:BudgetYearOne>2.345</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>2.345</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>3.318</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>3.205</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>3.042</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>3.042</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>These funds enable the Navy to develop unique maritime capabilities that integrate Joint Live, Virtual, and Constructive (JLVC) elements into a seamless joint training environment. The Navy program activities include conducting research, development, test and evaluation, and cross-service architecture certification on joint-capable systems.  Additionally, the program develops cross-domain architectures for U.S. and Coalition Forces and ensures sister service modeling/simulation and instrumentation efforts follow a unified standard.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Navy Joint National Training Capability (JNTC)</r2:Title>
+                            <r2:Description>Develops unique maritime capabilities that integrate Joint Live, Virtual, and Constructive (JLVC) elements into a seamless joint training environment.  Using a scientific and phased approach that focuses on modeling ground, air, space, and maritime capabilities, this program researches new technology and methods that provide a crucial technology-based foundation that supports all JNTC Training Transformation (T2), JLVC Federation, and Combatant Commanders Exercise and Engagement (CE2) operations.</r2:Description>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>2.248</r2:Funding>
+                                    <r2:Text>• Ensured alignment of Navy LVC training standards with JLVC training standards.
+• Sustained with minor enhancements the ballistic missile defense models in support of Aegis Ashore Team Trainer (AATT) and EUCOM/CENTCOM exercise requirements.
+• Sustained with minor enhancements maritime models in support of Coalition Partner nation capabilities.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>2.825</r2:Funding>
+                                    <r2:Text>• Continue alignment of Navy LVC training standards with JLVC training standards.
+• Conduct research and development of integrated capabilities between Navy tactical training ranges and synthetic training capabilities in support of Navy LVC efforts.
+• Conduct limited research and development of combat identification training simulation as an enabler for spectrum operations in support of the information warfare commander (IWC).
+• Minimal exploration of technologies to enable Integrated Air and Missile Defense (IAMD) and other combined warfare area and joint training with coalition partners in the Pacific Fleet (PACFLT) Area of
+  Responsibility including Japan, Korea and Australia.
+• Continue collaborative development with Service and Agency partners to improve the realism and relevancy of tactical to operational level of war training capabilities.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>2.345</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>2.345</r2:Funding>
+                                    <r2:Text>• Continue alignment of Navy LVC training standards with JLVC training standards to include with research of integrated standards with USMC’s Aviation Distributed Virtual Training Environment (ADVTE).
+• Prototype and develop of integrated capabilities between Navy tactical training ranges and synthetic training capabilities in support of Navy LVC efforts.
+• Accelerate research and development of combat identification training simulation as an enabler for spectrum operations in support of the information warfare commander (IWC).
+• Accelerate exploration of technologies to enable Integrated Air and Missile Defense (IAMD) and other combined warfare area and joint training with coalition partners in the Pacific Fleet (PACFLT) Area of 
+  Responsibility including Japan, Korea and Australia.
+• Continue collaborative development with Service and Agency partners to improve the realism and relevancy of tactical to operational level of war training capabilities.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>0804767D8Z</r2:LineItem>
+                            <r2:Title>Navy JNTC O&amp;M Funding</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>6.992</r2:PriorYear>
+                                <r2:CurrentYear>7.877</r2:CurrentYear>
+                                <r2:BudgetYearOne>7.770</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>7.770</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>7.818</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>7.784</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>7.898</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>7.898</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:AcquisitionStrategy>N/A</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>RDT&amp;E development efforts are evaluated based on performance metrics.  This ensures the Joint Force Trainer capabilities development effort synchronizes with warfighter requirements.  Performance metrics include, but are not limited to; time, money, realism, and fidelity as defined below:
+
+• Time – Will the effort enable the Joint Force Trainer to prepare and execute training more timely than current capabilities allow?
+• Cost – Will the effort enable the Joint Force Trainer to prepare and execute training at a more effective and efficient cost than current capabilities allow?
+• Realism – Will the effort enable the Joint Force Trainer to create a training environment that is closer to the real world environment than current capabilities allow?
+• Fidelity – Will the effort enable the Joint Force Trainer to create more detailed capabilities in the training environment than current capabilities allow?
+
+• The Navy will produce one Navy Training Baseline (NTB) software release to include documentation; will design and implement upgrades to Joint Semi-Automated Forces (JSAF) consistent with approved requirements and CRs and document the effects of JSAF capabilities (robustness) and stability.  Will design, implement, test, and integrate NTB enhancements in accordance with requirements.
+
+• For JSAF, Joint Simulation BUS (JBUS) reliability, scalability, and tactical control, the Navy will continuously update the Common Operational Picture (COP) during large scale JLVC exercises.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+            <r2:Project>
+                <r2:ProjectNumber>702</r2:ProjectNumber>
+                <r2:ProjectTitle>JCATS/JTLS</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:PriorYear>0.000</r2:PriorYear>
+                    <r2:CurrentYear>0.000</r2:CurrentYear>
+                    <r2:BudgetYearOne>0.976</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>0.976</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>1.106</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>1.068</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>1.000</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>1.000</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>JTLS/JCATS provides warfighters with joint simulations and analysis capabilities that enhance and enable Joint training across Services and CCMDs while maintaining partnership, collaboration and interoperability with our allies, coalition partners, federal agencies, and non­governmental organizations (NGO).  The overarching objective is to maximize users’ return on investment by providing a flexible, scalable, deployable or distributed low-cost training solution. JTLS and JCATS are critical enablers that support the delivery of trained, capable, and interoperable Joint Forces. 
+
+JCATS is a multi-sided, interactive high resolution, entity level, modeling and simulation tool:  
+• Supports 10 JS J7 exercises annually, integrating 3 NATO sites, and 30 partner nations   
+• JCATS is used at over 300 U.S. facilities and used for more than 2,000 DoD and DoE events per year
+• Provides modeling and simulation capabilities essential for NATO and the 30 foreign countries 
+JTLS is an interactive, multi-sided simulation with semi-automated forces used to support Joint Force, multi-level, multi-echelon training.  JTLS is theater and doctrine independent and models Joint air, land, naval, and special operations forces.  It contains a fully integrated Logistics and Intelligence modeling and reporting capability.
+• Sustains and improves the Joint Staff, J7 Joint Training Toolkit used for supported CCMD exercises: 5 to 7 JS J7 exercises annually; 4 to 6 annual USPACOM Theater Security Cooperation events; interoperability training for NATO and 20 partner nations 
+• Provides a low cost, distributed or deployable, web-based joint operational training M&amp;S capability with a small technical and operator footprint
+• Provides M&amp;S capabilities essential to NATO and Partnership-for-Peace program</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>Joint Theater Level Simulation / Joint Conflict and Tactical Simulation (JTLS/JCATS)</r2:Title>
+                            <r2:Description>JTLS/JCATS provides warfighters with joint simulations and analytical training solutions that enhance and enable Joint training across Services, CCMDs, Agencies, NATO and Coalition partners.  The JTLS and JCATS are critical enablers that support the delivery of trained, capable, and interoperable Joint Forces.</r2:Description>
+                            <r2:PlannedProgram>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.976</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.976</r2:Funding>
+                                    <r2:Text>•  Conduct research, development, testing and evaluation to ensure relevancy through the development of current foundational joint training capabilities vested in JCATS and JTLS and ensure DoD organizations and multi-national partners can train effectively with JTLS and JCATS.
+• Continue JTLS and JCATS development to maximize the use of innovative, low-cost approaches to address exercise and engagement requirements.
+• Conduct research, development, testing, and evaluation to ensure cyber security, shifting training priorities, address current and emerging training gaps, and C4I integration requirements are met.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:PerformanceMetrics>RDT&amp;E development efforts are evaluated based on performance metrics.  This ensures the Joint Force Trainer capabilities development effort synchronizes with warfighter requirements.  Performance metrics include, but are not limited to; time, money, realism, and fidelity as defined below:
+
+• Time – Will the effort enable the Joint Force Trainer to prepare and execute training more timely than current capabilities allow?
+• Cost – Will the effort enable the Joint Force Trainer to prepare and execute training at a more effective and efficient cost than current capabilities allow?
+• Realism – Will the effort enable the Joint Force Trainer to create a training environment that is closer to the real world environment than current capabilities allow?
+• Fidelity – Will the effort enable the Joint Force Trainer to create more detailed capabilities in the training environment than current capabilities allow?
+
+Measures
+• JTLS and JCATS availability in use for support of Service, CCMD, agency, and Coalition training activities is above 95 percent.
+• Enhance joint model and simulation capabilities to meet 65 percent of CCMD training requirements in hybrid threats and Anti-Access/Area-Denial functional areas.</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>

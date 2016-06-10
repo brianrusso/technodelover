@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r2:ProgramElementList xmlns:r2="http://www.dtic.mil/comptroller/xml/schema/022009/r2" targetSchemaVersion="1.0">
+    <r2:ProgramElement monetaryUnit="Millions" classification="UNCLASSIFIED">
+        <r2:ProgramElementNumber>1160405BB</r2:ProgramElementNumber>
+        <r2:ProgramElementTitle>Intelligence Systems Development</r2:ProgramElementTitle>
+        <r2:R1LineNumber>245</r2:R1LineNumber>
+        <r2:BudgetYear>2017</r2:BudgetYear>
+        <r2:BudgetCycle>PB</r2:BudgetCycle>
+        <r2:SubmissionDate>2016-02</r2:SubmissionDate>
+        <r2:ServiceAgencyName>United States Special Operations Command</r2:ServiceAgencyName>
+        <r2:AppropriationCode>0400</r2:AppropriationCode>
+        <r2:AppropriationName>Research, Development, Test &amp; Evaluation, Defense-Wide</r2:AppropriationName>
+        <r2:BudgetActivityNumber>7</r2:BudgetActivityNumber>
+        <r2:BudgetActivityTitle>Operational Systems Development</r2:BudgetActivityTitle>
+        <r2:ProgramElementFunding>
+            <r2:AllPriorYears>554.286</r2:AllPriorYears>
+            <r2:PriorYear>9.490</r2:PriorYear>
+            <r2:CurrentYear>6.866</r2:CurrentYear>
+            <r2:BudgetYearOne>7.958</r2:BudgetYearOne>
+            <r2:BudgetYearOneBase>7.958</r2:BudgetYearOneBase>
+            <r2:BudgetYearTwo>7.952</r2:BudgetYearTwo>
+            <r2:BudgetYearThree>7.813</r2:BudgetYearThree>
+            <r2:BudgetYearFour>7.953</r2:BudgetYearFour>
+            <r2:BudgetYearFive>8.099</r2:BudgetYearFive>
+            <r2:CostToComplete>Continuing</r2:CostToComplete>
+            <r2:TotalCost>Continuing</r2:TotalCost>
+        </r2:ProgramElementFunding>
+        <r2:ProgramElementMissionDescription>This program element is part of the Military Intelligence Program (MIP) that provides for the identification, development, and testing of Special Operations Forces (SOF) intelligence equipment to identify and eliminate deficiencies in providing timely intelligence to deployed forces. Sub-projects address the primary areas of intelligence dissemination, sensor systems, tagging, tracking, and locating devices, integrated threat warning to SOF mission platforms, and tactical exploitation of national system capabilities.  USSOCOM has developed an overall strategy to ensure that Command, Control, Communications, Computers, and Intelligence (C4I) systems continue to provide SOF with the required capabilities into the 21st century.  USSOCOM's C4I systems comprise an integrated network of systems providing positive command and control and timely exchange of intelligence and threat warning to all organizational echelons.  The C4I systems that support this new architecture employ the latest standards and technology by transitioning from separate systems to full integration with the Global Information Grid (GIG).  The GIG allows SOF elements to operate with any force combination in multiple environments.</r2:ProgramElementMissionDescription>
+        <r2:ChangeSummary>
+            <r2:PreviousPresidentBudget>
+                <r2:PriorYear>9.490</r2:PriorYear>
+                <r2:CurrentYear>6.866</r2:CurrentYear>
+                <r2:BudgetYearOne>6.969</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>6.969</r2:BudgetYearOneBase>
+            </r2:PreviousPresidentBudget>
+            <r2:CurrentPresidentBudget>
+                <r2:PriorYear>9.490</r2:PriorYear>
+                <r2:CurrentYear>6.866</r2:CurrentYear>
+                <r2:BudgetYearOne>7.958</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>7.958</r2:BudgetYearOneBase>
+            </r2:CurrentPresidentBudget>
+            <r2:TotalAdjustments>
+                <r2:PriorYear>0.000</r2:PriorYear>
+                <r2:CurrentYear>0.000</r2:CurrentYear>
+                <r2:BudgetYearOne>0.989</r2:BudgetYearOne>
+                <r2:BudgetYearOneBase>0.989</r2:BudgetYearOneBase>
+            </r2:TotalAdjustments>
+            <r2:AdjustmentDetails>
+                <r2:OtherAdjustmentDetailList>
+                    <r2:OtherAdjustmentDetail>
+                        <r2:Title>Other Adjustments</r2:Title>
+                        <r2:Funding>
+                            <r2:BudgetYearOne>0.989</r2:BudgetYearOne>
+                            <r2:BudgetYearOneBase>0.989</r2:BudgetYearOneBase>
+                        </r2:Funding>
+                    </r2:OtherAdjustmentDetail>
+                </r2:OtherAdjustmentDetailList>
+            </r2:AdjustmentDetails>
+            <r2:SummaryExplanation>Funding: 
+
+FY 2015:  None.
+
+FY 2016:  None.
+
+FY 2017:  Net increase of $0.989 million funds Joint Threat Warning System’s ($0.889 million) Air, Ground Signal Intelligence Kit, Maritime and Unmanned Air System variants' development to address emerging threats with evolutionary technology insertions and developmental and operational testing.  The Special Operations Forces Planning, Rehearsal and Execution Preparation (SOFPREP) program ($0.160 million) will fund test and evaluation of operational prototype systems to speed production of enhanced Geospatial Intelligence (GEOINT) and high-resolution 3D terrain databases, and a decrease for Departmental economic assumption (-$0.060 million).
+
+Schedule:  None.  
+
+Technical:  None.</r2:SummaryExplanation>
+        </r2:ChangeSummary>
+        <r2:ProjectList>
+            <r2:Project>
+                <r2:ProjectNumber>S400</r2:ProjectNumber>
+                <r2:ProjectTitle>SO Intelligence Systems</r2:ProjectTitle>
+                <r2:SpecialProject>0</r2:SpecialProject>
+                <r2:ProjectFunding>
+                    <r2:AllPriorYears>554.286</r2:AllPriorYears>
+                    <r2:PriorYear>9.490</r2:PriorYear>
+                    <r2:CurrentYear>6.866</r2:CurrentYear>
+                    <r2:BudgetYearOne>7.958</r2:BudgetYearOne>
+                    <r2:BudgetYearOneBase>7.958</r2:BudgetYearOneBase>
+                    <r2:BudgetYearTwo>7.952</r2:BudgetYearTwo>
+                    <r2:BudgetYearThree>7.813</r2:BudgetYearThree>
+                    <r2:BudgetYearFour>7.953</r2:BudgetYearFour>
+                    <r2:BudgetYearFive>8.099</r2:BudgetYearFive>
+                    <r2:CostToComplete>Continuing</r2:CostToComplete>
+                    <r2:TotalCost>Continuing</r2:TotalCost>
+                </r2:ProjectFunding>
+                <r2:R2aExhibit>
+                    <r2:ProjectMissionDescription>This sub-project is part of the Military Intelligence Program (MIP).  Provides for the identification, development, and testing of Special Operations Forces (SOF) intelligence equipment to identify and eliminate deficiencies in providing timely intelligence to deployed forces.  Sub-projects address the primary areas of intelligence dissemination, sensor systems, tagging, tracking, and locating devices, integrated threat warning to SOF mission platforms, and tactical exploitation of national system capabilities.  The systems developed  and tested in this line item are National Systems Support to SOF (NSSS);  Joint Threat Warning System (JTWS);  Hostile Forces - Tagging, Tracking, and Locating (HF-TTL);  Special Operations Tactical Video System/Reconnaissance, Surveillance, and Target Acquisition (TVS/RSTA);  Special Operations Forces Planning, Rehearsal and Execution Preparation (SOFPREP);  Integrated Survey Program (ISP);  and Sensitive Site Exploitation (SSE).
+
+U.S. Special Operations Command (USSOCOM) has developed an overall strategy to ensure that Command, Control, Communications, Computers, and Intelligence (C4I) systems continue to provide SOF with the required capabilities throughout the 21st century.  USSOCOM's C4I systems comprise an integrated network of systems providing positive command and control and timely exchange of intelligence and threat warning to all organizational echelons.  The C4I systems that support this new architecture employ the latest standards and technology by transitioning from separate systems to full integration with the Global Information Grid (GIG).  The GIG allows SOF elements to operate with any force combination in multiple environments.  The intelligence programs funded in this project will meet annual emergent requirements and are grouped by the level of organizational element they support: Operational Element (Team) and Above Operational Element (Garrison).    
+
+OPERATIONAL ELEMENT (TEAM)    
+
+•   NSSS.  This program provides a research and development rapid prototyping program that functions as HQ SOCOM's Tactical Exploitation of National Capabilities (TENCAP) program.  NSSS improves the combat effectiveness of USSOCOM, its components, and the Theater Special Operations Commands by leveraging National Government Agency (NGA) and Service development efforts to provide innovative space-based intelligence systems technologies and enhancements, products and special communications capabilities to tactical SOF units to include Geospatial Intelligence, Signals Intelligence, Special Communications, and intelligence fusion, reporting, and dissemination.  NSSS efforts are characterized by rapid development, fielding and deployment, and focus on transitioning to SOCOM Programs of Records. These developmental efforts usually support SOCOM’s existing Military Intelligence Programs.  Focus items include:  Small Unmanned Aerial System Multi-Intelligence geo-location and targeting capabilities with a Rapid Reliable Targeting system that supports National Geospatial Agency (NGA) CAT1 level targeting, enhanced Geospatial Intelligence (GEOINT) processing capabilities by fusing Light Detection and Ranging with National Technical Means (NTM) and the Enhanced Image Rendering Tool, which allows sharing of NTM Imagery with coalition forces.  NSSS will also improve Signal Intelligence (SIGINT) capabilities by pursuing Joint Capabilities Integration and Development 4.x and follow-on compliant SIGINT capabilities, extending SOCOM’s cross-domain security infrastructure by adding unclassified sensors into theater net-centric geo-location architecture, improve detection of Low-Probability of Intercept and Low Probability of Detection signals, and automated radar characterizations that enhance tactical SOF capabilities to find, fix, monitor, and target assets using NTM.
+
+•   JTWS.  JTWS is a System of Systems (SoS) and is principally a SIGINT system; however, it can be used under Electronic Warfare and/or Cyber authorities if required.  The JTWS SoS enables the SOF Cryptologic Operator (SCO) to collect, process, locate and exploit threat communications signals of interest in order to provide timely, relevant, and responsive intelligence, cross-cueing, and threat avoidance information directly to the SOF Commanders.  The JTWS SoS is assembled in four variants (level 1): Ground SIGINT Kit variant, Maritime variant, Air variant and Unmanned Aerial System variant.  Each variant is further subdivided into a functional layer (level 2): Communications Intelligence, Electronic Intelligence, and Precision Geo-location (PGL) kits and an implementation layer (level 3) designed around the SCO mission environment and SOF platform specific requirements.
+
+•   HF-TTL.  This program utilizes a commodity procurement strategy to provide SOF warfighters with the necessary tools to find, fix, and finish terrorist networks through the emplacement of sophisticated tags and devices that feed into an integrated architecture.  HF-TTL provides Global Combatant Commanders and SOF operators with an immediate capability to tag, track, and locate people, things and activities.  The HF-TTL program provides actionable intelligence for SOF planners.  The mission sets are comprised of a mix of different classes of tags and their associated detection, interrogation, viewing, tracking, and communications systems that are fielded annually to SOF Components and Theater Special Operations Commands based upon dynamic and emergent SOF operational requirements.  
+
+•  TVS/RSTA.  This program provides SOF with critical Special Reconnaissance (SR) equipment that directly supports the planning and execution of SOF missions.  This capability allows the SOF warfighter to meet SOF SR mission requirements to find, fix, finish, exploit, analyze, and disseminate information of adversary’s movement, construct, identification, location; and associated things and activities.  TVS/RSTA provides Global Combatant Commanders and SOF operators with an immediate capability to visually and electronically acquire people, things, and activities and provides actionable intelligence for SOF planners and Commanders.  The program Family of Systems (FoS) consists of interoperable equipment to capture and transfer near-real-time ground-based, tactical day/night/reduced visibility, imagery, video, and electronic proximity and movement sensing, all capable of dissemination through SOF organic, global C4I, and commercial communications infrastructures.
+
+ABOVE OPERATIONAL ELEMENT (GARRISON) 
+
+• SOFPREP.  This program serves as the intelligence focal point for production of SOF enhanced GEOINT (maps, imagery, and terrain data) and 3D scene visualization databases. SOFPREP gathers, processes, exploits, disseminates and manages classified high resolution 3D databases and GEOINT data in support of SOF training, mission rehearsal and execution preparation systems. The program builds the SOF common geospatial environment and facilitates access to  authoritative source data to enable the rapid discovery, retrieval, and reuse of GEOINT data across SOF mission planning, operations, intelligence and modeling and simulation.  SOFPREP is a NGA-certified co-producer in support of time-sensitive SOF specific requirements. 
+
+•   ISP.  This program collects and produces current, detailed, tactical planning data to support military operations to counter threats against U.S. citizens, interests, and property located both domestic and overseas. ISP products are specifically tailored packages that provide operational information, as well as intelligence data for use by DOD and the U.S. Department of State to support operational planners for counter-terrorism operations, evacuations, and other rescue missions.
+
+•   SSE.  This program provides the capability to exploit personnel, documents, electronic data, material, and forensic evidence on sensitive sites/objectives.  Biometrics allows collection and transmission of unique, measurable biometric signatures from personnel, including live/latent fingerprints, iris patterns, and facial features.  It also provides a means to verify against and enroll subjects into the DOD authoritative database, and to query that database to support hold or release decisions. Forensic kits enable on-objective linking of events to specific persons through chemical analysis, latent fingerprints, cell phones and computer data analysis, and deoxyribonucleic acid collection. Exploitation Analysis Centers provide theater-level forensic laboratory capabilities for more in-depth exploitation of captured evidence.</r2:ProjectMissionDescription>
+                    <r2:AccomplishmentPlannedProgramList>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>NSSS</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.807</r2:Funding>
+                                    <r2:Text>Developed SOF-required prototype capabilities, primarily through leveraging current or developing technologies and assets in the Intelligence Community (IC), while coordinating with other SOCOM and IC Programs of Record for production and operational fielding of the successful capabilities.  Emphasized areas include Intelligence, Surveillance, and Reconnaissance (ISR) support for Tagging, Tracking, and higher-accuracy geo-locating hostile forces, as well as Friendly Force Tracking (FFT), especially in system-challenged environments.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.802</r2:Funding>
+                                    <r2:Text>Continue development of SOF-required prototype capabilities, primarily through leveraging current or developing technologies and assets in the IC, while coordinating with other SOCOM and IC Programs of Record for production and operational fielding of the successful capabilities.  Emphasize areas to include ISR support for Tagging, Tracking, and higher-accuracy geo-locating hostile forces, as well as FFT, especially in system-challenged environments.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.816</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.816</r2:Funding>
+                                    <r2:Text>Continues development of SOF-required prototype capabilities, primarily through leveraging current or developing technologies and assets in the IC, while coordinating with other SOCOM and IC Programs of Record for production and operational fielding of the successful capabilities.  Emphasizes areas to include ISR support for Tagging, Tracking, and higher-accuracy geo-locating hostile forces, as well as FFT, especially in system-challenged environments.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>JTWS</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>7.301</r2:Funding>
+                                    <r2:Text>Continued networking and testing within the JTWS SoS and continued spiral development for all variants.  Continued JTWS Maritime prototype development.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>4.317</r2:Funding>
+                                    <r2:Text>Continue networking and testing within the JTWS SoS and continues spiral development for all variants.  Continue JTWS Maritime prototype development.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>5.233</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>5.233</r2:Funding>
+                                    <r2:Text>Continues networking and testing within the JTWS SoS and continues spiral development for all variants.  Continues JTWS Maritime development and operational testing.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>HF-TTL</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.731</r2:Funding>
+                                    <r2:Text>Began specialized device modifications, integration and operational testing and evaluation.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.765</r2:Funding>
+                                    <r2:Text>Continue specialized device modifications, integration and operational testing and evaluation.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.801</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.801</r2:Funding>
+                                    <r2:Text>Continues specialized device modifications, integration and operational testing and evaluation.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>TVS/RSTA</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.373</r2:Funding>
+                                    <r2:Text>Continued integration/operational testing within the TVS/RSTA FoS for technology insertions of improved/downsized hardware/software configuration on all systems.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.377</r2:Funding>
+                                    <r2:Text>Continue integration/operational testing within the TVS/RSTA FoS for technology insertions of improved/downsized hardware/software configuration on all systems.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.385</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.385</r2:Funding>
+                                    <r2:Text>Continues integration/operational testing within the TVS/RSTA FoS for technology insertions of improved/downsized hardware/software configuration on all systems.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>SOFPREP</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.325</r2:Funding>
+                                    <r2:Text>Begin testing and evaluation of operational prototype systems to speed production of correlated high resolution 3D terrain databases in a Graphics Processing Unit (GPU) accelerated high performance computing architecture.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.439</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.439</r2:Funding>
+                                    <r2:Text>Continues testing and evaluation of operational prototype systems to speed production of correlated high resolution 3D terrain databases in a GPU accelerated high performance computing architecture.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>ISP</r2:Title>
+                            <r2:Accomplishment>
+                                <r2:PriorYear>
+                                    <r2:Funding>0.278</r2:Funding>
+                                    <r2:Text>Began development for the modernization of the ISP system to integrate with enterprise architecture and support the latest standards and technology.</r2:Text>
+                                </r2:PriorYear>
+                            </r2:Accomplishment>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.125</r2:Funding>
+                                    <r2:Text>Continue development for the modernization of the ISP system to integrate with enterprise architecture and support the latest standards and technology.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.127</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.127</r2:Funding>
+                                    <r2:Text>Continues development for the modernization of the ISP system to integrate with enterprise architecture and support the latest standards and technology.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                        <r2:AccomplishmentPlannedProgram>
+                            <r2:Title>SSE</r2:Title>
+                            <r2:PlannedProgram>
+                                <r2:CurrentYear>
+                                    <r2:Funding>0.155</r2:Funding>
+                                    <r2:Text>Begin specialized device integration and operational testing and evaluation.</r2:Text>
+                                </r2:CurrentYear>
+                                <r2:BudgetYearOne>
+                                    <r2:Funding>0.157</r2:Funding>
+                                </r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>
+                                    <r2:Funding>0.157</r2:Funding>
+                                    <r2:Text>Continues evaluation of new technologies, and formal testing to confirm operational effectiveness and suitability prior to fielding.</r2:Text>
+                                </r2:BudgetYearOneBase>
+                            </r2:PlannedProgram>
+                        </r2:AccomplishmentPlannedProgram>
+                    </r2:AccomplishmentPlannedProgramList>
+                    <r2:OtherProgramFundingSummaryList>
+                        <r2:OtherProgramFundingSummary>
+                            <r2:LineItem>PROC/020400INTL</r2:LineItem>
+                            <r2:Title>Intelligence Systems</r2:Title>
+                            <r2:Funding>
+                                <r2:PriorYear>86.837</r2:PriorYear>
+                                <r2:CurrentYear>93.009</r2:CurrentYear>
+                                <r2:BudgetYearOne>79.963</r2:BudgetYearOne>
+                                <r2:BudgetYearOneBase>79.963</r2:BudgetYearOneBase>
+                                <r2:BudgetYearTwo>82.054</r2:BudgetYearTwo>
+                                <r2:BudgetYearThree>73.445</r2:BudgetYearThree>
+                                <r2:BudgetYearFour>82.989</r2:BudgetYearFour>
+                                <r2:BudgetYearFive>92.509</r2:BudgetYearFive>
+                                <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                <r2:TotalCost>Continuing</r2:TotalCost>
+                            </r2:Funding>
+                        </r2:OtherProgramFundingSummary>
+                    </r2:OtherProgramFundingSummaryList>
+                    <r2:AcquisitionStrategy>•  NSSS introduces and integrates national systems capabilities into the SOF force structure and operations.  This is accomplished by partnering with existing IC programs of record to incorporate SOF mission requirements into current and developing technologies and assets.  This leveraging of funding increases national and commercial systems awareness, demonstrates the tactical utility of national systems and commercial data, tests technologies and evaluates operational concepts in biennial Joint Staff Special Projects, and allows for the transition of promising concepts and technologies to other SOF program office for execution.
+
+•  JTWS employs an evolutionary strategy to provide upgraded next generation technology insertions and to address the changing threat environment for all air, ground, maritime and unmanned air system variants.  Commercial and government agency sources will be leveraged for required certifications, functional and operational test and acceptance support. The contracting strategy uses a mixture of indefinite delivery/indefinite quantity contracts for Commercial off-the-shelf (COTS) procurement and new development only as necessary.
+
+•   HF-TTL utilizes a commodity procurement acquisition strategy to provide highly sophisticated TTL and close target audio/video devices capable of operating in various environments as needed to meet SOF operational requirements. Commercial and government agency sources will be leveraged for required certifications, device level modifications, integration, functional, and operational testing and evaluations.  
+
+•  TVS/RSTA employs an evolutionary strategy to incorporate the latest state of technology within its product line to provide upgraded next-generation technology insertion of commercial-off-the-shelf systems and address the changing threat environment to meet SOF reconnaissance and surveillance mission requirements.  Commercial and government agency sources will be leveraged for required certifications, system level integration, functional, and operational testing and evaluations. 
+
+•   SOFPREP employs an evolutionary strategy to insert emerging technologies for processing, exploitation and dissemination capabilities tailored to SOF user-defined mission requirements.  Commercial and government agency sources are leveraged for required certifications, system level integration, functional, and operational testing and evaluations.
+
+•   ISP employs an evolutionary strategy to insert emerging technologies for collection, processing, exploitation and dissemination capabilities tailored to SOF user-defined mission requirements.  Commercial and government agency sources are leveraged for required certifications, system level integration, functional, and operational testing and evaluations.
+
+•   SSE uses a commodity procurement acquisition strategy to provide next-generation technologies for collection, processing, exploitation and dissemination capabilities supporting SOF exploitation mission requirements.  Commercial and government agency sources are leveraged for required certifications, system level integration, functional, and operational testing and evaluations.</r2:AcquisitionStrategy>
+                    <r2:PerformanceMetrics>N/A</r2:PerformanceMetrics>
+                </r2:R2aExhibit>
+                <r2:R3Exhibit>
+                    <r2:CostCategoryGroupList>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Product Development</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>National Systems Support to SOF (NSSS)</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>14.873</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.542</r2:Amount>
+                                            <r2:AwardDate>2014-12</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.532</r2:Amount>
+                                            <r2:AwardDate>2015-12</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.541</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.541</r2:Amount>
+                                            <r2:AwardDate>2016-12</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Joint Threat Warning System (JTWS)-Air Increment 2</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>SPAWAR</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Charleston, SC</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>5.168</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.935</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.000</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.099</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.099</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>JTWS-Ground Sigint Kit (GSK), Inc 2</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>19.057</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.791</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.795</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.974</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.974</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>JTWS-Maritime</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>4.422</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>3.387</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.452</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.462</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.462</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>JTWS-All Variants</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.818</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.836</r2:Amount>
+                                            <r2:AwardDate>2014-10</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.637</r2:Amount>
+                                            <r2:AwardDate>2015-10</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.152</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.152</r2:Amount>
+                                            <r2:AwardDate>2016-10</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Integrated Survey Program</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.278</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.125</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.127</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.127</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Hostile Forces-Tagging Tracking, and Locating (HF-TTL)</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPFF</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.731</r2:Amount>
+                                            <r2:AwardDate>2015-04</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.484</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.516</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.516</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding - Completed Efforts</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>461.047</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>461.047</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Support</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>JTWS Variant Analysis - Naval Post-Graduate School (NPS)</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>NPS</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Monterey, CA</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.515</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.135</r2:Amount>
+                                            <r2:AwardDate>2015-01</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.137</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.169</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.169</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>JTWS-NSA Intern Support</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>NSA</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Ft Meade, MD</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.400</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.103</r2:Amount>
+                                            <r2:AwardDate>2015-04</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.105</r2:Amount>
+                                            <r2:AwardDate>2016-04</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.127</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.127</r2:Amount>
+                                            <r2:AwardDate>2017-04</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding - Completed Efforts</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>6.493</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>6.493</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Test and Evaluation</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>JTWS</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>JITC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>FT Huachuca, AZ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>4.680</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>1.114</r2:Amount>
+                                            <r2:AwardDate>2014-11</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>1.191</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>1.250</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>1.250</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Tactical Video System/ Reconnaissance, Surveillance, &amp; Target Acquisition</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>ATEC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>FT Huachuca, AZ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.367</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.373</r2:Amount>
+                                            <r2:AwardDate>2015-05</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.377</r2:Amount>
+                                            <r2:AwardDate>2016-06</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.385</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.385</r2:Amount>
+                                            <r2:AwardDate>2017-06</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>HF-TTL</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>ATEC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>FT Huachuca, AZ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.281</r2:Amount>
+                                            <r2:AwardDate>2015-11</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.285</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.285</r2:Amount>
+                                            <r2:AwardDate>2016-11</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Sensitive Site Exploitation</r2:Name>
+                                    <r2:FundingVehicle>MIPR</r2:FundingVehicle>
+                                    <r2:PerformingActivity>JITC</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>FT Huachuca, AZ</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.155</r2:Amount>
+                                            <r2:AwardDate>2015-12</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.157</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.157</r2:Amount>
+                                            <r2:AwardDate>2016-12</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Special Operations Forces Planning, Rehearsal &amp; Execution Preparation</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>FFP</r2:ContractType>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.325</r2:Amount>
+                                            <r2:AwardDate>2016-01</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.439</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.439</r2:Amount>
+                                            <r2:AwardDate>2017-01</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding - Completed Efforts</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>0.549</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>0.549</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                        <r2:CostCategoryGroup>
+                            <r2:Name>Management Services</r2:Name>
+                            <r2:CostCategoryItemList>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>NSSS Program Support</r2:Name>
+                                    <r2:ContractMethod>C</r2:ContractMethod>
+                                    <r2:ContractType>CPAF</r2:ContractType>
+                                    <r2:PerformingActivity>Jacobs</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Tampa, FL</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>5.218</r2:TotalPreviousYears>
+                                        <r2:PriorYear>
+                                            <r2:Amount>0.265</r2:Amount>
+                                            <r2:AwardDate>2015-05</r2:AwardDate>
+                                        </r2:PriorYear>
+                                        <r2:CurrentYear>
+                                            <r2:Amount>0.270</r2:Amount>
+                                            <r2:AwardDate>2016-05</r2:AwardDate>
+                                        </r2:CurrentYear>
+                                        <r2:BudgetYearOne>
+                                            <r2:Amount>0.275</r2:Amount>
+                                        </r2:BudgetYearOne>
+                                        <r2:BudgetYearOneBase>
+                                            <r2:Amount>0.275</r2:Amount>
+                                            <r2:AwardDate>2017-05</r2:AwardDate>
+                                        </r2:BudgetYearOneBase>
+                                        <r2:CostToComplete>Continuing</r2:CostToComplete>
+                                        <r2:TotalCost>Continuing</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                                <r2:CostCategoryItem>
+                                    <r2:Name>Prior Year Funding - Completed Efforts</r2:Name>
+                                    <r2:FundingVehicle>Various</r2:FundingVehicle>
+                                    <r2:PerformingActivity>Various</r2:PerformingActivity>
+                                    <r2:PerformingActivityLocation>Various</r2:PerformingActivityLocation>
+                                    <r2:Cost>
+                                        <r2:TotalPreviousYears>30.679</r2:TotalPreviousYears>
+                                        <r2:CostToComplete>0.000</r2:CostToComplete>
+                                        <r2:TotalCost>30.679</r2:TotalCost>
+                                    </r2:Cost>
+                                </r2:CostCategoryItem>
+                            </r2:CostCategoryItemList>
+                        </r2:CostCategoryGroup>
+                    </r2:CostCategoryGroupList>
+                </r2:R3Exhibit>
+                <r2:R4Exhibit>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>NSSS.tif</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>JTWS.tif</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>HF TTL.tif</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>Slide2.TIF</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>Slide3.TIF</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>ISP.tif</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                    <r2:ScheduleProfile>
+                        <r2:ImageFileName>SSE.tif</r2:ImageFileName>
+                    </r2:ScheduleProfile>
+                </r2:R4Exhibit>
+                <r2:R4aExhibit>
+                    <r2:SubProjectScheduleList>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>National Systems Support to SOF Participation in Space Technology Development and Integration</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>National System Support to SOF Participation in Space Technology Development and Integration</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Joint Threat Warning System</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Air Variant Development, Test and Evaluation</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Ground Sigint Kit Variant Development, Test and Evaluation</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Maritime Variant Development, Test and Evaluation</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Hostile Forces - Tagging, Tracking, and Locating</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Device Integration and Operational Testing</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Special Operations Tactical Video System</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>System Integration and Operational Testing</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>3</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Special Operations Forces Planning, Rehearsal &amp; Execution Preparation</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Operational Test and Evaluation</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Integrated Survey Program</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>Product Development</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>2</r2:Quarter>
+                                            <r2:Year>2015</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                        <r2:SubProjectSchedule>
+                            <r2:Title>Sensitive Site Exploitation</r2:Title>
+                            <r2:ScheduleDetailList>
+                                <r2:ScheduleDetail>
+                                    <r2:EventTitle>System Integration and Operational Testing</r2:EventTitle>
+                                    <r2:Schedule>
+                                        <r2:Start>
+                                            <r2:Quarter>1</r2:Quarter>
+                                            <r2:Year>2016</r2:Year>
+                                        </r2:Start>
+                                        <r2:End>
+                                            <r2:Quarter>4</r2:Quarter>
+                                            <r2:Year>2021</r2:Year>
+                                        </r2:End>
+                                    </r2:Schedule>
+                                </r2:ScheduleDetail>
+                            </r2:ScheduleDetailList>
+                        </r2:SubProjectSchedule>
+                    </r2:SubProjectScheduleList>
+                </r2:R4aExhibit>
+            </r2:Project>
+        </r2:ProjectList>
+    </r2:ProgramElement>
+</r2:ProgramElementList>
