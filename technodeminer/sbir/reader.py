@@ -1,10 +1,13 @@
-from openpyxl import load_workbook
-from fuzzywuzzy import fuzz, process
-from datetime import datetime
 from collections import Sequence
-from util import nonelessdict
+from datetime import datetime
 
-class SBIRS(Sequence):
+from fuzzywuzzy import process
+from openpyxl import load_workbook
+
+from technodeminer.util import nonelessdict
+
+
+class SBIRReader(Sequence):
 
     def __init__(self, filename):
         self.ws = self.get_iterator(filename)

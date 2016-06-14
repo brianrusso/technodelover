@@ -1,10 +1,12 @@
-import pytest, os
-from ..r2.model import R2
+import os
+import pytest
+
+from technodeminer.r2.model import R2
 
 
 @pytest.fixture
 def r2_file():
-    R2_FILE = os.path.join(os.getcwd(), 'tests/U_0607828J_7_PB_2017.xml')
+    R2_FILE = os.path.join(os.getcwd(), 'technodeminer/tests/U_0607828J_7_PB_2017.xml')
     obj = R2.from_file(R2_FILE)
     return obj
 
