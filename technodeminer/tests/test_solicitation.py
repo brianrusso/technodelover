@@ -1,11 +1,42 @@
 import pytest, os
-from technodeminer.solicitation.model import SolicitationReader
+from technodeminer.solicitation.model import HTMLSolicitationReader, OldHTMLSolicitationReader
 
 
 @pytest.fixture
+def solicitation_inst_old():
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/darpa141.htm')
+    obj_old = OldHTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj_old
+
+
+def test_objective_old(solicitation_inst_old):
+    assert solicitation_inst_old[0]['objective'] == "Identify and demonstrate a new material system with suitable"\
+                                                    " material properties to realize the advanced leading edges for"\
+                                                    " use in reusable or long flight time hypersonic vehicles."
+
+
+def test_solicitation_elem_count_old(solicitation_inst_old):
+    assert len(solicitation_inst_old) == 5
+
+
+def test_topic_old(solicitation_inst_old):
+    assert solicitation_inst_old[0]['topic'] == 'SB141-001'
+
+
+def test_title_old(solicitation_inst_old):
+    assert solicitation_inst_old[0]['title'] == 'Superconducting Nanowire Single-Photon Detectors'
+
+
+def test_keywords_old(solicitation_inst_old):
+    assert solicitation_inst_old[0]['keywords'] == ['Detectors', 'Single photon detectors',
+                                                    'Super conducting nanowire single photon detectors', 'WSi', 'NbN',
+                                                    'LIDAR', 'LADAR', 'Optical communications', 'Photon counting']
+
+# NEW FORMAT
+@pytest.fixture
 def solicitation_inst():
-    SOLICITATION_FILE = os.path.join(os.getcwd(), 'technodeminer/tests/darpa_sbir_16.1_1.html')
-    obj = SolicitationReader(SOLICITATION_FILE)
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/darpa_sbir_16.1_1.html')
+    obj = HTMLSolicitationReader.from_htmlfile(solicitation_file)
     return obj
 
 

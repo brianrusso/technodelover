@@ -1,9 +1,7 @@
 from collections import Sequence
 from datetime import datetime
-
 from fuzzywuzzy import process
 from openpyxl import load_workbook
-
 from technodeminer.util import nonelessdict
 
 
@@ -69,10 +67,13 @@ class SBIRReader(Sequence):
             rec['phase'] = record[headers['Phase']].value
             rec['program'] = record[headers['Program']].value  #SBIR/STTR
             rec['agency_num'] = record[headers['Agency Tracking #']].value
-            rec['contract'] = record[headers['Contract']].value  # contract number
-            try: rec['award_start_dt'] = datetime.strptime(record[headers['Award Start Date']].value, "%B %d, %Y")
+            try:
+                award_start_dt = datetime.strptime(record[headers['Award Start Date']].value, "%B %d, %Y")
+                rec['award_start_dt'] = award_start_dt.isoformat()
             except: pass
-            try: rec['award_close_dt'] = datetime.strptime(record[headers['Award Close Date']].value, "%B %d, %Y")
+            try:
+                award_close_dt = datetime.strptime(record[headers['Award Close Date']].value, "%B %d, %Y")
+                rec['award_close_dt'] = award_close_dt.isoformat()
             except: pass
             rec['solicitation_num'] = record[headers['Solicitation #']].value
             rec['solicitation_yr'] = record[headers['Solicitation Year']].value
@@ -82,5 +83,8 @@ class SBIRReader(Sequence):
             try: rec['keywords'] = record[headers['Research Keywords']].value.split(u",")
             except: pass
             rec['abstract'] = record[headers['Abstract']].value
-            records.append(rec)
+            # only add ones with contracts
+            if 'contract' in rec.keys():
+                records.append(rec)
+
         return records

@@ -10,7 +10,7 @@ def sbir_inst():
 
 
 def test_solicitation_elem_count(sbir_inst):
-    assert len(sbir_inst) == 407
+    assert len(sbir_inst) == 406
 
 
 def test_company(sbir_inst):
