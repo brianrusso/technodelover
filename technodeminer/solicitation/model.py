@@ -8,7 +8,8 @@ class OldHTMLSolicitationReader(Sequence):
     def __init__(self, tree):
         self.tree = tree
         self.elems = self.get_solicitation_elems()
-        self.solicitations = self.build_solicitations(self.elems)
+        self.solicitation_raw = self.build_solicitations_raw(self.elems)
+        self.solicitations = self.build_solicitations(self.solicitation_raw)
 
     @staticmethod
     def from_htmlfile(filename):
@@ -38,7 +39,24 @@ class OldHTMLSolicitationReader(Sequence):
         return (str.strip() == '')
 
     @staticmethod
+    def process_solicitation(solicitation):
+        sol = {}
+        for elem in solicitation:
+            if "TITLE:" in elem.text:
+                sol['topic'] = OldHTMLSolicitationReader.remove_nbsp(elem.text).split("TITLE:")[0].strip()
+                sol['title'] = elem.xpath('u')[0].text
+        return sol
+
+    @staticmethod
     def build_solicitations(elems):
+        solicitations = []
+        for elem in elems:
+            solicitations.append(OldHTMLSolicitationReader.process_solicitation(elem))
+        return solicitations
+
+
+    @staticmethod
+    def build_solicitations_raw(elems):
         solicitations = []
         solicitation = []
         for elem in elems:
