@@ -1,7 +1,14 @@
 import requests
 from collections import Sequence
 from lxml import html
-from technodeminer.util import nonelessdict
+from technodeminer.util import nonelessdict, remove_nbsp, remove_newlines
+
+
+def process_tech_area_str(str):
+    tech_areas = str.split(",")
+    tech_areas = [x.strip() for x in tech_areas]
+    return tech_areas
+
 
 # pre-~2014-ish
 class OldHTMLSolicitationReader(Sequence):
@@ -26,25 +33,19 @@ class OldHTMLSolicitationReader(Sequence):
         xpath = "//p/b/span[contains(.,'Topic Descriptions')]/ancestor::p/following-sibling::*"
         elems = self.tree.xpath(xpath)
         return elems
-        #[elem.xpath('span')[0].text for elem in elems]
-
-
-    @staticmethod
-    def remove_nbsp(str):
-        return str.replace(u'\xa0', u' ')
-
-    @staticmethod
-    def is_str_empty(str):
-        str = OldHTMLSolicitationReader.remove_nbsp(str)
-        return (str.strip() == '')
 
     @staticmethod
     def process_solicitation(solicitation):
         sol = {}
         for elem in solicitation:
             if "TITLE:" in elem.text:
-                sol['topic'] = OldHTMLSolicitationReader.remove_nbsp(elem.text).split("TITLE:")[0].strip()
+                sol['topic'] = remove_nbsp(elem.text).split("TITLE:")[0].strip()
                 sol['title'] = elem.xpath('u')[0].text
+            if elem.text.startswith("OBJECTIVE:"):
+                sol['objective'] = remove_newlines(elem.text[11:]).strip()
+            if elem.text.startswith("TECHNOLOGY AREAS:"):
+                tech_str = remove_newlines(elem.text).strip()
+                sol['tech_areas'] = process_tech_area_str(tech_str[18:])
         return sol
 
     @staticmethod
@@ -54,7 +55,8 @@ class OldHTMLSolicitationReader(Sequence):
             solicitations.append(OldHTMLSolicitationReader.process_solicitation(elem))
         return solicitations
 
-
+    # Basically we just go through all the elements until we find a KEYWORDS: which means its at the end
+    # Naturally this assumes KEYWORDS is mandatory and at the end. Is it? Who knows..
     @staticmethod
     def build_solicitations_raw(elems):
         solicitations = []
@@ -146,16 +148,10 @@ class HTMLSolicitationReader(Sequence):
 
 
     @staticmethod
-    def process_tech_area_str(str):
-        tech_areas = str[20:].split(",")
-        tech_areas = [x.strip() for x in tech_areas]
-        return tech_areas
-
-    @staticmethod
     def get_techareas(elem):
         try:
             tech_areas = elem.xpath("p[starts-with(.,'TECHNOLOGY AREA')]")[0].text
-            return HTMLSolicitationReader.process_tech_area_str(tech_areas)
+            return process_tech_area_str(tech_areas[20:])
         except IndexError:
             return None
 

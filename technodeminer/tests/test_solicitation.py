@@ -10,9 +10,11 @@ def solicitation_inst_old():
 
 
 def test_objective_old(solicitation_inst_old):
-    assert solicitation_inst_old[0]['objective'] == "Identify and demonstrate a new material system with suitable"\
-                                                    " material properties to realize the advanced leading edges for"\
-                                                    " use in reusable or long flight time hypersonic vehicles."
+    assert solicitation_inst_old[0]['objective'] == "To develop nanowire single-photon detectors of shortwave"\
+                                                    " infrared light with high system efficiency (>90%) and bandwidth" \
+                                                    " (~1 GHz), high fabrication yield, and with compact (~5U)" \
+                                                    " packaging and turnkey operation."
+
 
 
 def test_solicitation_elem_count_old(solicitation_inst_old):
@@ -31,6 +33,18 @@ def test_keywords_old(solicitation_inst_old):
     assert solicitation_inst_old[0]['keywords'] == ['Detectors', 'Single photon detectors',
                                                     'Super conducting nanowire single photon detectors', 'WSi', 'NbN',
                                                     'LIDAR', 'LADAR', 'Optical communications', 'Photon counting']
+
+
+def test_techareas_old(solicitation_inst_old):
+    assert solicitation_inst_old[0]['tech_areas'] == ['Sensors', 'Electronics']
+
+
+def test_references_old(solicitation_inst_old):
+    cite_str = u"A. Restelli et al., \"Single-photon detection efficiency up to 50% at 1310 nm with an InGaAs/InP" \
+               u" avalanche diode gated at 1.25 GHz,\" App. Phys. Lett. 102, 141104 (2013)."
+    assert solicitation_inst_old['references'][0] == cite_str
+
+
 
 # NEW FORMAT
 @pytest.fixture
@@ -51,7 +65,6 @@ def test_objective(solicitation_inst):
                                                 " respectively, and transfer these into cells with a transfection" \
                                                 " efficiency of at least 1%."
 
-
 def test_topic(solicitation_inst):
     assert solicitation_inst[0]['topic'] == 'SB161-001'
 
@@ -69,6 +82,6 @@ def test_techareas(solicitation_inst):
 
 
 def test_references(solicitation_inst):
-    cit_str = u"Kosuri, S. & Church, G. M. (2014). Large-scale de novo DNA synthesis: technologies and applications." \
+    cite_str = u"Kosuri, S. & Church, G. M. (2014). Large-scale de novo DNA synthesis: technologies and applications." \
               u" Nature Methods, 11(5), 499\u2013507. http://doi.org/10.1038/nmeth.2918"
-    assert solicitation_inst[0]['references'][0] == cit_str
+    assert solicitation_inst[0]['references'][0] == cite_str
