@@ -1,8 +1,8 @@
 import requests
 from collections import Sequence
 from lxml import html
-from technodeminer.util import nonelessdict, remove_nbsp, remove_newlines
-
+from technodeminer.util import nonelessdict, remove_nbsp, remove_newlines, is_str_empty
+import re
 
 def process_tech_area_str(str):
     tech_areas = str.split(",")
@@ -34,18 +34,64 @@ class OldHTMLSolicitationReader(Sequence):
         elems = self.tree.xpath(xpath)
         return elems
 
+    # this is so ugly
+    @staticmethod
+    def get_description(solicitation):
+
+        desc_started = False
+        desc_ended = False
+        desc_strings = []
+        for elem in solicitation:
+            if not desc_ended:
+                if elem.text.startswith(u"DESCRIPTION:"):
+                    desc_strings.append(elem.text[13:])
+                    desc_started = True
+                elif elem.text.startswith(u"REFERENCES:"):
+                    desc_ended = True
+                elif desc_started:
+                    desc_strings.append(elem.text)
+        desc_string = remove_newlines(u" ".join(desc_strings)).strip()
+        desc_string = desc_string.replace(u'\xa0',u'')
+        return re.sub(' +',' ',desc_string)
+
+    # this is so ugly
+    @staticmethod
+    def get_references(solicitation):
+        ref_started = False
+        ref_ended = False
+        ref_strings = []
+        for elem in solicitation:
+            if elem.text.startswith(u"REFERENCES:"):
+                ref_started = True
+            elif elem.text.startswith(u"KEYWORDS:"):
+                return ref_strings
+            elif ref_started:
+                if not is_str_empty(elem.text):
+                    this_ref = (elem.text).replace(u'\xa0', u'')
+                    this_ref = re.sub('^[0-9]+\.\s', u'', this_ref)
+                    ref_strings.append(this_ref.replace("\r\n"," "))
+        # some days i hate unicode
+        print ref_strings
+        return ref_strings
+
     @staticmethod
     def process_solicitation(solicitation):
         sol = {}
         for elem in solicitation:
-            if "TITLE:" in elem.text:
-                sol['topic'] = remove_nbsp(elem.text).split("TITLE:")[0].strip()
+            if u"TITLE:" in elem.text:
+                sol['topic'] = remove_nbsp(elem.text).split(u"TITLE:")[0].strip()
                 sol['title'] = elem.xpath('u')[0].text
-            if elem.text.startswith("OBJECTIVE:"):
+            if elem.text.startswith(u"OBJECTIVE:"):
                 sol['objective'] = remove_newlines(elem.text[11:]).strip()
-            if elem.text.startswith("TECHNOLOGY AREAS:"):
+            if elem.text.startswith(u"TECHNOLOGY AREAS:"):
                 tech_str = remove_newlines(elem.text).strip()
                 sol['tech_areas'] = process_tech_area_str(tech_str[18:])
+            if elem.text.startswith(u"KEYWORDS:"):
+                keyw_str = remove_newlines(elem.text).strip()
+                sol['keywords'] = process_tech_area_str(keyw_str[10:])
+        sol['description'] = OldHTMLSolicitationReader.get_description(solicitation)
+        sol['references'] = OldHTMLSolicitationReader.get_references(solicitation)
+        print sol['references']
         return sol
 
     @staticmethod
@@ -63,7 +109,7 @@ class OldHTMLSolicitationReader(Sequence):
         solicitation = []
         for elem in elems:
             solicitation += elem
-            if elem.xpath('span')[0].text.startswith("KEYWORDS: "):
+            if elem.xpath('span')[0].text.startswith(u"KEYWORDS: "):
                 solicitations.append(solicitation)
                 solicitation = [] # zero out
         return solicitations
@@ -184,7 +230,7 @@ class HTMLSolicitationReader(Sequence):
                 title = elem.xpath('div')[1].text
                 if title.startswith("OBJECTIVE"): # some are messed up like this, e.g. af161
                     sol['objective'] = title
-                    sol['tech_areas'] = self.process_tech_area_str(elem.xpath('div')[0].text)
+                    sol['tech_areas'] = process_tech_area_str(elem.xpath('div')[0].text)
                     sol['topic'] = "ERROR: Malformed Topic"
                     sol['title'] = "ERROR: Malformed Title"
                     broken_topic = True
