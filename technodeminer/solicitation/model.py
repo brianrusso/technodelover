@@ -9,29 +9,63 @@ def process_tech_area_str(str):
     tech_areas = [x.strip() for x in tech_areas]
     return tech_areas
 
-
 # pre-~2014-ish
 class OldHTMLSolicitationReader(Sequence):
-    def __init__(self, tree):
+    def __init__(self, tree, listing=None):
         self.tree = tree
         self.elems = self.get_solicitation_elems()
-        self.solicitation_raw = self.build_solicitations_raw(self.elems)
-        self.solicitations = self.build_solicitations(self.solicitation_raw)
+        self.solicitations_raw = self.build_solicitations_raw(self.elems)
+        self.solicitations = self.build_solicitations(self.solicitations_raw)
+        if listing:
+            self.merge_parent_listing_info(listing)
 
     @staticmethod
-    def from_htmlfile(filename):
+    def from_url(url, listing):
+        if url.startswith('http'):
+            return OldHTMLSolicitationReader.from_htmlurl(url, listing)
+        else:
+            return OldHTMLSolicitationReader.from_htmlfile(url, listing)
+
+    @staticmethod
+    def from_htmlfile(filename, listing=None):
         tree = html.parse(filename)
-        return OldHTMLSolicitationReader(tree)
+        return OldHTMLSolicitationReader(tree, listing)
 
     @staticmethod
-    def from_htmlurl(url):
+    def from_htmlurl(url, listing=None):
         resp = requests.get(url)
         tree = html.fromstring(resp.content)
-        return OldHTMLSolicitationReader(tree)
+        return OldHTMLSolicitationReader(tree, listing)
 
+    # blah.
     def get_solicitation_elems(self):
         xpath = "//p/b/span[contains(.,'Topic Descriptions')]/ancestor::p/following-sibling::*"
         elems = self.tree.xpath(xpath)
+        if len(elems) == 0:
+            xpath = "//p/b/span[contains(.,'Topic\nDescriptions')]/ancestor::p/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0:
+            xpath = "//p/b/span[contains(.,'TOPIC\nDESCRIPTIONS')]/ancestor::p/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0:
+            xpath = "//p/b/span[contains(.,'TOPIC DESCRIPTIONS')]/ancestor::p/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0:
+            xpath = "//h1[contains(.,'Topic Descriptions')]/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0:
+            xpath = "//p/span/b[contains(.,'Topic Descriptions')]/ancestor::p/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0:
+            xpath = "//h2/span[contains(.,'STTR TOPICS')]/ancestor::*/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0:
+            xpath = "//p/b/span[contains(.,'SBIR TOPICS')]/ancestor::*/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0:
+            xpath = "//p/b[contains(.,'STTR TOPIC DESCRIPTIONS')]/ancestor::*/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+
         return elems
 
     # this is so ugly
@@ -42,63 +76,74 @@ class OldHTMLSolicitationReader(Sequence):
         desc_ended = False
         desc_strings = []
         for elem in solicitation:
+
             if not desc_ended:
-                if elem.text.startswith(u"DESCRIPTION:"):
-                    desc_strings.append(elem.text[13:])
+                if elem.text_content().startswith(u"DESCRIPTION:"):
+                    desc_strings.append(elem.text_content()[13:])
                     desc_started = True
-                elif elem.text.startswith(u"REFERENCES:"):
+                elif elem.text_content().startswith(u"REFERENCES:"):
                     desc_ended = True
                 elif desc_started:
-                    desc_strings.append(elem.text)
+                    desc_strings.append(elem.text_content())
         desc_string = remove_newlines(u" ".join(desc_strings)).strip()
         desc_string = desc_string.replace(u'\xa0',u'')
-        return re.sub(' +',' ',desc_string)
+        desc_string = re.sub(' +',' ',desc_string)
+        desc_string = re.sub('\n',' ',desc_string)
+        return desc_string
 
     # this is so ugly
     @staticmethod
     def get_references(solicitation):
         ref_started = False
-        ref_ended = False
         ref_strings = []
         for elem in solicitation:
-            if elem.text.startswith(u"REFERENCES:"):
-                ref_started = True
-            elif elem.text.startswith(u"KEYWORDS:"):
-                return ref_strings
-            elif ref_started:
-                if not is_str_empty(elem.text):
-                    this_ref = (elem.text).replace(u'\xa0', u'')
-                    this_ref = re.sub('^[0-9]+\.\s', u'', this_ref)
-                    ref_strings.append(this_ref.replace("\r\n"," "))
+            try:
+                if elem.text_content().startswith(u"REFERENCES:"):
+                    ref_started = True
+                elif elem.text_content().startswith(u"KEYWORDS:"):
+                    return ref_strings
+                elif ref_started:
+                    if not is_str_empty(elem.text_content()):
+                        this_ref = (elem.text_content()).replace(u'\xa0', u'')
+                        this_ref = re.sub('^[0-9]+\.\s', u'', this_ref)
+                        ref_strings.append(this_ref.replace("\r\n"," "))
+            except Exception as e:
+                raise e
         # some days i hate unicode
-        print ref_strings
         return ref_strings
 
     @staticmethod
     def process_solicitation(solicitation):
         sol = {}
         for elem in solicitation:
-            if u"TITLE:" in elem.text:
-                sol['topic'] = remove_nbsp(elem.text).split(u"TITLE:")[0].strip()
-                sol['title'] = elem.xpath('u')[0].text
-            if elem.text.startswith(u"OBJECTIVE:"):
-                sol['objective'] = remove_newlines(elem.text[11:]).strip()
-            if elem.text.startswith(u"TECHNOLOGY AREAS:"):
-                tech_str = remove_newlines(elem.text).strip()
+
+            if u"TITLE:" in elem.text_content():
+                parts = elem.text_content().split(u"TITLE:")
+                if parts[0].startswith(u"TOPIC:"):
+                    topic_str = parts[0].split('TOPIC:')[1]
+                    sol['topic'] = remove_newlines(topic_str).strip()
+                else:
+                    sol['topic'] = remove_nbsp(parts[0]).strip()
+                sol['title'] = remove_newlines(" ".join(parts[1:]).strip())
+            elif elem.text_content().startswith(u"OBJECTIVE:"):
+                sol['objective'] = remove_newlines(elem.text_content()[11:]).strip()
+            elif elem.text_content().startswith(u"TECHNOLOGY AREAS:"):
+                tech_str = remove_newlines(elem.text_content()).strip()
                 sol['tech_areas'] = process_tech_area_str(tech_str[18:])
-            if elem.text.startswith(u"KEYWORDS:"):
-                keyw_str = remove_newlines(elem.text).strip()
+            elif elem.text_content().startswith(u"KEYWORDS:"):
+                keyw_str = remove_newlines(elem.text_content()).strip()
                 sol['keywords'] = process_tech_area_str(keyw_str[10:])
         sol['description'] = OldHTMLSolicitationReader.get_description(solicitation)
         sol['references'] = OldHTMLSolicitationReader.get_references(solicitation)
-        print sol['references']
         return sol
 
     @staticmethod
     def build_solicitations(elems):
         solicitations = []
         for elem in elems:
-            solicitations.append(OldHTMLSolicitationReader.process_solicitation(elem))
+            new_solicit = OldHTMLSolicitationReader.process_solicitation(elem)
+            if 'topic' in new_solicit:
+                solicitations.append(new_solicit)
         return solicitations
 
     # Basically we just go through all the elements until we find a KEYWORDS: which means its at the end
@@ -106,12 +151,22 @@ class OldHTMLSolicitationReader(Sequence):
     @staticmethod
     def build_solicitations_raw(elems):
         solicitations = []
-        solicitation = []
+        clean_end = False
+        this_solicitation = []
         for elem in elems:
-            solicitation += elem
-            if elem.xpath('span')[0].text.startswith(u"KEYWORDS: "):
-                solicitations.append(solicitation)
-                solicitation = [] # zero out
+            text_str = elem.text_content()
+            if text_str.startswith(u"KEYWORDS:"): # end marker
+                this_solicitation += elem
+                clean_end = True # hack?
+                solicitations.append(this_solicitation)
+                this_solicitation = []  # zero out
+            elif text_str.startswith(u"TOPIC:"): # we overshot
+                solicitations.append(this_solicitation)
+                this_solicitation = [elem] # prime next
+            else:
+                this_solicitation += elem
+        if not clean_end:
+            solicitations.append(this_solicitation)
         return solicitations
 
 
@@ -127,17 +182,31 @@ class OldHTMLSolicitationReader(Sequence):
         return iter(self.solicitations)
 
 
+    def merge_parent_listing_info(self, listing):
+        for solicitation in self.solicitations:
+            solicitation.update(listing)
+
+
 class HTMLSolicitationReader(Sequence):
-    def __init__(self, tree):
+    def __init__(self, tree, listing=None):
         self.tree = tree
         self.elems = self.get_solicitation_elems()
         # could do this lazily but they're so small why bother...
         self.solicitations = self.make_solicitations()
+        if listing:
+            self.merge_parent_listing_info(listing)
 
     @staticmethod
-    def from_htmlfile(filename):
+    def from_url(url, listing):
+        if url.startswith('http'):
+            return HTMLSolicitationReader.from_htmlurl(url, listing)
+        else:
+            return HTMLSolicitationReader.from_htmlfile(url, listing)
+
+    @staticmethod
+    def from_htmlfile(filename, listing=None):
         tree = html.parse(filename)
-        return HTMLSolicitationReader(tree)
+        return HTMLSolicitationReader(tree, listing)
 
     @staticmethod
     def from_htmlstr(str):
@@ -145,10 +214,10 @@ class HTMLSolicitationReader(Sequence):
         return HTMLSolicitationReader(tree)
 
     @staticmethod
-    def from_htmlurl(url):
+    def from_htmlurl(url, listing=None):
         resp = requests.get(url)
         tree = html.fromstring(resp.content)
-        return HTMLSolicitationReader(tree)
+        return HTMLSolicitationReader(tree, listing)
 
 
     def get_solicitation_elems(self):
@@ -192,7 +261,6 @@ class HTMLSolicitationReader(Sequence):
         except IndexError:
             return None
 
-
     @staticmethod
     def get_techareas(elem):
         try:
@@ -220,6 +288,13 @@ class HTMLSolicitationReader(Sequence):
         except IndexError:
             return None
 
+    def merge_parent_listing_info(self, listing):
+        for solicitation in self.solicitations:
+            solicitation.update(listing)
+
+
+
+
     def make_solicitations(self):
         broken_topic = False  # Not really a fan of this.. will refactor if we find more
         solicitations = list()
@@ -238,10 +313,13 @@ class HTMLSolicitationReader(Sequence):
                     sol['references'] = self.get_references(elem)
                     sol['description'] = self.get_description(elem)
                     sol['keywords'] = self.get_keywords(elem)
-                    if not broken_topic:
+                if not broken_topic:
+                    if title.startswith("TITLE:"):
                         sol['title'] = title[7:]
-                        sol['objective'] = self.get_objective(elem)
-                        sol['tech_areas'] = self.get_techareas(elem)
+                    else:
+                        sol['title'] = title
+                    sol['objective'] = self.get_objective(elem)
+                    sol['tech_areas'] = self.get_techareas(elem)
 
                     solicitations.append(sol)
         return solicitations

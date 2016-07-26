@@ -47,9 +47,10 @@ def load_sbir_contracts(graph):
     for contract in reader:
         graph.create_vertex("contracts", contract)
 
+
 if __name__ == '__main__':
     print "Connecting to arango"
     db = connect_to_arango()
     print "Getting graph"
     graph = build_collections(db)
-    load_sbir_contracts(graph)
+    #load_sbir_contracts(graph)

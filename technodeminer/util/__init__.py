@@ -10,7 +10,9 @@ def remove_nbsp(str):
     return str.replace(u'\xa0', u' ')
 
 def remove_newlines(str):
-    return str.replace("\r\n"," ")
+    str = str.replace("\r\n"," ")
+    return str.replace('\n',' ')
+
 
 def is_str_empty(str):
     str = remove_nbsp(str)

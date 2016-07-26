@@ -49,6 +49,14 @@ class SBIRReader(Sequence):
     def __iter__(self):
         return iter(self.records)
 
+    @staticmethod
+    def load_sbir_contracts(filename, graph):
+        # init sbir's
+        reader = SBIRReader(filename)
+        print "Loading contracts into arango"
+        for contract in reader:
+            graph.create_vertex("contracts", contract)
+
     def get_records(self):
         records = []
         headers = {}

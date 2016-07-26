@@ -2,12 +2,75 @@
 import pytest, os
 from technodeminer.solicitation.model import HTMLSolicitationReader, OldHTMLSolicitationReader
 
+@pytest.fixture
+def solicitation_inst_old6():
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/navy03.htm')
+    obj_old = OldHTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj_old
+
+@pytest.fixture
+def solicitation_inst_old5():
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/dtra041.htm')
+    obj_old = OldHTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj_old
+
+@pytest.fixture
+def solicitation_inst_old4():
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/dtra061.htm')
+    obj_old = OldHTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj_old
+
+@pytest.fixture
+def solicitation_inst_old3():
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/army922.htm')
+    obj_old = OldHTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj_old
+
+@pytest.fixture
+def solicitation_inst_old2():
+    solicitation_file = os.path.join(os.getcwd(),'technodeminer/tests/darpa133.htm')
+    obj_old = OldHTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj_old
 
 @pytest.fixture
 def solicitation_inst_old():
     solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/darpa141.htm')
     obj_old = OldHTMLSolicitationReader.from_htmlfile(solicitation_file)
     return obj_old
+
+
+def test_topic_old6(solicitation_inst_old6):
+    assert solicitation_inst_old6[0]['topic'] == u'N03-T001'
+
+def test_topic_len_old6(solicitation_inst_old6):
+    assert len(solicitation_inst_old6) == 26
+
+
+def test_topic_old5(solicitation_inst_old5):
+    assert solicitation_inst_old5[0]['topic'] == u'DTRA04-001'
+
+def test_topic_len_old5(solicitation_inst_old5):
+    assert len(solicitation_inst_old5) == 12
+
+def test_topic_old4(solicitation_inst_old4):
+    assert solicitation_inst_old4[0]['topic'] == u'DTRA06-001'
+
+def test_topic_len_old4(solicitation_inst_old4):
+    assert len(solicitation_inst_old4) == 13
+
+def test_topic_old2(solicitation_inst_old2):
+    assert solicitation_inst_old2[0]['topic'] == u'SB133-001'
+
+def test_topic_num_older_format(solicitation_inst_old3):
+    assert len(solicitation_inst_old3) == 177
+
+
+def test_topic_raw_len2(solicitation_inst_old2):
+    assert len(solicitation_inst_old2.solicitations_raw) == 5
+
+
+def test_topic_len2(solicitation_inst_old2):
+    assert len(solicitation_inst_old2) == 5
 
 
 def test_objective_old(solicitation_inst_old):
@@ -100,11 +163,40 @@ def test_description_old(solicitation_inst_old):
     assert solicitation_inst_old[0]['description'] == description_old_actual
 
 # NEW FORMAT
+
+
 @pytest.fixture
 def solicitation_inst():
     solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/darpa_sbir_16.1_1.html')
     obj = HTMLSolicitationReader.from_htmlfile(solicitation_file)
     return obj
+
+@pytest.fixture
+def solicitation_inst1():
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/army162.html')
+    obj = HTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj
+
+@pytest.fixture
+def solicitation_inst2():
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/af161.html')
+    obj = HTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj
+
+def test_topic_2(solicitation_inst2):
+    assert solicitation_inst2[0]['topic'] == 'AF161-001'
+
+def test_title_2(solicitation_inst2):
+    assert solicitation_inst2[0]['title'] == 'Rapid Expeditionary Fuel Reclamation'
+
+def test_topic_2a(solicitation_inst2):
+    assert solicitation_inst2[31]['topic'] == 'AF161-032'
+
+def test_title_2a(solicitation_inst2):
+    assert solicitation_inst2[31]['title'] == 'IRIG Data Recorder Validation'
+
+def test_title_1(solicitation_inst1):
+    assert solicitation_inst1[0]['title'] == 'Flexible Integrated Intelligent Network (FIIN) for Prognostics Health Management (PHM) Systems'
 
 
 def test_solicitation_elem_count(solicitation_inst):
