@@ -1,17 +1,30 @@
 from lxml import etree
+import json
+from technodeminer.persistence.graph import get_technode_graph, connect_to_arango
 
 
-class R2(object):
+def r2file_to_arango(filename, colname='r2_exhibits'):
+    this_r2 = R2.from_file(filename)
+    this_r2.to_arango()
+
+
+class R2(dict):
 
     @staticmethod
     def from_file(filename):
         tree = etree.parse(filename)
-        return R2(tree)
+        return R2(tree, filename)
 
     @staticmethod
     def from_str(str):
         tree = etree.fromstring(str)
         return R2(tree)
+
+    def to_arango(self, colname='r2_exhibits'):
+        db = connect_to_arango()
+        graph = get_technode_graph(db)
+        graph.create_vertex(colname, self)
+
 
     @staticmethod
     def build_projects(project_elements):
@@ -62,28 +75,35 @@ class R2(object):
         except AttributeError:
             return None
 
-    def __init__(self, tree):
+    def __init__(self, tree, url=None):
+        super(R2, self).__init__()
         self.root = tree.getroot()
-
         # singular* (should be anyway)
-        self.pe_num = self.get_penum()
-        self.pe_title = self.get_petitle()
-        self.byear = self.get_byear()
-        self.ap_code = self.get_ap_code()
-        self.ba_num = self.get_ba_num()
-        self.agency = self.get_agency()
-        self.program_desc = self.get_program_desc()
+        if url:
+            self['url'] = url
+        self['pe_num'] = self.get_penum()
+        self['pe_title'] = self.get_petitle()
+        self['byear'] = self.get_byear()
+        self['ap_code'] = self.get_ap_code()
+        self['ba_num'] = self.get_ba_num()
+        self['agency'] = self.get_agency()
+        self['program_desc'] = self.get_program_desc()
 
         # plural
-        self.projects = self.build_projects(self.root.findall(".//r2:Project", self.root.nsmap))
+        self['projects'] = self.build_projects(self.root.findall(".//r2:Project", self.root.nsmap))
 
-    def __repr__(self):
-        return self.pe_num + "(" + self.pe_title + ")"
+    #def __repr__(self):
+    #    return self.pe_num + "(" + self.pe_title + ")"
 
     # Return Program Description, and for each project: mission desc + each accomp + plan as string
     def get_text(self):
-        output = self.program_desc
-        for k, v in self.projects.iteritems():
+        output = self['program_desc']
+        for k, v in self['projects'].iteritems():
             output += v['mission_desc']
             output.join(v['accomp_planned'])
         return output
+
+
+    def to_json_file(self, filename):
+        with open(filename,'w') as fp:
+            json.dump(self, fp)

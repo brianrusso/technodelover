@@ -23,7 +23,6 @@ ANTI_LEECH_IN_SECONDS = 3
 
 
 def listing_to_graph(listing, graph, db):
-    #time.sleep(ANTI_LEECH_IN_SECONDS)
     contracts = db.col('contracts')
     try:
         reader = AgencyReader.get_solicitationreader(listing)

@@ -2,11 +2,11 @@ import os
 from lxml import etree
 
 def get_filenames(dir):
-    filenames = list()
+    out_filenames = []
     for root, dirs, filenames in os.walk(dir):
         for f in filenames:
-            filenames.append(f)
-    return filenames
+            out_filenames.append(os.path.join(root,f))
+    return out_filenames
 
 
 def strip_xml(filename):

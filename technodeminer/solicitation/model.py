@@ -37,32 +37,44 @@ class OldHTMLSolicitationReader(Sequence):
         tree = html.fromstring(resp.content)
         return OldHTMLSolicitationReader(tree, listing)
 
-    # blah.
-    def get_solicitation_elems(self):
-        xpath = "//p/b/span[contains(.,'Topic Descriptions')]/ancestor::p/following-sibling::*"
+    # blah. This could probably be refactored.
+    def get_solicitation_elems(self):  # p/b/span/Topic Descriptions
+        xpath = "//p/b/span[contains(normalize-space(.),'Topic Descriptions')]/ancestor::p/following-sibling::*"
         elems = self.tree.xpath(xpath)
-        if len(elems) == 0:
+        if len(elems) == 0: # p/b/span Topic\nDescriptions
+            xpath = "//h2[contains(normalize-space(.),'Topic Descriptions')]/ancestor::p/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0: # p/b/span Topic\nDescriptions
             xpath = "//p/b/span[contains(.,'Topic\nDescriptions')]/ancestor::p/following-sibling::*"
             elems = self.tree.xpath(xpath)
-        if len(elems) == 0:
+        if len(elems) == 0: # p/strong/span Topic Descriptions
+            xpath = "//p/strong/span[contains(normalize-space(.),'Topic Descriptions')]/ancestor::p/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0: # p/b/span Topic\nDescriptions
+            xpath = "//p/b/span[contains(.,'Topic\r\nDescriptions')]/ancestor::p/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0: # p/b/span/ + caps + nl
             xpath = "//p/b/span[contains(.,'TOPIC\nDESCRIPTIONS')]/ancestor::p/following-sibling::*"
             elems = self.tree.xpath(xpath)
-        if len(elems) == 0:
+        if len(elems) == 0: # p/b/span + caps
             xpath = "//p/b/span[contains(.,'TOPIC DESCRIPTIONS')]/ancestor::p/following-sibling::*"
             elems = self.tree.xpath(xpath)
-        if len(elems) == 0:
+        if len(elems) == 0: # h1 + regular case
             xpath = "//h1[contains(.,'Topic Descriptions')]/following-sibling::*"
             elems = self.tree.xpath(xpath)
-        if len(elems) == 0:
+        if len(elems) == 0: # p/span/b + regular case
             xpath = "//p/span/b[contains(.,'Topic Descriptions')]/ancestor::p/following-sibling::*"
             elems = self.tree.xpath(xpath)
-        if len(elems) == 0:
+        if len(elems) == 0: # h2/span + caps sttr
             xpath = "//h2/span[contains(.,'STTR TOPICS')]/ancestor::*/following-sibling::*"
             elems = self.tree.xpath(xpath)
-        if len(elems) == 0:
+        if len(elems) == 0: # h3/span + sttr
+            xpath = "//h3/span[contains(.,'STTR TOPIC DESCRIPTIONS')]/ancestor::*/following-sibling::*"
+            elems = self.tree.xpath(xpath)
+        if len(elems) == 0: # p/b/span + caps sbir
             xpath = "//p/b/span[contains(.,'SBIR TOPICS')]/ancestor::*/following-sibling::*"
             elems = self.tree.xpath(xpath)
-        if len(elems) == 0:
+        if len(elems) == 0: # p/b + caps sttr
             xpath = "//p/b[contains(.,'STTR TOPIC DESCRIPTIONS')]/ancestor::*/following-sibling::*"
             elems = self.tree.xpath(xpath)
 
@@ -222,8 +234,9 @@ class HTMLSolicitationReader(Sequence):
 
     def get_solicitation_elems(self):
         # this gives list of divs
-        xpath = "//div[preceding-sibling::comment()[. = ' begin-topic-desc ']]" \
-                     "[following-sibling::comment()[. = ' end-topic-desc ']]"
+#        xpath = "//div[preceding-sibling::comment()[. = ' begin-topic-desc ']]" \
+#                "[following-sibling::comment()[. = ' end-topic-desc ']]"
+        xpath = "//div[preceding-sibling::comment()[contains(.,'begin-topic-desc')]]"
         elems = self.tree.xpath(xpath)
         return elems[1:]  # first one is a header
 
@@ -292,36 +305,46 @@ class HTMLSolicitationReader(Sequence):
         for solicitation in self.solicitations:
             solicitation.update(listing)
 
-
+    @staticmethod
+    def strip_title(title):
+        if title.startswith("TITLE:"):
+            return title[7:].strip()
+        else:
+            return title.strip()
 
 
     def make_solicitations(self):
         broken_topic = False  # Not really a fan of this.. will refactor if we find more
+
         solicitations = list()
         for elem in self.elems:
+            title = None
+            sol = nonelessdict()
             if len(elem.xpath('div')) > 0:
-                sol = nonelessdict()
-                sol['topic'] = elem.xpath('div')[0].text
-                title = elem.xpath('div')[1].text
-                if title.startswith("OBJECTIVE"): # some are messed up like this, e.g. af161
-                    sol['objective'] = title
-                    sol['tech_areas'] = process_tech_area_str(elem.xpath('div')[0].text)
-                    sol['topic'] = "ERROR: Malformed Topic"
-                    sol['title'] = "ERROR: Malformed Title"
-                    broken_topic = True
-                if not any(s in title for s in ["has been removed","has been deleted"]):
+                sol['topic'] = elem.xpath('div')[0].text_content()
+                title = elem.xpath('div')[1].text_content()
+            elif len(elem.xpath('table/tr/td')) >0:  # try the table version, e.g. darpa153-dp2.html
+                sol['topic'] = elem.xpath('table/tr/td')[0].text_content().strip()
+                title = elem.xpath('table/tr/td')[1].text_content().strip()
+#                if title.startswith("OBJECTIVE"): # some are messed up like this, e.g. af161
+#                    sol['objective'] = title
+#                    sol['tech_areas'] = process_tech_area_str(elem.xpath('div')[0].text)
+#                    sol['topic'] = "ERROR: Malformed Topic"
+#                    sol['title'] = "ERROR: Malformed Title"
+#                    broken_topic = True
+            if title:
+                if any(s in title for s in ["has been removed", "has been deleted"]):
+                    pass
+                else:
                     sol['references'] = self.get_references(elem)
                     sol['description'] = self.get_description(elem)
                     sol['keywords'] = self.get_keywords(elem)
-                if not broken_topic:
-                    if title.startswith("TITLE:"):
-                        sol['title'] = title[7:]
-                    else:
-                        sol['title'] = title
+                    sol['title'] = self.strip_title(title)
                     sol['objective'] = self.get_objective(elem)
                     sol['tech_areas'] = self.get_techareas(elem)
-
                     solicitations.append(sol)
+
+
         return solicitations
 
 

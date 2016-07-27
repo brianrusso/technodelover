@@ -183,6 +183,32 @@ def solicitation_inst2():
     obj = HTMLSolicitationReader.from_htmlfile(solicitation_file)
     return obj
 
+@pytest.fixture
+def solicitation_inst3():
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/darpa161-dp2.html')
+    obj = HTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj
+
+@pytest.fixture
+def solicitation_inst4():
+    solicitation_file = os.path.join(os.getcwd(), 'technodeminer/tests/darpa153-dp2.html')
+    obj = HTMLSolicitationReader.from_htmlfile(solicitation_file)
+    return obj
+
+def test_topic_4(solicitation_inst4):
+    assert solicitation_inst4[0]['title'] == 'Soft Bio-Interfaces for Physiological Sensing and Modulation'
+
+def test_topic_len_4(solicitation_inst4):
+    assert len(solicitation_inst4) == 3
+
+
+
+def test_topic_3(solicitation_inst3):
+    assert solicitation_inst3[0]['title'] == 'Miniaturized Wireless Microscope and Tissue Diagnostics'
+
+def test_topic_len_3(solicitation_inst3):
+    assert len(solicitation_inst3) == 3
+
 def test_topic_2(solicitation_inst2):
     assert solicitation_inst2[0]['topic'] == 'AF161-001'
 
