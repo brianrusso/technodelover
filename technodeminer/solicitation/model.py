@@ -296,7 +296,10 @@ class HTMLSolicitationReader(Sequence):
         try:  # turns out this is optional
             keywords_str = elem.xpath("p[starts-with(.,'KEYWORDS:')]")[0].text
             keywords = list()
-            for kw in keywords_str[10:].split(","): keywords.append(kw.strip())
+            KEYWORD_DELIMITER = ","
+            if ";" in keywords_str:
+                KEYWORD_DELIMITER = ";"
+            for kw in keywords_str[10:].split(KEYWORD_DELIMITER): keywords.append(kw.strip())
             return keywords
         except IndexError:
             return None

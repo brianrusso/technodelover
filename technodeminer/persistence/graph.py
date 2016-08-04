@@ -4,8 +4,8 @@ ARANGODB_NAME = "technodeminer"
 SBIR_LOC = "/home/brian/technodeminer/data/sbir/sbirs.xlsx"
 
 def connect_to_arango():
-
     a = Arango(host="localhost", port=8529, username='root', password='joker')
+    #a = Arango(host="10.11.32.141", port=8080, username='ctv', password='joker13')
     try:
         user_info = dict()
         user_info['username'] = 'root'

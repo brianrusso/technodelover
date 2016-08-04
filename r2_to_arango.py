@@ -6,7 +6,8 @@ from rq import Queue
 r2_files = get_filenames('/media/sf_Data/CTV_R2')
 
 if __name__ == '__main__':
-    q= Queue(connection=Redis())
+    q= Queue('r2_load', connection=Redis())
     for file in r2_files:
-        q.enqueue(r2file_to_arango, file)
-        print "Loading %s" % (file)
+        if file.lower().endswith(".xml"):
+            q.enqueue(r2file_to_arango, file)
+            print "Loading %s" % (file)

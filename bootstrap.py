@@ -3,8 +3,10 @@ import requests
 from lxml import etree
 import urlparse
 from technodeminer.solicitation.model import HTMLSolicitationReader, OldHTMLSolicitationReader
-from technodeminer.persistence.graph import connect_to_arango, get_technode_graph
+from technodeminer.persistence.graph import connect_to_arango, get_technode_graph, build_collections
 from technodeminer.solicitation.listing import ListingReader, AgencyReader, listing_to_graph
+SBIR_LOC = "/home/brian/technodeminer/data/sbir/sbirs.xlsx"
+from technodeminer.sbir import SBIRReader
 from redis import Redis
 from rq import Queue
 import time
@@ -30,20 +32,29 @@ def load_listings_from_file(filename):
     with open(filename,'r') as fd:
         return json.load(fd)
 
+def load_sbir_contracts(graph):
+    # init sbir's
+    print "Loading XLS"
+    reader = SBIRReader(SBIR_LOC)
+    print "Loading contracts into arango"
+    for contract in reader:
+        graph.create_vertex("contracts", contract)
+
+
+
 def get_listings_from_web():
     return ListingReader()
 
 if __name__ == '__main__':
-    q= Queue(connection=Redis())
+    sque = Queue('solicitation_load', connection=Redis())
     db = connect_to_arango()
+    build_collections()
     graph = get_technode_graph(db)
-    if True:
-        print "Building list of listings"
-        listings = load_listings_from_file('/home/brian/technodeminer/local_listings.json')
-        print "Getting agency listings"
-        for listing in listings:
-            print "Adding %s to job q" % (listing['ComponentURL'])
-            q.enqueue(listing_to_graph, listing, graph, db)
-    # run association
-    else:
-        associate_solicitation_contract()
+    # Load SBIR Contracts before Solicitations
+    #load_sbir_contracts(graph)
+    print "Building list of listings"
+    listings = load_listings_from_file('/home/brian/technodeminer/local_listings.json')
+    print "Enqueing solicitation load tasks"
+    for listing in listings:
+        print "Adding %s to job q" % (listing['ComponentURL'])
+        sque.enqueue(listing_to_graph, listing, graph, db)
