@@ -16,6 +16,7 @@ r2_queries = [{"byear": 2013, "agency": "Air Force", "ba_num": 1},
               {"byear": 2013, "agency": "Air Force", "ba_num": 2},
               {"byear": 2013, "agency": "Air Force", "ba_num": 3}]
 
+r2_2013 = {"byear": 2013}
 # find all the contracts that use the same topic code
 r2_list = []
 for query in r2_queries:
@@ -34,7 +35,25 @@ for query in r2_queries:
             print repr(e) # not much to do about this
 m = Model(r2_list)
 
-
+def r2iterator_to_model(collection, query):
+    r2_list = []
+    for r2 in collection.get_by_example(query):
+        try:
+            strings = [r2['program_desc']]
+            for projid in r2['projects'].keys():
+                try:
+                    strings.append(r2['projects'][projid]['mission_desc'])
+                except KeyError:
+                    pass
+            try:
+                doc = Document(" ".join(strings), name=r2['_id'])
+                r2_list.append(doc)
+            except TypeError as e:
+                print repr(e)
+                print r2['_id']
+        except KeyError as e:
+            print repr(e)
+    return Model(r2_list)
 #    for contract in related_contracts:
 #        graph.create_edge("solicitation_contract_relations", {"_from": solicitation['_id'],
 #                                                              "_to": contract['_id']})

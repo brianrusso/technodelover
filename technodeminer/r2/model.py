@@ -23,18 +23,17 @@ class R2(dict):
             tree = etree.parse(filename)
         except XMLSyntaxError:
             raise InvalidR2Exception("Malformed XML in %s" % filename)
-        return R2(tree, filename)
+        return R2.from_xmltree(tree, url=filename)
 
     @staticmethod
     def from_str(str):
         tree = etree.fromstring(str)
-        return R2(tree)
+        return R2.from_xmltree(tree)
 
     def to_arango(self, colname='r2_exhibits'):
         db = connect_to_arango()
         graph = get_technode_graph(db)
         graph.create_vertex(colname, self)
-
 
     @staticmethod
     def build_projects(project_elements):
@@ -64,52 +63,66 @@ class R2(dict):
             projects[key] = proj
         return projects
 
-    def get_penum(self):
-        return self.root.find(".//r2:ProgramElementNumber", self.root.nsmap).text
+    @staticmethod
+    def build_penum(root):
+        return root.find(".//r2:ProgramElementNumber", root.nsmap).text
 
-    def get_petitle(self):
-        return self.root.find(".//r2:ProgramElementTitle", self.root.nsmap).text
+    @staticmethod
+    def build_petitle(root):
+        return root.find(".//r2:ProgramElementTitle", root.nsmap).text
 
-    def get_byear(self):
-        return int(self.root.find(".//r2:BudgetYear", self.root.nsmap).text)
+    @staticmethod
+    def build_byear(root):
+        return root.find(".//r2:BudgetYear", root.nsmap).text
 
-    def get_ap_code(self):
-        return int(self.root.find(".//r2:AppropriationCode", self.root.nsmap).text)
+    @staticmethod
+    def build_ap_code(root):
+        return root.find(".//r2:AppropriationCode", root.nsmap).text
 
-    def get_ba_num(self):
-        return int(self.root.find(".//r2:BudgetActivityNumber", self.root.nsmap).text)
+    @staticmethod
+    def build_ba_num(root):
+        return int(root.find(".//r2:BudgetActivityNumber", root.nsmap).text)
 
-    def get_agency(self):
-        return self.root.find(".//r2:ServiceAgencyName", self.root.nsmap).text
+    @staticmethod
+    def build_agency(root):
+        return root.find(".//r2:ServiceAgencyName", root.nsmap).text
 
-    def get_program_desc(self):
+    @staticmethod
+    def build_program_desc(root):
         try:  # this appears to be optional since some lack it
-            return self.root.find(".//r2:ProgramElementMissionDescription", self.root.nsmap).text.strip()
+            return root.find(".//r2:ProgramElementMissionDescription", root.nsmap).text.strip()
         except AttributeError:
             return None
 
-    def __init__(self, tree, url=None):
+    def __init__(self):
         super(R2, self).__init__()
-        self.root = tree.getroot()
-        if 'proc' in self.root.nsmap:
+
+    @staticmethod
+    def from_xmltree(tree, url=None):
+        new_r2 = R2()
+        root = tree.getroot()
+        if 'proc' in root.nsmap:
             raise InvalidR2Exception('Found procurement prefix; likely is a procurement record')
-        elif not 'r2' in self.root.nsmap:
+        elif not 'r2' in root.nsmap:
             raise InvalidR2Exception("R2 Prefix not in root.nsmap")
 
         # singular* (should be anyway)
         if url:
-            self['url'] = url
-        self['pe_num'] = self.get_penum()
-        self['pe_title'] = self.get_petitle()
-        self['byear'] = self.get_byear()
-        self['ap_code'] = self.get_ap_code()
-        self['ba_num'] = self.get_ba_num()
-        self['agency'] = self.get_agency()
-        self['program_desc'] = self.get_program_desc()
+            new_r2['url'] = url
+        new_r2['pe_num'] = new_r2.build_penum(root)
+        new_r2['pe_title'] = new_r2.build_petitle(root)
+        new_r2['byear'] = new_r2.build_byear(root)
+        new_r2['ap_code'] = new_r2.build_ap_code(root)
+        new_r2['ba_num'] = new_r2.build_ba_num(root)
+        new_r2['agency'] = new_r2.build_agency(root)
+        new_r2['program_desc'] = new_r2.build_program_desc(root)
 
         # plural
-        self['projects'] = self.build_projects(self.root.findall(".//r2:Project", self.root.nsmap))
+        new_r2['projects'] = new_r2.build_projects(root.findall(".//r2:Project", root.nsmap))
 
+        # all text
+        #new_r2['all_text'] = new_r2.get_text()
+        return new_r2
     #def __repr__(self):
     #    return self.pe_num + "(" + self.pe_title + ")"
 
@@ -122,7 +135,7 @@ class R2(dict):
         return output
 
     def as_pattern_doc(self):
-        doc = Document(self.get_text(), name=self.get_penum(), type="R2")
+        doc = Document(self.get_text(), name=self['pe_num'], type="R2")
         return doc
 
     def to_json_file(self, filename):

@@ -19,25 +19,25 @@ def r2_file_2():  # this one has a pe mission desc
 
 
 def test_penum(r2_file):
-    assert r2_file.get_penum() == '0607828J'
+    assert r2_file['pe_num'] == '0607828J'
 
 
 def test_petitle(r2_file):
-    assert r2_file.get_petitle() == 'Joint Integration & Interoperability'
+    assert r2_file['pe_title'] == 'Joint Integration & Interoperability'
 
 
 def test_byear(r2_file):
-    assert r2_file.get_byear() == '2017'
+    assert r2_file['byear'] == '2017'
 
 
 def test_ap_code(r2_file):
-    assert r2_file.get_ap_code() == '0400'
+    assert r2_file['ap_code'] == '0400'
 
 
 def test_ba_num(r2_file):
-    assert r2_file.get_ba_num() == '7'
+    assert r2_file['ba_num'] == 7
 
 
 def test_agency(r2_file):
-    assert r2_file.get_agency() == 'The Joint Staff'
+    assert r2_file['agency'] == 'The Joint Staff'
 
