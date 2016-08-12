@@ -28,7 +28,7 @@ def associate_solicitation_contract():
 
 
 def load_listings_from_file(filename):
-    with open(filename,'r') as fd:
+    with open(filename, 'r') as fd:
         return json.load(fd)
 
 def load_sbir_contracts(graph):

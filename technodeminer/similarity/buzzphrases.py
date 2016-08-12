@@ -5,6 +5,9 @@ from pattern.en import parsetree, singularize
 from collections import Counter
 import unicodedata
 import csv
+import farmhash
+
+MIN_NGRAM_LENGTH = 3
 
 def build_contract_list():
     db = connect_to_arango()
@@ -43,14 +46,15 @@ def regularise_key(str):
 # counts ngrams > 2, return as dict
 # if it starts with one of the stopwords (articles), require it be 1 word longer
 # regularise keys (lowercase + singularize)
-def count_noun_phrases(nphrases, text, minlength=2):
+def count_noun_phrases(nphrases, text, minlength=MIN_NGRAM_LENGTH):
 
     np_dict = {}
     for np in nphrases:
         # if NP is long enough
-        if len(np.words) > minlength:
+        if len(np.words) >= minlength:
             keystr = regularise_key(np.string)
-            np_dict[keystr] = text.count(np.string)
+            if len(keystr.split(" ")) >= minlength: # if still long enough after regularisation?
+                np_dict[keystr] = text.count(np.string)
     return np_dict
 
 
@@ -117,6 +121,10 @@ def dict_to_tuple_list(dict_of_counts):
         count_list.append((k, dict_of_counts[k]))
     return count_list
 
+# Mmm hash-browns!
+def get_hash_for_key(key):
+    return str(farmhash.hash64(key.encode('ascii','ignore')))
+
 
 def dict_to_list_of_dicts(dict_of_counts):
     term_list = []
@@ -124,6 +132,7 @@ def dict_to_list_of_dicts(dict_of_counts):
         item = {}
         item['count'] = dict_of_counts[k]
         item['term'] = k
+        item['_key'] = get_hash_for_key(k)
         term_list.append(item)
     return term_list
 
@@ -131,16 +140,16 @@ def dict_to_list_of_dicts(dict_of_counts):
 # input is a list of dicts
 def terms_to_arango(terms):
     db = connect_to_arango()
-    graph = get_technode_graph(db)
+    col = db.col("tech_terms")
     for term in terms:
-        graph.create_vertex("tech_terms", term)
+        col.create_document(term)
 
 
 def bootstrap_techterms():
     contract_list = build_contract_list()
     np_counts = count_nps(contract_list[0:500], 'abstract')
     hicounts = remove_low_count_words(np_counts)
-    terms = dict_to_tuple_list(hicounts)
+    terms = dict_to_list_of_dicts(hicounts)
     terms_to_arango(terms)
 
 
