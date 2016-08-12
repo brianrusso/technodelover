@@ -28,20 +28,21 @@ def build_collections():
     db = connect_to_arango()
     graph = get_technode_graph(db)
 
+    for collection in ["r2_exhibits", "contracts", "solicitations"]:
+        try:
+            db.create_collection(collection)
+            graph.create_vertex_collection(collection)
+        except Exception as e:
+            print repr(e)
     try:
-        db.create_collection("r2_exhibits")
-        graph.create_vertex_collection("r2_exhibits")
-        db.create_collection("contracts")
-        graph.create_vertex_collection("contracts")
         db.create_collection("r2_contract_relations", is_edge=True)
         graph.create_edge_definition(edge_collection="r2_contract_relations",
                                      from_vertex_collections=["r2_exhibits"],
                                      to_vertex_collections=["contracts"])
+        db.create_collection("tech_terms")
     except Exception as e:
         print repr(e)
     try:
-        db.create_collection("solicitations")
-        graph.create_vertex_collection("solicitations")
         db.create_collection("solicitation_contract_relations", is_edge=True)
         graph.create_edge_definition(edge_collection="solicitation_contract_relations",
                                      from_vertex_collections=["solicitations"],

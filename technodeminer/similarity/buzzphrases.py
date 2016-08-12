@@ -19,36 +19,40 @@ def build_contract_list():
         if 'abstract' in r2:
             contract_lite['abstract'] = r2['abstract']
         contract_list.append(contract_lite)
-
     return contract_list
 #np_counts = count_nps(contract_list[0:500], 'abstract')
 
-# there's a minor bug in pattern..
+
+# a/an/the/etc - not news articles!
+# assumes lowercase
+def remove_articles(str):
+    STOPWORDS = ['a', 'an', 'the', 'this']
+    if any(str.startswith(stopword) for stopword in STOPWORDS):
+        str = " ".join(str.split(" ")[1:])
+    return str
+
+
 def regularise_key(str):
-    str = fix_comma(str)
     str = str.lower()
+    str = remove_articles(str)
     str = singularize(str)
     return str
 
 
+# this counts noun phrases in 1 document
 # counts ngrams > 2, return as dict
 # if it starts with one of the stopwords (articles), require it be 1 word longer
 # regularise keys (lowercase + singularize)
 def count_noun_phrases(nphrases, text, minlength=2):
-    stopwords = ['a', 'an', 'the', 'this']
-    #text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore')
+
     np_dict = {}
     for np in nphrases:
-        this_string = np.string
         # if NP is long enough
         if len(np.words) > minlength:
-            # if it starts with an article..
-            if any(this_string.startswith(stopword) for stopword in stopwords):
-                if len(np.words) > (minlength+1):
-                    np_dict[regularise_key(this_string)] = text.count(this_string)
-            else:
-                np_dict[regularise_key(this_string)] = text.count(this_string)
+            keystr = regularise_key(np.string)
+            np_dict[keystr] = text.count(np.string)
     return np_dict
+
 
 # add input to output; given dictionaries where key = ngram, value = count (int)
 def add_countdict(outputdict, inputdict):
@@ -58,6 +62,20 @@ def add_countdict(outputdict, inputdict):
         else:
             outputdict[k] = inputdict[k]
     return outputdict
+
+
+# regularise dictionary
+def clean_dict(dict):
+    for k in dict.keys():
+        cleankey = regularise_key(k)
+        if k != cleankey:
+            if cleankey in dict:
+                dict[cleankey] += dict[k]
+                del dict[k]
+            else:
+                dict[cleankey] = dict[k]
+                del dict[k]
+    return dict
 
 
 # count n-grams >2, given list of dicts, with key referencing the key in the dict that contains the text
@@ -80,21 +98,51 @@ def count_nps(list, key):
                 print "Error processing %s." % (item['contract'])
     return np_counts
 
+
 def remove_low_count_words(inputdict):
     for item in inputdict.keys():
         if inputdict[item] <= 1:
             del inputdict[item]
     return inputdict
 
+
 def save_countdict_to_csv(dict, filename):
     tuplelist = dict_to_tuple_list(dict)
     tuplelist_to_csv(tuplelist, filename)
+
 
 def dict_to_tuple_list(dict_of_counts):
     count_list = []
     for k in dict_of_counts.keys():
         count_list.append((k, dict_of_counts[k]))
     return count_list
+
+
+def dict_to_list_of_dicts(dict_of_counts):
+    term_list = []
+    for k in dict_of_counts.keys():
+        item = {}
+        item['count'] = dict_of_counts[k]
+        item['term'] = k
+        term_list.append(item)
+    return term_list
+
+
+# input is a list of dicts
+def terms_to_arango(terms):
+    db = connect_to_arango()
+    graph = get_technode_graph(db)
+    for term in terms:
+        graph.create_vertex("tech_terms", term)
+
+
+def bootstrap_techterms():
+    contract_list = build_contract_list()
+    np_counts = count_nps(contract_list[0:500], 'abstract')
+    hicounts = remove_low_count_words(np_counts)
+    terms = dict_to_tuple_list(hicounts)
+    terms_to_arango(terms)
+
 
 def tuplelist_to_csv(data, filename):
     # FIXME: should make this output unicode, being lazy..
