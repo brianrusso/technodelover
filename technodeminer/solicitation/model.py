@@ -5,7 +5,11 @@ from technodeminer.util import nonelessdict, remove_nbsp, remove_newlines, is_st
 import re
 
 def process_tech_area_str(str):
-    tech_areas = str.split(",")
+    if ";" in str:
+        DELIMITER = ";"
+    else:
+        DELIMITER = ","
+    tech_areas = str.split(DELIMITER)
     tech_areas = [x.strip() for x in tech_areas]
     return tech_areas
 
