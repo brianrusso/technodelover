@@ -1,0 +1,112 @@
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Graphosaurus demo: Eve Online Map</title>
+  <style>
+    #frame {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 0;
+    }
+
+    #label {
+      position: absolute;
+      top: 15;
+      left: 15;
+      z-index: 1;
+      color: white;
+      font-family: sans-serif;
+    }
+
+    #title {
+      position: absolute;
+      top: 15;
+      right: 15;
+      z-index: 1;
+      color: white;
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+<div id="frame"></div>
+
+<div id="label"></div>
+<div id="title">World of Budgetcraft</div>
+
+<script src="/static/js/vendor/graphosaurus.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+<script>
+
+my_url = "http://maunaloa:5000/v1/keyphrases/waveform generation/2-3dgraph.json";
+var graph_data = (function () {
+    var graph_data = null;
+    $.ajax({
+        'async': false,
+        'global': false,
+        'url': my_url,
+        'dataType': "json",
+        'success': function (data) {
+            graph_data = data;
+        }
+    });
+    return graph_data;
+})();
+
+var get_color = function (type) {
+  var color;
+
+  switch (type) {
+
+    case "contracts": color = "green"; break;
+    case "r2_exhibits": color = "red"; break;
+    case "keyphrases": color = "orange"; break;
+    case "solicitations": color = "blue"; break;
+
+    default: color = 0xffffff;
+  }
+
+  return color;
+};
+
+graph = G.graph({
+  nodeImage: "/static/images/disc.png",
+  nodeImageTransparent: true,
+  antialias: true,
+  bgColor: "black",
+  edgeWidth: 1.5,
+  nodeSize: 20,
+  hover: function (node) { $("#label").text("Item: " + node.name); },
+});
+
+for (var i = 0; i < graph_data.vertices.length; i++) {
+  var vertex = graph_data.vertices[i];
+  var node_name = vertex[0];
+  var coords = vertex.slice(1,4);
+
+  var collection_type = node_name.split("/")[0];
+
+  var node = G.node(coords, {
+    id: node_name,
+    color: get_color(collection_type),
+  });
+  node.name = node_name
+  node.addTo(graph);
+}
+
+for (var i = 0; i < graph_data.edges.length; i++) {
+  G.edge(graph_data.edges[i], {
+    color: 0x0000aa,
+  }).addTo(graph);
+}
+
+graph.renderIn('frame');
+</script>
+</body>
+</html>

@@ -33,21 +33,52 @@ def get_authorx(key):
     return dumps(_get_keyphrase_neighbors("keyphrases/"+(get_hash_for_key(key))))
 
 
-@keyphrases.route('/v1/<key>/<distance>-neighbors.json')
+@keyphrases.route('/v1/<collection>/<key>/<distance>-neighbors.json')
 def get_author_neighbors(key, collection, distance):
     return dumps(list(_get_variable_neighborhood(collection+"/"+get_hash_for_key(key), int(distance))))
+
 
 @keyphrases.route('/v1/<collection>/<key>/<distance>-graph.json')
 def get_author_neighbors_nx(key, collection, distance):
     return dumps(json_graph.node_link_data(_get_variable_neighborhood_as_nx(collection+"/"+get_hash_for_key(key), int(distance))))
 
+@keyphrases.route('/v1/<collection>/<key>/<distance>-3dgraph.json')
+def get_author_neighbors_nx_3d(key, collection, distance):
+    nxgraph = _get_variable_neighborhood_as_nx(collection+"/"+get_hash_for_key(key), int(distance))
+    nx_3dgraph = nxgraph_to_graphosaurus(nxgraph)
+    return nx_3dgraph
 
-# HTML
+def nxgraph_to_graphosaurus(nxgraph):
+    output = {}
+    output["vertices"] = make_vertices_for_3dlayout(nxgraph)
+    output["edges"] = edge_tuples_to_array(nxgraph)
+    return dumps(output)
+
+# vertices for graphosaurus
+def make_vertices_for_3dlayout(nxgraph):
+    nx_3dlayout = nx.layout.spring_layout(nxgraph, dim=3)
+    # need to create an array of arrays where last 3 are xyz, first is key
+    output = []
+    for k,v in nx_3dlayout.iteritems():
+        this_elem = [k] + v.tolist()
+        output.append(this_elem)
+    return output
+
+# edges for graphosaurus
+# need to convert array of tuples into array of arrays
+def edge_tuples_to_array(nxgraph):
+    output = [[elem[0]] + [elem[1]] for elem in nxgraph.edges()]
+    return output
+
+@keyphrases.route('/graphosaurus.html')
+def graphosaurus():
+    key = "contracts/375757258483"
+    distance = 1
+    return render_template('keyphrases/graphosaurus.html', key=key, distance=int(distance))
 
 @keyphrases.route('/v1/keyphrases/<key>/<distance>-graph.html')
 def get_author_neighbors_nx_force(key, distance):
     return render_template('keyphrases/node_forcegraph.html', key=key, distance=int(distance))
-
 
 
 def _get_keyphrase_neighbors(key):
