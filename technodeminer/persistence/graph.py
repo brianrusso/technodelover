@@ -1,11 +1,10 @@
 from arango import Arango
+from technodeminer.config import *
 
-ARANGODB_NAME = "technodeminer"
-SBIR_LOC = "/home/brian/technodeminer/data/sbir/sbirs.xlsx"
+
 
 def connect_to_arango():
-    a = Arango(host="localhost", port=8529, username='root', password='joker')
-    #a = Arango(host="10.11.32.141", port=8080, username='ctv', password='joker13')
+    a = Arango(host=ARANGO_HOSTNAME, port=ARANGO_PORT, username='root', password='joker')
     try:
         user_info = dict()
         user_info['username'] = 'root'
@@ -19,16 +18,16 @@ def connect_to_arango():
 
 def get_technode_graph(db):
     try:
-        graph = db.create_graph("technode_graph")
+        graph = db.create_graph(GRAPH_NAME)
     except:
-        graph = db.graph("technode_graph")
+        graph = db.graph(GRAPH_NAME)
     return graph
 
 def build_collections():
     db = connect_to_arango()
     graph = get_technode_graph(db)
 
-    for collection in ["r2_exhibits", "contracts", "solicitations", "keyphrases"]:
+    for collection in [R2_COLLECTION, CONTRACT_COLLECTION, SOLICITATION_COLLECTION, KEYPHRASE_COLLECTION]:
         try:
             db.create_collection(collection)
             graph.create_vertex_collection(collection)
@@ -36,37 +35,37 @@ def build_collections():
             print repr(e)
     # relation between solicitation and contract (explicit, based on topic code)
     try:
-        db.create_collection("solicitation_contract_relations", is_edge=True)
-        graph.create_edge_definition(edge_collection="solicitation_contract_relations",
-                                     from_vertex_collections=["solicitations"],
-                                     to_vertex_collections=["contracts"])
+        db.create_collection(SOLICITATION_CONTRACT_RELATIONS, is_edge=True)
+        graph.create_edge_definition(edge_collection=SOLICITATION_CONTRACT_RELATIONS,
+                                     from_vertex_collections=[SOLICITATION_COLLECTION],
+                                     to_vertex_collections=[CONTRACT_COLLECTION])
     except Exception as e:
         print repr(e)
 
     # relation between terms and r2s
     try:
-        db.create_collection("keyphrase_r2_relations", is_edge=True)
-        graph.create_edge_definition(edge_collection="keyphrase_r2_relations",
-                                     from_vertex_collections=["keyphrases"],
-                                     to_vertex_collections=["r2_exhibits"])
+        db.create_collection(KEYPHRASE_R2_RELATIONS, is_edge=True)
+        graph.create_edge_definition(edge_collection=KEYPHRASE_R2_RELATIONS,
+                                     from_vertex_collections=[KEYPHRASE_COLLECTION],
+                                     to_vertex_collections=[R2_COLLECTION])
     except Exception as e:
         print repr(e)
 
     # relation between terms and solicitations
     try:
-        db.create_collection("keyphrase_solicitation_relations", is_edge=True)
-        graph.create_edge_definition(edge_collection="keyphrase_solicitation_relations",
-                                     from_vertex_collections=["keyphrases"],
-                                     to_vertex_collections=["solicitations"])
+        db.create_collection(KEYPHRASE_SOLICITATION_RELATIONS, is_edge=True)
+        graph.create_edge_definition(edge_collection=KEYPHRASE_SOLICITATION_RELATIONS,
+                                     from_vertex_collections=[KEYPHRASE_COLLECTION],
+                                     to_vertex_collections=[SOLICITATION_COLLECTION])
     except Exception as e:
         print repr(e)
 
     # relation between terms and contracts
     try:
-        db.create_collection("keyphrase_contract_relations", is_edge=True)
-        graph.create_edge_definition(edge_collection="keyphrase_contract_relations",
-                                     from_vertex_collections=["keyphrases"],
-                                     to_vertex_collections=["contracts"])
+        db.create_collection(KEYPHRASE_CONTRACT_RELATIONS, is_edge=True)
+        graph.create_edge_definition(edge_collection=KEYPHRASE_CONTRACT_RELATIONS,
+                                     from_vertex_collections=[KEYPHRASE_COLLECTION],
+                                     to_vertex_collections=[CONTRACT_COLLECTION])
     except Exception as e:
         print repr(e)
     return graph

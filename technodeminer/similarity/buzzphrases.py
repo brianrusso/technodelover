@@ -23,6 +23,7 @@ def process_doc_for_keyphrases(nlp, db, graph, edge_collection, doc_text, doc_id
         pass
 
 def store_keyphrases_for_doc(db, graph, edge_collection, keyphrases, doc_id, vetted=False):
+    keyphrases = regularise_keys(keyphrases)
     for keyphrase in keyphrases:
         kp_id = put_keyphrase(keyphrase, db, vetted)
         try:
@@ -141,7 +142,7 @@ def get_hash_for_key(key):
 
 # where the magic happens (spaCy implementation)
 def extract_keyphrases_from_text(text, spacy_en):
-    str = preprocess_text(text, fix_unicode=True, lowercase=True, transliterate=True, no_punct=True)
+    str = preprocess_text(text, fix_unicode=True, lowercase=True, transliterate=True)
     noun_phrases = [np.text for np in spacy_en(str).noun_chunks]
     # remove ones too short, lemmatize, etc..
     cleankeys = regularise_keys(noun_phrases)
@@ -181,4 +182,5 @@ def regularise_keys(keylist):
 def regularise_key(str):
     str = remove_articles(str)
     str = singularize(str)
+    str = str.lower()
     return str

@@ -118,8 +118,8 @@ graph = G.graph({
   bgColor: "black",
   edgeWidth: 1.5,
   nodeSize: 15,
-  //hover: function (node) { $("#label").text("Item: " + node.name); console.log(node.name); },
-  //click: function (node) { window.open("http://10.11.18.87:8529/_db/technodeminer/_admin/aardvark/standalone.html#collection/" + node._id); },
+  hover: function (node) { $("#label").text("Item: " + node.name); console.log(node.name); },
+  click: function (node) { window.open("http://10.11.18.87:8529/_db/technodeminer/_admin/aardvark/standalone.html#collection/" + node.name); },
 });
 
 graph.renderIn('frame');
