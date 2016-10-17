@@ -237,9 +237,6 @@ class HTMLSolicitationReader(Sequence):
 
 
     def get_solicitation_elems(self):
-        # this gives list of divs
-#        xpath = "//div[preceding-sibling::comment()[. = ' begin-topic-desc ']]" \
-#                "[following-sibling::comment()[. = ' end-topic-desc ']]"
         xpath = "//div[preceding-sibling::comment()[contains(.,'begin-topic-desc')]]"
         elems = self.tree.xpath(xpath)
         return elems[1:]  # first one is a header
@@ -333,12 +330,6 @@ class HTMLSolicitationReader(Sequence):
             elif len(elem.xpath('table/tr/td')) >0:  # try the table version, e.g. darpa153-dp2.html
                 sol['topic'] = elem.xpath('table/tr/td')[0].text_content().strip()
                 title = elem.xpath('table/tr/td')[1].text_content().strip()
-#                if title.startswith("OBJECTIVE"): # some are messed up like this, e.g. af161
-#                    sol['objective'] = title
-#                    sol['tech_areas'] = process_tech_area_str(elem.xpath('div')[0].text)
-#                    sol['topic'] = "ERROR: Malformed Topic"
-#                    sol['title'] = "ERROR: Malformed Title"
-#                    broken_topic = True
             if title:
                 if any(s in title for s in ["has been removed", "has been deleted"]):
                     pass
